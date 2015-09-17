@@ -6,7 +6,7 @@ city:   Charlottetown
 guid:   tag:soundcloud,2010:tracks/215345481
 soundcloud_id: 215345481
 mp3_enclosure: http://feeds.soundcloud.com/stream/215345481-grownupsreadthingstheywroteaskids-s2e16.mp3
-show_notes_url: http://www.grownupsreadthingstheywroteaskids.com/2015/07/episode-216-today-is-breeding-day-charlottetown/
+redirect_from:  /2015/07/episode-216-today-is-breeding-day-charlottetown/
 ---
 
 Poetry about the female reproductive system, a violent Easter story, and accidental animal erotica. Recorded live at The Guild in Charlottetown, PE.

@@ -22,3 +22,10 @@ defaults:
       path: "" # empty string for all files
     values:
       layout: "episode"
+  -
+    scope:
+      path: ""
+      type: posts
+      layout: "episode"
+    values:
+      permalink: /episode/:title/
