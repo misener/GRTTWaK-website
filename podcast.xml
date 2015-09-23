@@ -26,6 +26,7 @@ layout: null
         </guid>
         {% endif %}
         <description>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</description>
+        <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
         <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
       </item>
     {% endfor %}
