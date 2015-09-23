@@ -3,6 +3,7 @@
 number: 211
 quote:  Stabbing each other with our insecurities
 city:   Vancouver
+permalink: /episode/211/
 guid:   tag:soundcloud,2010:tracks/204842196
 soundcloud_id: 204842196
 mp3_enclosure: http://feeds.soundcloud.com/stream/204842196-grownupsreadthingstheywroteaskids-s2e11.mp3

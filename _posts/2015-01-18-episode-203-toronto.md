@@ -2,6 +2,7 @@
 number: 203
 quote:  My new nickname is 'mouth'
 city:   Toronto
+permalink: /episode/203/
 guid:   tag:soundcloud,2010:tracks/186713413
 soundcloud_id: 186713413
 mp3_enclosure: http://feeds.soundcloud.com/stream/186713413-grownupsreadthingstheywroteaskids-s2e03.mp3

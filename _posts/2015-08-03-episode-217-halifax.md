@@ -3,6 +3,7 @@
 number: 217
 quote:  I'm crying while I write this letter
 city:   Halifax
+permalink: /episode/217/
 guid:   tag:soundcloud,2010:tracks/217498479
 soundcloud_id:  217498479
 mp3_enclosure:  http://feeds.soundcloud.com/stream/217498479-grownupsreadthingstheywroteaskids-s2e17.mp3

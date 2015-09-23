@@ -3,6 +3,7 @@
 number: 210
 quote:  Fires are not nice! Fires hurt!
 city:   Victoria
+permalink: /episode/210/
 guid:   tag:soundcloud,2010:tracks/202704676
 soundcloud_id: 202704676
 mp3_enclosure: http://feeds.soundcloud.com/stream/202704676-grownupsreadthingstheywroteaskids-s2e10.mp3

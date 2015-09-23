@@ -3,6 +3,7 @@ categories: episodes
 number: 220
 quote: We are getting away with murder since you left
 city: Edmonton
+permalink: /episode/220/
 guid: tag:soundcloud,2010:tracks/223729240
 soundcloud_id: 223729240
 mp3_enclosure: http://feeds.soundcloud.com/stream/223729240-grownupsreadthingstheywroteaskids-s2e20.mp3

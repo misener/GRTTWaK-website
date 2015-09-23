@@ -3,6 +3,7 @@
 number: 214
 quote:  Someone pooed in the pool
 city:   Toronto
+permalink: /episode/214/
 guid:   tag:soundcloud,2010:tracks/211370370
 soundcloud_id: 211370370
 mp3_enclosure:	http://feeds.soundcloud.com/stream/211370370-grownupsreadthingstheywroteaskids-s2e14.mp3

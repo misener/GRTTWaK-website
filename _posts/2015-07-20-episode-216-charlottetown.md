@@ -3,6 +3,7 @@
 number: 216
 quote:  Today is breeding day
 city:   Charlottetown
+permalink: /episode/216/
 guid:   tag:soundcloud,2010:tracks/215345481
 soundcloud_id: 215345481
 mp3_enclosure: http://feeds.soundcloud.com/stream/215345481-grownupsreadthingstheywroteaskids-s2e16.mp3

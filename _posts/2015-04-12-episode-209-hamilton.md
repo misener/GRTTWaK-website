@@ -3,6 +3,7 @@
 number: 209
 quote:  Stupit and dumb and especially ugly
 city:   Hamilton
+permalink: /episode/209/
 guid:   tag:soundcloud,2010:tracks/200535727
 soundcloud_id: 200535727
 mp3_enclosure: http://feeds.soundcloud.com/stream/200535727-grownupsreadthingstheywroteaskids-s2e09.mp3

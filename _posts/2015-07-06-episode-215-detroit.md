@@ -3,6 +3,7 @@
 number: 215
 quote:  It's not a cult!
 city:   Detroit
+permalink: /episode/215/
 guid:   tag:soundcloud,2010:tracks/213376083
 soundcloud_id: 213376083
 mp3_enclosure:	http://feeds.soundcloud.com/stream/213376083-grownupsreadthingstheywroteaskids-s2e15.mp3

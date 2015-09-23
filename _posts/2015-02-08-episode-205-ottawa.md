@@ -3,6 +3,7 @@
 number: 205
 quote:  Hayrides and other indignities
 city:   Ottawa
+permalink: /episode/205/
 guid:   tag:soundcloud,2010:tracks/190185567
 soundcloud_id: 190185567
 mp3_enclosure: http://feeds.soundcloud.com/stream/190185567-grownupsreadthingstheywroteaskids-s2e05.mp3

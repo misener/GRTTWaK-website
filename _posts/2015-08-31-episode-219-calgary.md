@@ -3,6 +3,7 @@ categories: episodes
 number: 219
 quote: Why is Dad being a bum?
 city: Calgary
+permalink: /episode/219/
 guid:   tag:soundcloud,2010:tracks/221642145
 soundcloud_id: 221642145
 mp3_enclosure: http://feeds.soundcloud.com/stream/221642145-grownupsreadthingstheywroteaskids-s2e19.mp3
