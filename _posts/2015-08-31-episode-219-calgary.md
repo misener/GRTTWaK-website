@@ -14,11 +14,5 @@ An elementary school detective agency, teenage infidelity, and an urgent desire 
 
 ## Links
 - [Photos from our Calgary event](https://goo.gl/8wYlh0)
-- [Rate GRTTWaK in iTunes](http://goo.gl/83A07W)
-- [Join the mailing list](http://goo.gl/5cbGT3) 
-- [Upcoming live events](http://goo.gl/RgVZT9)
-
-## Social
-- [Facebook](http://facebook.com/grownupsreadthingstheywroteaskids?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
-- [Twitter](http://twitter.com/GRTTWaK?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
-- [Instagram](http://instagram.com/GRTTWaK?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

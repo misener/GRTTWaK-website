@@ -12,4 +12,5 @@ redirect_from:  /2015/02/206-mucus-problem-toronto/
 
 Teenage makeout fantasies, financial advice from a 9-year-old, and what it’s like to be friend-dumped, twice. Recorded live at The Garrison in Toronto, Ontario.
 
-?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.episode.number }}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

@@ -12,4 +12,5 @@ redirect_from:  /2015/03/episode-207-half-baked-psycho-pervert-banff/
 
 Phantom killer kittens, a fight over an $800  phone bill, and an island with no babes. Recorded live at The Club in Banff, Alberta.
 
-?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.episode.number }}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

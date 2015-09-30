@@ -15,11 +15,5 @@ A report on flying cows, an acrostic poem music video request, and a collection 
 
 ## Links
 - [Photos from our Edmonton event](https://www.facebook.com/media/set/?set=a.10153309299673600.1073741843.121054468599&type=3)
-- [Rate GRTTWaK in iTunes](http://goo.gl/83A07W)
-- [Join the mailing list](http://goo.gl/5cbGT3) 
-- [Upcoming live events](http://goo.gl/RgVZT9)
-
-## Social
-- [Facebook](http://facebook.com/grownupsreadthingstheywroteaskids?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
-- [Twitter](http://twitter.com/GRTTWaK?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
-- [Instagram](http://instagram.com/GRTTWaK?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

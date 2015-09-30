@@ -12,4 +12,5 @@ redirect_from:  /2015/06/214-lets-talk-about-sex-i-havent-had-it-toronto/
 
 Letters to the tooth fairy, stolen baseball tickets, and advice on keeping (and losing) your virginity. Recorded live at the Gladstone Hotel Ballroom in Toronto, ON.
 
-?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.episode.number }}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

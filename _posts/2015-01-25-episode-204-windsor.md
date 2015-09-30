@@ -12,4 +12,5 @@ redirect_from:  /2015/01/episode-204-dont-even-know-hormones-windsor/
 
 Hot dog obsession, Canada-U.S. relations, and falling in love with a waiter. Recorded live at Phog Lounge in Windsor, Ontario.
 
-?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.episode.number }}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

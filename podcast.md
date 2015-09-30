@@ -12,7 +12,7 @@ Subscribe to *Grownups Read Things They Wrote as Kids* in:
 - [Stitcher](http://links.grownupsreadthingstheywroteaskids.com/stitcher)
 - [Pocket Casts](http://pcasts.in/feed/feeds.grownupsreadthingstheywroteaskids.com/podcast/)
 - [TuneIn](http://links.grownupsreadthingstheywroteaskids.com/tunein)
-- or anywhere else using our [RSS feed](http://feeds.grownupsreadthingstheywroteaskids.com/podcast/)
+- anywhere else using our [RSS feed](http://feeds.grownupsreadthingstheywroteaskids.com/podcast/)
 
 Or [listen to past episodes in our show archives](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/episodes/) or in the player below:
 

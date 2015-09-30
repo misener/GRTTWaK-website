@@ -1,0 +1,3 @@
+- [Facebook](http://facebook.com/grownupsreadthingstheywroteaskids?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
+- [@GRTTWaK on Twitter](http://twitter.com/GRTTWaK?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
+- [@GRTTWaK on Instagram](http://instagram.com/GRTTWaK?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})

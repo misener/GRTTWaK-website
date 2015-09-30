@@ -12,4 +12,5 @@ A bald eagle, war between Canada and China, and lots of French kissing. Recorded
 
 {{ page | web_player:site }}
 
-?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.episode.number }}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

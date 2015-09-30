@@ -14,4 +14,5 @@ Teenage existential angst, a visit with Ronald Reagan, and a few questions about
 
 ## Links
 - [Scans of Le Mauvais Dé (The Evil Dice) by Francois on Facebook.](https://www.facebook.com/Mesklinite/media_set?set=a.438552264228.212558.505739228&type=3)
-{% include boilerplate_episode_links.html%}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

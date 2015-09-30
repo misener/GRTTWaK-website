@@ -11,3 +11,6 @@ redirect_from:  /2015/08/episode-218-be-careful-of-anyone-named-trina-st-johns/
 ---
 
 Childhood revenge fantasies, a fake newspaper article, and a journal entry written directly to God. Recorded live at The Rocket Room in St. John's, NL.
+
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

@@ -24,9 +24,9 @@ Please note that only those who sign up in advance will get free admission, and 
 
 Basically whatever you want, so long as it’s yours and it’s short. Your reading needn’t be funny. It could be bittersweet, or sad, or touching. Here are the three rules that govern what you can read at a GRTTWaK event:
 
-You have to be the one who wrote it, as a kid
-You have to be the one who reads it, as an adult
-It has to be short (less than 5 minutes)
+1. You have to be the one who wrote it, as a kid
+2. You have to be the one who reads it, as an adult
+3. It has to be short (less than 5 minutes)
 
 Time yourself. If you have more than 5 minutes worth of material, pick your favourite piece or two, and read that.
 
