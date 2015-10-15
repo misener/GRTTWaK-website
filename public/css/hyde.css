@@ -123,7 +123,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -131,7 +130,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 
