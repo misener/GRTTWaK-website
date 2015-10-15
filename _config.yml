@@ -1,19 +1,32 @@
-# Site settings
-title: Grownups Read Things They Wrote as Kids
-email: dan@grownupsreadthingstheywroteaskids.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://beta.grownupsreadthingstheywroteaskids.com" # the base hostname & protocol for your site
-twitter_username: GRTTWaK
+# Dependencies
+markdown:         redcarpet
 
-# Build settings
-markdown: kramdown
+redcarpet:
+  extensions: ["tables"]
+
 
 gems:
   - jekyll-redirect-from
+
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Grownups Read Things They Wrote as Kids
+tagline:          'Grownups Read Things They Wrote as Kids'
+description:      'Remembering the good, the bad, and the awkward parts of growing up.'
+url:              http://beta.grownupsreadthingstheywroteaskids.com
+baseurl:          '/'
+
+author:
+  name:           'Dan Misener'
+  url:            https://twitter.com/GRTTWaK
+
+paginate:         5
+
 
 defaults:
   -
