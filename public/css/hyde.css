@@ -70,6 +70,15 @@ html {
   }
 }
 
+@media (max-width: 48em) {
+  .sidebar img {
+    display: inline-block;
+    /* make things managable on iPhones */
+    width: 35%; 
+  }
+}
+
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
