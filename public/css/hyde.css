@@ -59,6 +59,7 @@ html {
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
+
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
@@ -70,13 +71,33 @@ html {
   }
 }
 
-@media (max-width: 48em) {
-  .sidebar img {
-    display: inline-block;
-    /* make things managable on iPhones */
-    width: 35%; 
+
+@media (max-width: 42em) {
+
+  .sidebar {
+    padding-top: 0rem;
+    padding-right: 0rem;
+    padding-left: 0rem;
+    padding-bottom: 0rem;
   }
-}
+
+  .sidebar .container {
+    display: flex;
+    padding-left: 0rem;
+    padding-right: 0rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .sidebar-logo {
+    max-width: 50%;
+    padding-right: 1rem
+  }
+
+  .sidebar-nav {
+    max-width: 50%;
+  }
+} 
 
 
 /* Sidebar links */
