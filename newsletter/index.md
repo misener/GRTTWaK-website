@@ -6,42 +6,32 @@ redirect_from:
 
 ---
 
-Our email newsletter is the first place we announce new live events.
+Our email newsletter is the first place we announce new live events. Sign up!
 
-<form action="http://www.grownupsreadthingstheywroteaskids.com/sendy/subscribe" method="POST" accept-charset="utf-8">
-	<label for="name">Name</label><br>
-	<input type="text" name="name" id="name"><br>
-	<br>
-	<label for="email">Email</label><br>
-	<input type="text" name="email" id="email"><br>
-	<br>
-	<label for="City">City</label><br>
-	<input type="text" name="City" id="City"><br>
-	<br>
-	<input type="hidden" name="list" value="etW6B40hkAJ4FkY9FvApEQ"><br>
-	<input type="submit" name="submit" id="submit"><br>
-</form>
+<form action="http://www.grownupsreadthingstheywroteaskids.com/sendy/subscribe" method="POST" accept-charset="utf-8" class="pure-form pure-form-aligned">
+  <fieldset>
+  <div class="pure-control-group">
+  	<label for="name">Name</label>
+  	<input type="text" name="name" id="name" placeholder="Name">
+  </div>
 
-<form>
-  <div class="form-group">
-    <label for="exampleInputEmail1">Email address</label>
-    <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+  <div class="pure-control-group">
+  	<label for="email">Email</label>
+  	<input type="text" name="email" id="email" placeholder="your@email.com">
   </div>
-  <div class="form-group">
-    <label for="exampleInputPassword1">Password</label>
-    <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+
+  <div class="pure-control-group">
+	 <label for="City">City</label>
+	 <input type="text" name="City" id="City" placeholder="City">
   </div>
-  <div class="form-group">
-    <label for="exampleInputFile">File input</label>
-    <input type="file" id="exampleInputFile">
-    <p class="help-block">Example block-level help text here.</p>
+
+  <div class="pure-controls">
+	 <button type="submit" class="pure-button pure-button-primary" name="submit" id="submit">Submit</button>
   </div>
-  <div class="checkbox">
-    <label>
-      <input type="checkbox"> Check me out
-    </label>
-  </div>
-  <button type="submit" class="btn btn-default">Submit</button>
+
+    <input type="hidden" name="list" value="etW6B40hkAJ4FkY9FvApEQ">
+
+  </fieldset>
 </form>
 
 
