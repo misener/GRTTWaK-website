@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Wait! There’s one more step...
 redirect_from:
   - /mailing-list/one-more-step/

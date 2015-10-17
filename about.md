@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the show
+title: About
 permalink: /about/
 ---
 

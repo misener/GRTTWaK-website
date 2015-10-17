@@ -1,0 +1,7 @@
+- [iTunes / Apple Podcasts](http://links.grownupsreadthingstheywroteaskids.com/itunes)
+- [SoundCloud](http://links.grownupsreadthingstheywroteaskids.com/soundcloud)
+- [Overcast](http://links.grownupsreadthingstheywroteaskids.com/overcast)
+- [Stitcher](http://links.grownupsreadthingstheywroteaskids.com/stitcher)
+- [Pocket Casts](http://pcasts.in/feed/feeds.grownupsreadthingstheywroteaskids.com/podcast/)
+- [TuneIn](http://links.grownupsreadthingstheywroteaskids.com/tunein)
+- anywhere else using our [RSS feed](http://feeds.grownupsreadthingstheywroteaskids.com/podcast/)

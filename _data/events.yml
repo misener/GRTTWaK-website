@@ -5,45 +5,61 @@ upcoming:
   venue:
     name: London Music Club
     address: 470 Colborne Street 
-    city: 'London, ON'
+    city: London
+    province: ON
     url: http://www.londonmusicclub.com/
   signup:
     url: https://ti.to/grttwak/london-2015-october/with/ifitlua8vsc
   tickets:
     url: https://ti.to/grttwak/london-2015-october
+  tito:
+    event: "grttwak/london-2015-october"
+    signup_release: ifitlua8vsc
 
 - date: 2015-10-25 20:00:00
   venue:
     name: The Registry Theatre
     address: 4848 St Laurent Blvd.
-    city: 'Kitchener, ON'
+    city: Kitchener
+    province: ON
     url: http://www.registrytheatre.com/
   signup:
     url: https://ti.to/grttwak/kitchener-2015-october/with/2r5ugwemnee
   tickets:
     url: https://ti.to/grttwak/kitchener-2015-october/
+  tito:
+    event: "grttwak/kitchener-2015-october"
+    signup_release: 2r5ugwemnee
 
 - date: 2015-11-15 20:00:00
   venue:
     name: The Park Theatre
     address: 698 Osborne Street 
-    city: 'Winnipeg, MB'
+    city: 'Winnipeg'
+    province: ON
     url: http://www.parktheatervideo.com/
   signup:
     url: https://ti.to/grttwak/winnipeg-2015-november/with/gwde0vyqbdy
   tickets:
     url: https://ti.to/grttwak/winnipeg-2015-november/
+  tito:
+    event: "grttwak/winnipeg-2015-november"
+    signup_release: gwde0vyqbdy
 
 - date: 2015-11-30 20:00:00
   venue:
     name: La Sala Rossa
     address: 4848 St Laurent Blvd.
-    city: 'Montréal, QC'
+    city: 'Montréal'
+    province: QC
     url: http://lasalarossa.com
   signup:
     url: https://ti.to/grttwak/montreal-2015-november/with/dg0cbloynkg
   tickets:
     url: https://ti.to/grttwak/montreal-2015-november/
+  tito:
+    event: "grttwak/montreal-2015-november"
+    signup_release: dg0cbloynkg
 
 # PAST
 
@@ -245,12 +261,6 @@ past:
     name: The Club
     address: 
     city: 'Banff, AB'
-
-- date: 2015-03-04 20:00:00
-  venue:
-    name: Broken City Social Club
-    address: 
-    city: 'Calgary, AB'
 
 - date: 2015-03-04 20:00:00
   venue:

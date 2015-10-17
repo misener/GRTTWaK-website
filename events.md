@@ -47,7 +47,11 @@ redirect_from:
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
-<a href="{{ event.signup.url }}">Sign up to read in {{ event.venue.city }}</a>, or <a href="{{ event.tickets.url }}">buy tickets</a>.
+<tito-button event="{{ event.tito.event }}" releases="{{ event.tito.signup_release }}">Sign up to read in {{ event.venue.city }}</tito-button>
+<tito-button event="{{ event.tito.event }}">Buy tickets</tito-button>
+
+<!-- <tito-widget event="{{ event.tito.event }}"></tito-widget> -->
+
 
 <hr>
 {% endfor %}

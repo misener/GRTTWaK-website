@@ -8,6 +8,7 @@ guid:	tag:soundcloud,2010:tracks/184531932
 soundcloud_id: 184531932
 mp3_enclosure: http://feeds.soundcloud.com/stream/184531932-grownupsreadthingstheywroteaskids-s2e01.mp3
 redirect_from:  /2015/01/201-montreal/
+title: {{ city }}
 ---
 
 Teenage existential angst, a visit with Ronald Reagan, and a few questions about Jesus. Recorded live at La Vitrola in Montreal, QC.
