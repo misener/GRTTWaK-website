@@ -2,7 +2,7 @@
   <div class="container">
     <div class="sidebar-about">
       <!--<h1>-->
-        <a href="{{ site.baseurl }}"><img src="/grttwak-logo-2048-orange.png" alt="Grownups Read Things They Wrote as Kids"></a>
+        <a href="{{ site.baseurl }}"><img src="/images/grttwak-logo-2048-orange.png" alt="Grownups Read Things They Wrote as Kids"></a>
       <!--</h1>-->
       <!-- <p class="lead">{{ site.description }}</p>
       <p>{{ site.description }}</p> -->
@@ -11,10 +11,16 @@
     <nav class="sidebar-nav">
       <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
 
+      <a class="sidebar-nav-item{% if page.url == '/events/' %} active{% endif %}" href="/events/">Live Events</a>
+      <a class="sidebar-nav-item{% if page.url == '/podcast/' %} active{% endif %}" href="/podcast/">Podcast</a>
+      <a class="sidebar-nav-item{% if page.url == '/newsletter/' %} active{% endif %}" href="/newsletter/">Newsletter</a>
+      <a class="sidebar-nav-item{% if page.url == '/contact/' %} active{% endif %}" href="/contact/">Contact</a>
+      <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
+
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+      
 
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
@@ -24,6 +30,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      {% endcomment %}
 
     </nav>
 

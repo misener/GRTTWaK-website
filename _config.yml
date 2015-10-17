@@ -34,3 +34,9 @@ defaults:
       path: "" # empty string for all files
     values:
       layout: "episode"
+
+  -
+    scope:
+        path: "/newsletter/"
+    values:
+      layout: "page"

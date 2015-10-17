@@ -37,6 +37,7 @@ redirect_from:
   - /event/grttwak-calgary-3/
 ---
 
+![GRTTWaK](/images/charlottetown_pano.jpg)
 
 {% assign upcoming = site.data.events.upcoming | sort: "date" %}
 {% assign past = site.data.events.past | sort: "date" | reverse %}
@@ -44,21 +45,12 @@ redirect_from:
 {% for event in upcoming %}
 ## {{ event.venue.city }}
 
-{{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }} </a> ({{ event.venue.address }})
+{{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
 <a href="{{ event.signup.url }}">Sign up to read in {{ event.venue.city }}</a>, or <a href="{{ event.tickets.url }}">buy tickets</a>.
 
 <hr>
 {% endfor %}
-
-
-
-<!-- ## Upcoming
-
-| Date          | Where         | Readers  | Audience |
-| ------------- |:-------------:| :-----:  | :------: |
-{% for event in upcoming %}{{ event.date | date: "%B %-d, %Y" }} |  {{ event.venue.city }} <br> <a href="{{ event.venue.url }}"> {{ event.venue.name }} </a> | <a href="{{ event.signup.url }}">Sign up to read</a> | <a href="{{ event.tickets.url }}">Buy tickets</a> |
-{% endfor %} -->
 
 ## Past events
 

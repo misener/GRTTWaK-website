@@ -26,7 +26,7 @@ Our email newsletter is the first place we announce new live events. Sign up!
   </div>
 
   <div class="pure-controls">
-	 <button type="submit" class="pure-button pure-button-primary" name="submit" id="submit">Submit</button>
+	 <button type="submit" class="pure-button pure-button-primary" name="submit" id="submit" style="background-color: #f37749;">Submit</button>
   </div>
 
     <input type="hidden" name="list" value="etW6B40hkAJ4FkY9FvApEQ">
@@ -42,4 +42,3 @@ for(var i = 0; i < hashParams.length; i++){
     document.getElementById(p[0]).value = decodeURIComponent(p[1]);;
 }
 </script>
-
