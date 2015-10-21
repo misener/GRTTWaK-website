@@ -1,21 +1,6 @@
 # UPCOMING
 
 upcoming:
-- date: 2015-10-18 20:00:00
-  venue:
-    name: London Music Club
-    address: 470 Colborne Street 
-    city: London
-    province: ON
-    url: http://www.londonmusicclub.com/
-  signup:
-    url: https://ti.to/grttwak/london-2015-october/with/ifitlua8vsc
-  tickets:
-    url: https://ti.to/grttwak/london-2015-october
-  tito:
-    event: "grttwak/london-2015-october"
-    signup_release: ifitlua8vsc
-
 - date: 2015-10-25 20:00:00
   venue:
     name: The Registry Theatre
@@ -298,3 +283,17 @@ past:
     address: 
     city: 'Detroit, MI'
 
+- date: 2015-10-18 20:00:00
+  venue:
+    name: London Music Club
+    address: 470 Colborne Street 
+    city: London
+    province: ON
+    url: http://www.londonmusicclub.com/
+  signup:
+    url: https://ti.to/grttwak/london-2015-october/with/ifitlua8vsc
+  tickets:
+    url: https://ti.to/grttwak/london-2015-october
+  tito:
+    event: "grttwak/london-2015-october"
+    signup_release: ifitlua8vsc
