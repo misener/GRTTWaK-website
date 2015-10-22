@@ -25,3 +25,5 @@ NO EVENTS!
 {% endfor %}
 
 [More episodes](/podcast/)
+
+<a href="https://grttwak.memberful.com/checkout?plan=9075">Buy Sample Plan for $25/month.</a>
