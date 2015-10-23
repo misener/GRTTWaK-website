@@ -31,7 +31,7 @@
   </title>
 
   <!-- CSS -->
-  <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
+  <link rel="stylesheet" href="//yui.yahooapis.com/pure/0.6.0/pure-min.css">
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
   <link rel="stylesheet" href="/public/css/hyde.css">
@@ -100,8 +100,26 @@
 
   <!-- Tito -->
   <script src="https://js.tito.io/v1" async></script>
-  <script>TitoDevelopmentMode = true</script>
   <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1' />
+
+  <!-- Memberful -->
+  <script type="text/javascript">
+  window.MemberfulOptions = {site: "https://grttwak.memberful.com"};
+
+  (function() {
+    var s   = document.createElement('script');
+
+    s.type  = 'text/javascript';
+    s.async = true;
+    s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
+
+    setup = function() { window.MemberfulEmbedded.setup(); }
+
+    if(s.addEventListener) { s.addEventListener("load", setup, false); } else { s.attachEvent("onload", setup); }
+
+    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+  })();
+</script>
 </head>
 
   <body class="theme-base-00">
@@ -142,13 +160,15 @@
 
 <h2>Live Events</h2>
 
-<p>We have upcoming live events in: <a href="https://ti.to/grttwak/london-2015-october">London</a>, <a href="https://ti.to/grttwak/kitchener-2015-october/">Kitchener</a>, <a href="https://ti.to/grttwak/winnipeg-2015-november/">Winnipeg</a>, <a href="https://ti.to/grttwak/montreal-2015-november/">Montréal</a>,  and beyond...</p>
+<p>We have upcoming live events in: <a href="https://ti.to/grttwak/kitchener-2015-october/">Kitchener</a>, <a href="https://ti.to/grttwak/winnipeg-2015-november/">Winnipeg</a>, <a href="https://ti.to/grttwak/montreal-2015-november/">Montréal</a>,  and beyond...</p>
 
 <h2>Latest Episode</h2>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/227970125&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 <p><a href="/podcast/">More episodes</a></p>
+
+<p><a href="https://grttwak.memberful.com/checkout?plan=9075">Buy Sample Plan for $25/month.</a></p>
 
     </div>
 

@@ -12,4 +12,5 @@ redirect_from:  /2015/05/211-stabbing-each-other-with-our-insecurities-vancouver
 
 Angry LiveJournal entries, a poem about losing your virginity, and a dead moose carcass. Recorded live at Electric Owl Social Club in Vancouver, BC.
 
-?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.episode.number }}
+{% include boilerplate_episode_links.md number=page.number %}
+{% include social.md number=page.number %}

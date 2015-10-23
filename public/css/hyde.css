@@ -70,15 +70,6 @@ html {
   }
 }
 
-@media (max-width: 48em) {
-  .sidebar img {
-    display: inline-block;
-    /* make things managable on iPhones */
-    width: 35%; 
-  }
-}
-
-
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -123,6 +114,7 @@ a.sidebar-nav-item:focus {
   }
 }
 
+
 /* Container
  *
  * Align the contents of the site above the proper threshold with some margin-fu
@@ -130,7 +122,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    2rem;
+  padding-top:    4rem;
   padding-bottom: 4rem;
 }
 
