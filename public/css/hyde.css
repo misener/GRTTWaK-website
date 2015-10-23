@@ -70,6 +70,13 @@ html {
   }
 }
 
+@media (max-width: 48em) {
+  .sidebar img {
+    display: inline-block;
+    width: 35%; 
+  }
+}
+
 /* Sidebar links */
 .sidebar a {
   color: #fff;
@@ -122,7 +129,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top:    2rem;
   padding-bottom: 4rem;
 }
 

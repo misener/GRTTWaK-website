@@ -21,7 +21,12 @@ NO EVENTS!
 
 ## Latest Episode
 {% for post in site.posts if post.categories contains 'episodes' limit:1 %}
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+<!--<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>-->
+
+<audio controls>
+  <source src="{{ post.mp3_enclosure }}" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 {% endfor %}
 
 [More episodes](/podcast/)
