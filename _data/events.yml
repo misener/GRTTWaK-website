@@ -270,6 +270,78 @@ past:
     address: 
     city: 'Detroit, MI'
 
+- date: 2015-05-10 20:00:00
+  venue:
+    name: The Gladstone Ballroom
+    address: 
+    city: 'Toronto, ON'
+
+- date: 2015-05-11 20:00:00
+  venue:
+    name: The Gladstone Ballroom
+    address: 
+    city: 'Toronto, ON'
+
+- date: 2015-07-06 20:00:00
+  venue:
+    name: The Company House
+    address: 
+    city: 'Halifax, NS'
+
+- date: 2015-07-08 20:00:00
+  venue:
+    name: The Guild Theatre
+    address: 
+    city: 'Charlottetown, PE'
+
+- date: 2015-07-09 20:00:00
+  venue:
+    name: The Rocket Room
+    address: 
+    city: "St. John's, NL"
+
+- date: 2015-08-12 20:00:00
+  venue:
+    name: The King's Head Pub
+    address: 
+    city: 'Winnipeg, MB'
+
+- date: 2015-08-13 20:00:00
+  venue:
+    name: The Mercury Room
+    address: 
+    city: 'Edmonton, AB'
+
+- date: 2015-08-15 20:00:00
+  venue:
+    name: The Top Knight
+    address: 
+    city: 'Yellowknife, NT'
+
+- date: 2015-08-16 20:00:00
+  venue:
+    name: Broken City Social Club
+    address: 
+    city: 'Calgary, AB'
+
+- date: 2015-10-04 15:30:00
+  venue:
+    name: Yuk Yuk's
+    address: 
+    city: 'Ottawa, ON'
+
+- date: 2015-10-04 20:00:00
+  venue:
+    name: Yuk Yuk's
+    address: 
+    city: 'Ottawa, ON'
+
+- date: 2015-10-07 20:00:00
+  venue:
+    name: The Tranzac
+    address: 
+    city: 'Toronto, ON'
+
 - date: 2015-10-18 20:00:00
   venue:
     name: London Music Club
