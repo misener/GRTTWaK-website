@@ -1,20 +1,7 @@
 # UPCOMING
 
 upcoming:
-- date: 2015-10-25 20:00:00
-  venue:
-    name: The Registry Theatre
-    address: 4848 St Laurent Blvd.
-    city: Kitchener
-    province: ON
-    url: http://www.registrytheatre.com/
-  signup:
-    url: https://ti.to/grttwak/kitchener-2015-october/with/2r5ugwemnee
-  tickets:
-    url: https://ti.to/grttwak/kitchener-2015-october/
-  tito:
-    event: "grttwak/kitchener-2015-october"
-    signup_release: 2r5ugwemnee
+
 
 - date: 2015-11-15 20:00:00
   venue:
@@ -297,3 +284,18 @@ past:
   tito:
     event: "grttwak/london-2015-october"
     signup_release: ifitlua8vsc
+
+- date: 2015-10-25 20:00:00
+  venue:
+    name: The Registry Theatre
+    address: 4848 St Laurent Blvd.
+    city: Kitchener
+    province: ON
+    url: http://www.registrytheatre.com/
+  signup:
+    url: https://ti.to/grttwak/kitchener-2015-october/with/2r5ugwemnee
+  tickets:
+    url: https://ti.to/grttwak/kitchener-2015-october/
+  tito:
+    event: "grttwak/kitchener-2015-october"
+    signup_release: 2r5ugwemnee
