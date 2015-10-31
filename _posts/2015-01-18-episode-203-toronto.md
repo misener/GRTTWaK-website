@@ -10,7 +10,5 @@ redirect_from:  /2015/01/episode-203-new-nickname-mouthtoronto/
 ---
 A bald eagle, war between Canada and China, and lots of French kissing. Recorded live at The Garrison in Toronto, Ontario.
 
-{{ page | web_player:site }}
-
 {% include boilerplate_episode_links.md number=page.number %}
 {% include social.md number=page.number %}
