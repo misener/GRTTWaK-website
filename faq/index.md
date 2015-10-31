@@ -1,12 +1,20 @@
 ---
 layout: page
 title: FAQ
-redirect_from: /the-rules/
+redirect_from:
+  - /the-rules/
+  - /faq/sign-read/
 ---
+
+## How do I sign up to participate?
+
+*Grownups Read Things They Wrote as Kids* is a live open-mic event. Reader spots are first-come, first-served. We require all readers to sign up online, in advance. First, check the [events page](/events/) to see if there’s a live event coming soon to your area.
+
+If there isn’t an upcoming live event listed in your area, [sign up for the email newsletter](/newsletter/). We always send signup and ticket information to the email list first. Then, watch your inbox closely for show announcements. While you’re waiting, you can check out some [handy tips for readers](/tips-for-readers/), and get practicing!
 
 ## Where do I get tickets?
 
-Advanced tickets for GRTTWaK go on sale exclusively through Tito.
+Advanced tickets for GRTTWaK go on sale exclusively through [Tito](http://ti.to/grttwak/).
 
 Warning: Advance tickets sell out quickly. Often within hours of going on sale. Act quickly.
 
@@ -42,6 +50,6 @@ Chronologically, Teen Angst (Vancouver) was the first show like this that we’v
 
 Grownups Read Things They Wrote as Kids has been around as a live event since 2007, and as a podcast since 2008. There are older shows, and newer shows, and if you ask me, there’s room for more.
 
-## <a name="date">Is GRTTWaK a really great first date?</a>
+## <span id="date">Is GRTTWaK a really great first date?</span>
 
 Yes.
