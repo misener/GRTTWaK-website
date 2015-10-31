@@ -1,7 +1,6 @@
 ---
-# layout: page
+layout: page
 title: FAQ
-permalink: /faq/
 redirect_from: /the-rules/
 ---
 
