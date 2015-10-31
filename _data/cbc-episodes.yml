@@ -1,0 +1,49 @@
+- number: 101
+  city: Vancouver
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140625_98815_uploaded.mp3
+  airdate: 2014--0-6-25
+
+- number: 102
+  city: Calgary
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140702_80301_uploaded.mp3
+  airdate: 2014--0-7-02
+
+- number: 103
+  city: "St. John's"
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140709_88411_uploaded.mp3
+  airdate: 2014-07-09
+
+- number: 104
+  city: Regina
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140716_99138_uploaded.mp3
+  airdate: 2014-07-16
+
+- number: 105
+  city: Halifax
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140723_46851_uploaded.mp3
+  airdate: 2014-07-23
+
+- number: 106
+  city: Fredericton
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140730_68554_uploaded.mp3
+  airdate: 2014-07-30
+
+- number: 107
+  city: Winnipeg
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140806_14517_uploaded.mp3
+  airdate: 2014-08-06
+
+- number: 108
+  city: Toronto
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140813_88805_uploaded.mp3
+  airdate: 2014-08-13
+
+- number: 109
+  city: Ottawa
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140820_67613_uploaded.mp3
+  airdate: 2014-08-20
+
+- number: 110
+  city: Montreal
+  mp3_url: http://podcast.cbc.ca/mp3/podcasts/grownupsread_20140827_73430_uploaded.mp3
+  airdate: 2014-08-27
