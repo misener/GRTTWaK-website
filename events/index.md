@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Live Events
-permalink: /events/
 redirect_from:
   - /liveshows/
   - /event/grttwak-halifax/
