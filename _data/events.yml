@@ -3,35 +3,93 @@
 upcoming:
 
 
-- date: 2015-11-15 20:00:00
+- date: 2016-01-17 20:00:00
   venue:
-    name: The Park Theatre
-    address: 698 Osborne Street 
-    city: 'Winnipeg'
+    name: The Tranzac
+    address: 292 Brunswick Ave.
+    city: Toronto
     province: ON
-    url: http://www.parktheatervideo.com/
-  signup:
-    url: https://ti.to/grttwak/winnipeg-2015-november/with/gwde0vyqbdy
-  tickets:
-    url: https://ti.to/grttwak/winnipeg-2015-november/
-  tito:
-    event: "grttwak/winnipeg-2015-november"
-    signup_release: gwde0vyqbdy
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/toronto-2016-january"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 4ez5morcdp4
+    #     general_admission: yccm8al7syk
 
-- date: 2015-11-30 20:00:00
+    - name: Evening (8:00)
+      releases:
+        reader: k3ghi5m2l4y
+        general_admission: eulhstkeh4e
+
+- date: 2016-01-31 20:00:00
   venue:
     name: La Sala Rossa
     address: 4848 St Laurent Blvd.
     city: 'Montréal'
     province: QC
     url: http://lasalarossa.com
-  signup:
-    url: https://ti.to/grttwak/montreal-2015-november/with/dg0cbloynkg
-  tickets:
-    url: https://ti.to/grttwak/montreal-2015-november/
-  tito:
-    event: "grttwak/montreal-2015-november"
-    signup_release: dg0cbloynkg
+  tito_event: "grttwak/montreal-2016-january"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: pcizyqvumwe
+    #     general_admission: kiwfjcnu2v0
+
+    - name: Evening (8:00)
+      releases:
+        reader: phof6gknrok
+        general_admission: qcyishck9o4
+
+
+- date: 2016-04-24 20:00:00
+  venue:
+    name: The Refinery
+    address: 609 Dufferin Avenue
+    city: 'Saskatoon'
+    province: SK
+    url: http://www.ontheboards.ca/
+  tito_event: "grttwak/saskatoon-2016-april"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+- date: 2016-04-25 20:00:00
+  venue:
+    name: The Artesian
+    address: 2627 13th Ave
+    city: 'Regina'
+    province: SK
+    url: http://www.artesianon13th.ca/
+  tito_event: "grttwak/regina-2016-april"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+- date: 2016-02-21 20:00:00
+  venue:
+    name: The Company House
+    address: 2202 Gottingen Street
+    city: 'Halifax'
+    province: NS
+    url: http://www.thecompanyhouse.ca
+  tito_event: "grttwak/halifax-2016-february"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: t18dbwrv7ci
+    #     general_admission: fgnneenh6gm
+
+    - name: Evening (8:00)
+      releases:
+        reader: glzkwovrthq
+        general_admission: 0m0axrbfs6s
+
 
 # PAST
 
@@ -371,3 +429,33 @@ past:
   tito:
     event: "grttwak/kitchener-2015-october"
     signup_release: 2r5ugwemnee
+
+- date: 2015-11-15 20:00:00
+  venue:
+    name: The Park Theatre
+    address: 698 Osborne Street 
+    city: 'Winnipeg'
+    province: ON
+    url: http://www.parktheatervideo.com/
+  signup:
+    url: https://ti.to/grttwak/winnipeg-2015-november/with/gwde0vyqbdy
+  tickets:
+    url: https://ti.to/grttwak/winnipeg-2015-november/
+  tito:
+    event: "grttwak/winnipeg-2015-november"
+    signup_release: gwde0vyqbdy
+
+- date: 2015-11-30 20:00:00
+  venue:
+    name: La Sala Rossa
+    address: 4848 St Laurent Blvd.
+    city: 'Montréal'
+    province: QC
+    url: http://lasalarossa.com
+  signup:
+    url: https://ti.to/grttwak/montreal-2015-november/with/dg0cbloynkg
+  tickets:
+    url: https://ti.to/grttwak/montreal-2015-november/
+  tito:
+    event: "grttwak/montreal-2015-november"
+    signup_release: dg0cbloynkg
