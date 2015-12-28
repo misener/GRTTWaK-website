@@ -38,22 +38,36 @@ redirect_from:
 
 ![GRTTWaK](/images/charlottetown_pano.jpg)
 
-{% assign upcoming = site.data.events.upcoming | sort: "date" %}
+{% if site.data.events.upcoming %}
+  {% assign upcoming = site.data.events.upcoming | sort: "date" %}
+{% endif %}
+
 {% assign past = site.data.events.past | sort: "date" | reverse %}
 
+{% if upcoming %}
+
 {% for event in upcoming %}
-## {{ event.venue.city }}
+
+## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}{% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
-<tito-button event="{{ event.tito.event }}" releases="{{ event.tito.signup_release }}">Sign up to read in {{ event.venue.city }}</tito-button>
-<tito-button event="{{ event.tito.event }}">Buy tickets</tito-button>
+{% if event.showtimes == nill %}
+We've announced this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).
+{% endif %}
 
+<ul>
+{% for showtime in event.showtimes %}
+<li>{{ showtime.name }}: <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</tito-button> or <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}">Buy tickets</tito-button></li>
 <!-- <tito-widget event="{{ event.tito.event }}"></tito-widget> -->
+{% endfor %}
 
+</ul>
 
 <hr>
 {% endfor %}
+
+{% endif %}
 
 ## Past events
 
