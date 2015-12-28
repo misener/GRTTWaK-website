@@ -11,7 +11,7 @@ Since 2007, *Grownups Read Things They Wrote as Kids* has invited audiences to r
 
 {% if site.data.events.upcoming.size > 0 %}
 {% assign upcoming = site.data.events.upcoming %}
-We have upcoming live events in: {% for event in upcoming %}<a href="{{ event.tickets.url }}">{{ event.venue.city }}</a>, {% endfor %} and beyond...
+We have upcoming live events in: {% for event in upcoming %}<a href="/events/#{{ event.venue.city }}">{{ event.venue.city }}</a>, {% endfor %} and beyond...
 
 {% else %}
 
@@ -19,7 +19,7 @@ NO EVENTS!
 
 {% endif %}
 
-## Latest Episode
+## Latest Podcast Episode
 {% for post in site.posts if post.categories contains 'episodes' limit:1 %}
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 
@@ -30,5 +30,3 @@ Your browser does not support the audio element.
 {% endfor %}
 
 [More episodes](/podcast/)
-
-<a href="https://grttwak.memberful.com/checkout?plan=9075">Buy Sample Plan for $25/month.</a>

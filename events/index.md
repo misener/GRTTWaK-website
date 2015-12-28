@@ -59,10 +59,10 @@ We've announced this show, but reader signup and tickets are not available yet. 
 <ul>
 {% for showtime in event.showtimes %}
 <li>{{ showtime.name }}: <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</tito-button> or <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}">Buy tickets</tito-button></li>
-<!-- <tito-widget event="{{ event.tito.event }}"></tito-widget> -->
 {% endfor %}
-
 </ul>
+
+
 
 <hr>
 {% endfor %}

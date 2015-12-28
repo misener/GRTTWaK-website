@@ -3,7 +3,11 @@ layout: page
 title: Tips for Readers
 ---
 
-So, you're going to read at _Grownups Read Things They Wrote as Kids?_ Congratulations and thank you! Here are a few tips to help make the most out of your GRTTWaK experience. Please read them carefully.
+![GRTTWaK](/images/park-theatre-stage.jpg)
+
+So you've signed up to read at _Grownups Read Things They Wrote as Kids_!
+
+Congratulations and thank you! Here are a few tips to help make the most out of your GRTTWaK experience. They're all important, so please read them carefully.
 
 ## Show up early
 
@@ -19,11 +23,15 @@ There are the rules that govern what you can read at GRTTWaK:
 
 ## What does "kid" mean?
 
-That's open to interpretation, and we don't have a hard-and-fast age range. Over the years, we've heard little kid writing, college/university-age writing, and everything in between. Temporal distance matters. Ideally, you should be a decade removed from the material you read. At the very least, you should be in a different stage of life than when you wrote your thing.
+That's open to interpretation, and we don't have a hard-and-fast age range. Over the years, we've heard little kid writing, college/university-age writing, and everything in between.
+
+Temporal distance matters. Ideally, you should be a decade removed from the material you read. At the very least, you should be in a different stage of life than when you wrote your thing.
 
 ## What should I read?
 
-So long as it fits the 3 critera above, pretty much anything. Material that makes you cringe is usually a good place to start. Journals, dairy entries, short stories, and poems are always popular. We also love less-common formats (screenplays, lists, song lyrics). **Your reading needn’t be funny. **Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
+So long as it fits the 3 critera above, pretty much anything. Material that makes you cringe is usually a good place to start. Journals, dairy entries, short stories, and poems are always popular. We also love less-common formats (screenplays, lists, song lyrics).
+
+**Your reading needn’t be funny. **Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
 
 ## When am I on?
 
@@ -68,8 +76,12 @@ Absolutely! Especially if it's full of awesome drawings that are hard to see fro
 
 ## When will I be on the radio/podcast?
 
-Here's the thing: _you might not end up on the radio/podcast_. Our live shows often run more than 90 minutes, and our podcast episodes run ~30 minutes. We always end up with more great material than we can use in the podcast. If you don't end up in the podcast, don't take it personally. Very often, live readings have a "you had to be there" moment that doesn't translate to tape. GRTTWaK is first and foremost a live event. It's a room full of people getting together to have fun. The radio show and podcast is a consequence, not the cause. Don't think of your reading as an audition for the podcast. It's not.
+Here's the thing: _you might not end up on the radio/podcast_. Our live shows often run more than 90 minutes, and our podcast episodes run ~30 minutes. We always end up with more great material than we can use in the podcast.
+
+If you don't end up in the podcast, don't take it personally. Very often, live readings have a "you had to be there" moment that doesn't translate to tape. **GRTTWaK is first and foremost a live event.** It's a room full of people getting together to have fun. The radio show and podcast is a consequence, not the cause. Don't think of your reading as an audition for the podcast. It's not.
 
 ## Questions?
 
-If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, why note [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/)? See you soon, and thanks again! 
+If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/).
+
+See you soon, and thanks again! 
