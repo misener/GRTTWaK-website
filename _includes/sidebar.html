@@ -1,41 +1,24 @@
 <div class="sidebar">
   <div class="container">
     <div class="sidebar-about">
-      <!--<h1>-->
         <a href="{{ site.baseurl }}"><img src="/images/grttwak-logo-320-orange.png" alt="Grownups Read Things They Wrote as Kids"></a>
-      <!--</h1>-->
-      <!-- <p class="lead">{{ site.description }}</p>
-      <p>{{ site.description }}</p> -->
     </div>
 
     <nav class="sidebar-nav">
-      <!-- <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a> -->
-
       <a class="sidebar-nav-item{% if page.url == '/events/' %} active{% endif %}" href="/events/">Live Events</a>
       <a class="sidebar-nav-item{% if page.url == '/podcast/' %} active{% endif %}" href="/podcast/">Podcast</a>
       <a class="sidebar-nav-item{% if page.url == '/newsletter/' %} active{% endif %}" href="/newsletter/">Newsletter</a>
       <a class="sidebar-nav-item{% if page.url == '/contact/' %} active{% endif %}" href="/contact/">Contact</a>
       <a class="sidebar-nav-item{% if page.url == '/about/' %} active{% endif %}" href="/about/">About</a>
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      
-
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-
-      {% endcomment %}
-
     </nav>
 
-    </div>
 
+    <div class="sidebar-about">
+      <a href="https://www.facebook.com/grownupsreadthingstheywroteaskids/"><i class="fa fa-lg fa-facebook-official"></i></a>
+      <a href="https://www.twitter.com/GRTTWaK/"><i class="fa fa-lg fa-twitter-square"></i></a>
+      <a href="https://www.instagram.com/GRTTWaK/"><i class="fa fa-lg fa-instagram"></i></a>
+      <a href="https://www.youtube.com/channel/UCPjbSZkl7t2Kj6_Hlc71A4g"><i class="fa fa-lg fa-youtube-square"></i></a>
+      <a href="https://soundcloud.com/grownupsreadthingstheywroteaskids"><i class="fa fa-lg fa-soundcloud"></i></a>
+    </div>
   </div>
 </div>
