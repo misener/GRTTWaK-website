@@ -8,7 +8,7 @@ redirect_from:
 
 Our email newsletter is the first place we announce new live events. Sign up!
 
-<form action="http://newsletter.grownupsreadthingstheywroteaskids.com/subscribe" method="POST" accept-charset="utf-8" class="pure-form pure-form-aligned">
+<form action="https://newsletter.grownupsreadthingstheywroteaskids.com/subscribe" method="POST" accept-charset="utf-8" class="pure-form pure-form-aligned">
   <fieldset>
   <div class="pure-control-group">
   	<label for="name">Name</label>
