@@ -56,13 +56,11 @@ redirect_from:
 We've announced this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).
 {% endif %}
 
-<ul>
 {% for showtime in event.showtimes %}
-<li>{{ showtime.name }}: <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</tito-button> or <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}">Buy tickets</tito-button></li>
+
+{% if event.showtimes.size > 1 %}### {{ showtime.name }}{% endif %}
+<tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button> or <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
 {% endfor %}
-</ul>
-
-
 
 <hr>
 {% endfor %}
