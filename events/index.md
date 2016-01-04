@@ -52,20 +52,44 @@ redirect_from:
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
-{% if event.showtimes == nill %}
-We've announced this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).
-{% endif %}
+{% if event.showtimes == nill %}We've announced this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
 
 {% for showtime in event.showtimes %}
-
 {% if event.showtimes.size > 1 %}### {{ showtime.name }}{% endif %}
 <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button> or <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
+
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Grownups Read Things They Wrote as Kids {{ event.venue.city }} - {{ showtime.name }}",
+  "startDate" : "{{ event.date | date: "%F" }}",
+  "url" : "{{ site.url }}{{ page.url }}",
+  "location" : {
+    "@type" : "Place",
+    "sameAs" : "{{ event.venue.url }}",
+    "name" : "{{ event.venue.name }}",
+    "address" : "{{ event.venue.address }}"
+  },
+  "offers":{
+      "@type": "Offer",
+      "url" : "https://ti.to{{ event.tito_event }}"
+    }
+}
+</script>
+
+
 {% endfor %}
 
 <hr>
 {% endfor %}
 
 {% endif %}
+
+
+
+
 
 ## Past events
 
