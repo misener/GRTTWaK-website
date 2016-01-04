@@ -1,3 +1,3 @@
 - [Rate GRTTWaK in iTunes](https://itunes.apple.com/review?id=890900960&type=Podcast&utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
-- [Join the email newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
-- [Upcoming live events](http://www.grownupsreadthingstheywroteaskids.com/events/?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
+- [Join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
+- [Upcoming live events](https://grownupsreadthingstheywroteaskids.com/events/?utm_source=podcast&utm_medium=referral&utm_campaign={{ include.number }})
