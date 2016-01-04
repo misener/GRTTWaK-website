@@ -18,7 +18,7 @@ relative_permalinks: true
 title:            Grownups Read Things They Wrote as Kids
 tagline:          'Remembering the good, the bad, and the awkward parts of growing up.'
 description:      'Remembering the good, the bad, and the awkward parts of growing up. Since 2007.'
-url:              http://grownupsreadthingstheywroteaskids.com
+url:              https://grownupsreadthingstheywroteaskids.com
 baseurl:          ''
 
 author:
