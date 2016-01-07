@@ -12,11 +12,10 @@ upcoming:
     url: http://www.tranzac.org/
   tito_event: "grttwak/toronto-2016-january"
   showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 4ez5morcdp4
-    #     general_admission: yccm8al7syk
-
+    - name: Matinee (3:30)
+      releases:
+        reader: 4ez5morcdp4
+        general_admission: yccm8al7syk
     - name: Evening (8:00)
       releases:
         reader: k3ghi5m2l4y
@@ -31,16 +30,14 @@ upcoming:
     url: http://lasalarossa.com
   tito_event: "grttwak/montreal-2016-january"
   showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: pcizyqvumwe
-    #     general_admission: kiwfjcnu2v0
-
+    - name: Matinee (3:30)
+      releases:
+        reader: pcizyqvumwe
+        general_admission: kiwfjcnu2v0
     - name: Evening (8:00)
       releases:
         reader: phof6gknrok
         general_admission: qcyishck9o4
-
 
 - date: 2016-04-24 20:00:00
   venue:
@@ -80,10 +77,10 @@ upcoming:
     url: http://www.thecompanyhouse.ca
   tito_event: "grttwak/halifax-2016-february"
   showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: t18dbwrv7ci
-    #     general_admission: fgnneenh6gm
+    - name: Matinee (3:30)
+      releases:
+        reader: t18dbwrv7ci
+        general_admission: fgnneenh6gm
 
     - name: Evening (8:00)
       releases:
@@ -230,7 +227,7 @@ past:
   venue:
     name: Cedar Tree Cafe
     address: 
-    city: 'Fredericon, NB'
+    city: 'Fredericton, NB'
 
 - date: 2014-07-06 20:00:00
   venue:
