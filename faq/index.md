@@ -50,6 +50,30 @@ Chronologically, Teen Angst (Vancouver) was the first show like this that we’v
 
 Grownups Read Things They Wrote as Kids has been around as a live event since 2007, and as a podcast since 2008. There are older shows, and newer shows, and if you ask me, there’s room for more.
 
+## <span id="quicksales">Your live events sell out really quickly. What's the deal?
+
+Often, our shows sell out quickly. We know this can be frustrating.
+
+The first place we announce live shows is through our [email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/). Often, live events fill up hours (or minutes) after they're announced.
+
+Our ticketing company, [Tito](https://ti.to/), has a "waitlist" feature. If a show is sold out or the reader list is full, you can join the wait list. If a registered reader cancels, or more general admission tickets become available, we make them available to members of the wait list. Joining the wait list does not guarantee you a ticket, not does it give you any special privledges for the *next* available show.
+
+Reader signup and general admission tickets are first-come, first-served. It's not ideal for everyone, but it's the fairest way we know how to do it. We appreciate your patience. And remember — kid writing doesn't expire, and we're planning to keep doing shows well into the future.
+
+## <span id="biggervenue">Have you considered a larger venue in [insert city here]?
+
+Yes, we have. Our goal is to book venues that can seat as many people as possible, without compromising the intimacy required to put on a good show. That's the tradeoff: capacity vs. intimacy.
+
+Many of our readers are not performers, and they're not used to being on stage. Reading at *Grownups Read Things They Wrote as Kids* takes a lot of courage. We're trying to create the conditions for people to be open, honest, and authentic on stage, and the intimacy of the environment is key.
+
+That said, if you have a great venue recommendation, we're all ears. Typically, we book spots that have:
+
+1. Chairs and sightlines for ~150 people (we're a "sit and listen" show)
+2. A decent sound system (and someone who knows how to work it)
+3. Alcohol that you're allowed to bring to your seat
+
+Venue suggestions always welcome: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com)
+
 ## <span id="date">Is GRTTWaK a really great first date?</span>
 
 Yes.
