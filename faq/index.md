@@ -50,7 +50,7 @@ Chronologically, Teen Angst (Vancouver) was the first show like this that we’v
 
 Grownups Read Things They Wrote as Kids has been around as a live event since 2007, and as a podcast since 2008. There are older shows, and newer shows, and if you ask me, there’s room for more.
 
-## <span id="quicksales">Your live events sell out really quickly. What's the deal?
+## <span id="whycantigettickets">Your live events sell out really quickly. What's the deal?
 
 Often, our shows sell out quickly. We know this can be frustrating.
 
