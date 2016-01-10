@@ -11,7 +11,7 @@ Congratulations and thank you! Here are a few tips to help make the most out of 
 
 ## Show up early
 
-It's _very_ important that you show up  before we open the doors for general admission. At most events, we ask readers to arrive **no later than 7pm**. When you arrive, check in with Dan or Jenna so we know you made it. We kindly ask that your friends/family/partners wait until general admission doors open (usually at 7:30). Don't worry -- you can save them seats.
+It's _very_ important that you show up  before we open the doors for general admission. At most events, we ask readers to arrive **no later than 7pm** for evening shows, and **2:30pm** for matinees. When you arrive, check in with Dan or Jenna so we know you made it. We kindly ask that your friends/family/partners wait until general admission doors open (usually at 7:30pm for evening shows, 2:30pm for matinees). Don't worry -- you can save them seats.
 
 ## The three rules
 
@@ -29,9 +29,9 @@ Temporal distance matters. Ideally, you should be a decade removed from the ma
 
 ## What should I read?
 
-So long as it fits the 3 critera above, pretty much anything. Material that makes you cringe is usually a good place to start. Journals, dairy entries, short stories, and poems are always popular. We also love less-common formats (screenplays, lists, song lyrics).
+So long as it fits the 3 criteria listed above, you can read pretty much anything. Material that makes you cringe is usually a good place to start. Journals, dairy entries, short stories, and poems are always popular. We also love less-common formats (screenplays, lists, song lyrics).
 
-**Your reading needn’t be funny. **Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
+**Your reading needn’t be funny.** Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
 
 ## When am I on?
 
@@ -39,7 +39,9 @@ We usually don't know the lineup until moments before the show begins. During th
 
 ## How should I read my thing?
 
-Dan will introduce you, and everyone will applaud. You come onstage, and read your thing. The audience laughs, cries. etc. Then, everyone applauds again. And that's it. **Please note:** GRTTWaK is not the place to work on your standup act, or promote your next gig, or read your current writing. There are other shows for those things. GRTTWaK is all about adults, reading childhood and teenage writing, as close to verbatim as possible. Please note that none of these are the title of our show:
+Dan will introduce you, and everyone will applaud. You come onstage, and read your thing. The audience laughs, cries. etc. Then, everyone applauds again. You got back to your seat, and that's it.
+
+**Please note:** GRTTWaK is not the place to work on your standup act, or promote your next gig, or read your current writing. There are other shows for those things. GRTTWaK is all about adults, reading childhood and teenage writing, as close to verbatim as possible. Please note that none of these are the title of our show:
 
 *   _Grownups Read Lengthy Prepared Introductions to Things They Wrote as Kids_
 *   _Grownups Tell Their Entire Life Stories, Then Read Things They Wrote as Kids_
