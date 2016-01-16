@@ -23,13 +23,9 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>
-    {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
-    {% else %}
-      {{ page.title }} &middot; {{ site.title }}
-    {% endif %}
-  </title>
+  {% capture page_title %}{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}{% endcapture %}
+
+  <title>{{ page_title }}</title>
 
   <!-- CSS -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.0/pure-min.css">
@@ -72,7 +68,7 @@
   <!-- Twitter -->
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:description" content="{{ site.description }}"/>
-  <meta name="twitter:title" content="{{ site.title }}"/>
+  <meta name="twitter:title" content="{{ page_title }}"/>
   <meta name="twitter:site" content="@GRTTWaK"/>
   <meta name="twitter:domain" content="{{ site.title }}"/>
   <meta name="twitter:image:src" content="https://grownupsreadthingstheywroteaskids.com/images/end-of-world-DSCF4448-800px.jpg"/>
@@ -82,7 +78,7 @@
   <meta name="description" content="{{ site.description }}"/>
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ site.title }}" />
+  <meta property="og:title" content="{{ page_title }}" />
   <meta property="og:description" content="{{ site.description }}" />
   <meta property="og:url" content="https://grownupsreadthingstheywroteaskids.com/" />
   <meta property="og:site_name" content="{{ site.title }}" />
