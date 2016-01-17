@@ -11,7 +11,7 @@ Congratulations and thank you! Here are a few tips to help make the most out of 
 
 ## Show up early
 
-It's _very_ important that you show up  before we open the doors for general admission. At most events, we ask readers to arrive **no later than 7pm** for evening shows, and **2:30pm** for matinees. When you arrive, check in with Dan or Jenna so we know you made it. We kindly ask that your friends/family/partners wait until general admission doors open (usually at 7:30pm for evening shows, 2:30pm for matinees). Don't worry -- you can save them seats.
+It's _very_ important that you show up  before we open the doors for general admission. At most events, we ask readers to arrive **no later than 7pm** for evening shows, and **2:30pm** for matinees. When you arrive, check in with Dan or Jenna so we know you made it. We kindly ask that your friends/family/partners wait until general admission doors open (usually at 7:30pm for evening shows, 3:00pm for matinees). Don't worry -- you can save them seats.
 
 ## The three rules
 

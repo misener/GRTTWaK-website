@@ -8,6 +8,8 @@ permalink: /contact/
 
 We're also on:
 
-- Twitter: [@GRTTWaK](https://twitter.com/GRTTWaK/)
-- [Facebook](http://facebook.com/grownupsreadthingstheywroteaskids)
-- Instagram: [@GRTTWaK](https://instagram.com/GRTTWaK/)
+<ul class="fa-ul">
+  <li><i class="fa-li fa fa-twitter"></i><a href="https://twitter.com/GRTTWaK/">Twitter</a></li>
+  <li><i class="fa-li fa fa-facebook"></i><a href="http://facebook.com/grownupsreadthingstheywroteaskids">Facebook</a></li>
+  <li><i class="fa-li fa fa-instagram"></i><a href="https://instagram.com/GRTTWaK/">Instagram</a></li>
+</ul>
