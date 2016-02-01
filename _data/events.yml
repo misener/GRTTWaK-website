@@ -18,24 +18,6 @@ upcoming:
         general_admission: qe7lavcbsq8
 
 
-- date: 2016-01-31 20:00:00
-  venue:
-    name: La Sala Rossa
-    address: 4848 St Laurent Blvd.
-    city: 'Montréal'
-    province: QC
-    url: http://lasalarossa.com
-  tito_event: "grttwak/montreal-2016-january"
-  showtimes:
-    - name: Matinee (3:30)
-      releases:
-        reader: pcizyqvumwe
-        general_admission: kiwfjcnu2v0
-    - name: Evening (8:00)
-      releases:
-        reader: phof6gknrok
-        general_admission: qcyishck9o4
-
 - date: 2016-04-24 20:00:00
   venue:
     name: The Refinery
@@ -471,3 +453,21 @@ past:
       releases:
         reader: k3ghi5m2l4y
         general_admission: eulhstkeh4e
+
+- date: 2016-01-31 20:00:00
+  venue:
+    name: La Sala Rossa
+    address: 4848 St Laurent Blvd.
+    city: 'Montréal'
+    province: QC
+    url: http://lasalarossa.com
+  tito_event: "grttwak/montreal-2016-january"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: pcizyqvumwe
+        general_admission: kiwfjcnu2v0
+    - name: Evening (8:00)
+      releases:
+        reader: phof6gknrok
+        general_admission: qcyishck9o4
