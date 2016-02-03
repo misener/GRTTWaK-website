@@ -33,7 +33,7 @@ So long as it fits the 3 criteria listed above, you can read pretty much anythi
 
 **Your reading needn’t be funny.** Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
 
-**A note on language:** Kid writing is a product of its time. Sometimes, the things we wrote as kids reflect predjudices of earlier times. We want your reading to reflect the original words on the page, but if your reading includes pedjudicial language **it is your responsibility** to flag it so we can properly contextualize, advise the audience, or alter the wording as necessary.
+**A note on language:** kid writing is a product of its time. Sometimes, the things we wrote as kids reflect predjudices of earlier times. We want your reading to stay true to the original words on the page, but if your reading includes predjudicial language of any kind **it is your responsibility** to flag it so we can properly contextualize, advise the audience, or alter the wording as necessary.
 
 ## When am I on?
 
