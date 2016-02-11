@@ -3,21 +3,6 @@
 upcoming:
 
 
-- date: 2016-02-09 20:00:00
-  venue:
-    name: Yuk Yuk's Calgary
-    address: "218 - 18th Avenue SE, in the Elbow River Casino"
-    city: 'Calgary'
-    province: AB
-    url: https://www.yukyuks.com/calgary
-  tito_event: "grttwak/calgary-2016-february"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: ih6dhjjqddu
-        general_admission: qe7lavcbsq8
-
-
 - date: 2016-04-24 20:00:00
   venue:
     name: The Refinery
@@ -471,3 +456,17 @@ past:
       releases:
         reader: phof6gknrok
         general_admission: qcyishck9o4
+
+- date: 2016-02-09 20:00:00
+  venue:
+    name: Yuk Yuk's Calgary
+    address: "218 - 18th Avenue SE, in the Elbow River Casino"
+    city: 'Calgary'
+    province: AB
+    url: https://www.yukyuks.com/calgary
+  tito_event: "grttwak/calgary-2016-february"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: ih6dhjjqddu
+        general_admission: qe7lavcbsq8
