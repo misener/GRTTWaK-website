@@ -2,7 +2,6 @@
 
 upcoming:
 
-
 - date: 2016-04-24 20:00:00
   venue:
     name: The Refinery
@@ -32,24 +31,6 @@ upcoming:
     #     general_admission: 
 
 
-- date: 2016-02-21 20:00:00
-  venue:
-    name: The Company House
-    address: 2202 Gottingen Street
-    city: 'Halifax'
-    province: NS
-    url: http://www.thecompanyhouse.ca
-  tito_event: "grttwak/halifax-2016-february"
-  showtimes:
-    - name: Matinee (3:30)
-      releases:
-        reader: t18dbwrv7ci
-        general_admission: fgnneenh6gm
-
-    - name: Evening (8:00)
-      releases:
-        reader: glzkwovrthq
-        general_admission: 0m0axrbfs6s
 
 
 # PAST
@@ -470,3 +451,23 @@ past:
       releases:
         reader: ih6dhjjqddu
         general_admission: qe7lavcbsq8
+
+
+- date: 2016-02-21 20:00:00
+  venue:
+    name: The Company House
+    address: 2202 Gottingen Street
+    city: 'Halifax'
+    province: NS
+    url: http://www.thecompanyhouse.ca
+  tito_event: "grttwak/halifax-2016-february"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: t18dbwrv7ci
+        general_admission: fgnneenh6gm
+
+    - name: Evening (8:00)
+      releases:
+        reader: glzkwovrthq
+        general_admission: 0m0axrbfs6s
