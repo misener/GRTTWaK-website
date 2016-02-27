@@ -10,7 +10,7 @@ redirect_from:
 
 *Grownups Read Things They Wrote as Kids* is a live open-mic event. Reader spots are first-come, first-served. We require all readers to sign up online, in advance. First, check the [events page](/events/) to see if there’s a live event coming soon to your area.
 
-If there isn’t an upcoming live event listed in your area, [sign up for the email newsletter](/newsletter/). We always send signup and ticket information to the email list first. Then, watch your inbox closely for show announcements. While you’re waiting, you can check out some [handy tips for readers](/tips-for-readers/), and get practicing!
+If there isn’t an upcoming live event listed in your area, [sign up for the email newsletter](/newsletter/). We always send signup and ticket information to the email list first. Then, watch your inbox closely for show announcements. While you’re waiting, you can check out some [handy tips for readers](/faq/tips-for-readers/), and get practicing!
 
 ## Where do I get tickets?
 
