@@ -9,12 +9,23 @@ layout: default
   </header>
 
   <article class="post-content">
-  	<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-  	</br>
+    {% if page.soundcloud_id %}
+    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+    </br>
+    {% elsif page.simplecast_episode_id %}
+    <img src="/images/episodes/{{page.number}}.jpg">
+    <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/{{ page.simplecast_episode_id }}?style=dark' width='100%'></iframe>
+    </br>
+    {% endif %}
 
   	{{ content }}
 
-  	<a href="{{ page.mp3_enclosure }}">Download MP3</a>
+
+    {% if page.mp3_enclosure %}
+    <a href="{{ page.mp3_enclosure }}">Download MP3</a>    
+    {% elsif page.simplecast_episode_id %}
+    <a href="http://audio.simplecast.com/{{ page.simplecast_episode_id }}.mp3">Download MP3</a>
+    {% endif %}
 
   </article>
 

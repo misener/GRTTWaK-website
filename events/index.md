@@ -47,7 +47,7 @@ redirect_from:
 {% if upcoming %}
 
 {% for event in upcoming %}
-
+ 
 ## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}{% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})

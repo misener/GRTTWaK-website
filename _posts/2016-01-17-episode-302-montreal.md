@@ -9,7 +9,7 @@ soundcloud_id: 242343414
 mp3_enclosure: http://feeds.soundcloud.com/stream/242343414-grownupsreadthingstheywroteaskids-s3e02.mp3
 ---
 
-Misha predicts his own death, Jeffrey obsesses about a goldfish, Sarah worries that people think she's a pothead, and much more. Recorded live at La Sala Rossa in Montréal, QC.
+Misha predicts his own death, Jeffrey obsesses about goldfish, Sarah worries that people think she's a pothead, and much more. Recorded live at La Sala Rossa in Montréal, QC.
 
 ## Show notes
 - [Photos from our Montréal event](https://goo.gl/UEoOI3)
