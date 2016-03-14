@@ -1,8 +1,8 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 
-redcarpet:
-  extensions: ["tables"]
+# redcarpet:
+#   extensions: ["tables"]
 
 gems:
   - jekyll-redirect-from

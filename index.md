@@ -6,15 +6,13 @@ title: Home
 ## <i class="fa fa-headphones"></i> Latest Episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}{{ post.city }}{% endfor %}
 
 {% for post in site.posts if post.categories contains 'episodes' limit:1 %}
-{% if post.soundcloud_id %}
-<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
-{% elsif post.simplecast_episode_id %}
+
 [<img src="/images/episodes/{{ post.number }}.jpg">]({{ post.url }})
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark' width='100%'></iframe>
+
+<iframe frameborder="0" height="36px" scrolling="no" src="https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark" width="100%"></iframe>
 
 {{ post.excerpt}}
 
-{% endif %}
 {% endfor %}
 
 <i class="fa fa-headphones"></i> [Listen to more episodes...](/podcast/)
