@@ -8,7 +8,7 @@ redirect_from:
 
 ## Check your email
 
-<iframe src="//giphy.com/embed/HMJWrUVPR0pXy" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Cute dog in a mailbox](http://i.giphy.com/HMJWrUVPR0pXy.gif)
 
 We *just* sent you a confirmation email. Check your inbox and click the link to confirm your subscription.
 
