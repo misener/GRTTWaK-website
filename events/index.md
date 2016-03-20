@@ -38,6 +38,10 @@ redirect_from:
 
 ![GRTTWaK](/images/charlottetown_pano.jpg)
 
+{% if jekyll.environment == "development" %}
+  <script>TitoDevelopmentMode = true</script>
+{% endif %}
+
 {% if site.data.events.upcoming %}
   {% assign upcoming = site.data.events.upcoming | sort: "date" %}
 {% endif %}
