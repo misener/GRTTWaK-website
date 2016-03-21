@@ -10,4 +10,4 @@ Thanks for signing up for the *Grownups Read Things They Wrote as Kids* email ne
 
 If you haven’t already, may we suggest subscribing to the [*Grownups Read Things They Wrote as Kids* podcast](http://www.grownupsreadthingstheywroteaskids.com/podcast/)?
 
-Or following [GRTTWaK on Twitter](https://twitter.com/GRTTWaK), or [Facebook](https://www.facebook.com/grownupsreadthingstheywroteaskids)?
+Or following us on [Facebook](https://www.facebook.com/grownupsreadthingstheywroteaskids), [Twitter](https://twitter.com/GRTTWaK), or [Instagram](https://www.instagram.com/GRTTWaK/).

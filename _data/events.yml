@@ -11,26 +11,90 @@ upcoming:
     url: http://www.ontheboards.ca/
   tito_event: "grttwak/saskatoon-2016-april"
   showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: zhftm538dio
+        general_admission: s6qnjog89gi
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
     #     general_admission: 
 
+
 - date: 2016-04-25 20:00:00
   venue:
     name: The Artesian
-    address: 2627 13th Ave
+    address: 2627 13th Avenue
     city: 'Regina'
     province: SK
     url: http://www.artesianon13th.ca/
   tito_event: "grttwak/regina-2016-april"
   showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: bw1lvdg0s-g
+        general_admission: 8vsmamiypby
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+- date: 2016-05-01 20:00:00
+  venue:
+    name: Biltmore Cabaret
+    address: 2755 Prince Edward Street
+    city: 'Vancouver'
+    province: BC
+    url: http://biltmorecabaret.com/
+  tito_event: "grttwak/vancouver-2016-may"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: curw3fpsiky
+        general_admission: aukpott6cqc
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
     #     general_admission: 
 
 
+- date: 2016-05-02 20:00:00
+  venue:
+    name: Victoria Event Centre
+    address: 1415 Broad Street
+    city: 'Victoria'
+    province: BC
+    url: http://victoriaeventcentre.ca/
+  tito_event: "grttwak/victoria-2016-may"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: odkxkslfuqw
+        general_admission: bz6dg2g6wq0
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+
+- date: 2016-05-04 20:00:00
+  venue:
+    name: The Park Theatre
+    address: 698 Osborne Street 
+    city: 'Winnipeg'
+    province: MB
+    url: http://www.parktheatervideo.com/
+  tito_event: "grttwak/winnipeg-2016-may"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: 528jy5pg2gi
+        general_admission: l9yyzaqe8ws
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
 
 
 # PAST
