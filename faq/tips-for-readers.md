@@ -5,6 +5,12 @@ title: Tips for Readers
 
 ![GRTTWaK](/images/park-theatre-stage.jpg)
 
+> "_Courage starts with showing up and letting ourselves be seen._"
+>
+> Brené Brown
+
+<hr>
+
 So you've signed up to read at _Grownups Read Things They Wrote as Kids_!
 
 Congratulations and thank you! Here are a few tips to help make the most out of your GRTTWaK experience. They're all important, so please read them carefully.
