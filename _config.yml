@@ -9,7 +9,7 @@ gems:
   - jekyll-sitemap
   - jekyll-paginate
 
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
