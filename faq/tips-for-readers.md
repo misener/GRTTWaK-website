@@ -11,9 +11,7 @@ title: Tips for Readers
 
 <hr>
 
-So you've signed up to read at _Grownups Read Things They Wrote as Kids_!
-
-Congratulations and thank you! Here are a few tips to help make the most out of your GRTTWaK experience. They're all important, so please read them carefully.
+So you've signed up to read at _Grownups Read Things They Wrote as Kids_. Congratulations and thank you. Here are a few tips to help make the most out of your GRTTWaK experience. They're all important, so please read them all, and read them carefully.
 
 ## Show up early
 
