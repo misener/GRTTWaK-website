@@ -3,7 +3,9 @@ layout: page
 title: Podcast sponsorship
 ---
 
-The *Grownups Read Things They Wrote as Kids* podcast reaches 50,000 regular listeners. Many are [effusive in their praise](http://feeds.grownupsreadthingstheywroteaskids.com/reviews). The show has been named an iTunes "Best Of" each year we've been in production, and one time we even won a [fancy-shmancy international broadcasting award](http://www.newyorkfestivals.com/worldsbestradio/2015/pieces.php?iid=490490&pid=1).
+The *Grownups Read Things They Wrote as Kids* podcast reaches 50,000 regular listeners. Many are [effusive in their praise](http://feeds.grownupsreadthingstheywroteaskids.com/reviews).
+
+The show has been named an iTunes "Best Of" each year we've been in production, and one time we even won a [fancy-shmancy international broadcasting award](http://www.newyorkfestivals.com/worldsbestradio/2015/pieces.php?iid=490490&pid=1).
 
 Each bi-weekly episode has room for a single sponsorship, which includes:
 
