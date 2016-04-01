@@ -89,7 +89,9 @@ redirect_from:
   },
   "offers":{
       "@type": "Offer",
-      "url" : "https://ti.to{{ event.tito_event }}"
+      "url" : "https://ti.to{{ event.tito_event }}",
+      "price" : 12,
+      "priceCurrency" : "CAD"
     }
 }
 </script>
