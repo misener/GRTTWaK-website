@@ -48,14 +48,16 @@ upcoming:
     url: http://biltmorecabaret.com/
   tito_event: "grttwak/vancouver-2016-may"
   showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: 4zm9icwklje
+        general_admission: z3c57iqr3ze
+
     - name: Evening (8:00)
       releases:
         reader: curw3fpsiky
         general_admission: aukpott6cqc
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 
-    #     general_admission: 
+
 
 
 - date: 2016-05-02 20:00:00
