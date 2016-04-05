@@ -5,7 +5,7 @@ title: Can I organize my own GRTTWaK-style event?
 
 Of course, so long as you call it something other than *Grownups Read Things They Wrote as Kids*, to avoid confusion.[^1]
 
-GRTTWaK isn't a franchise. It's a tiny passion project run by a married couple, part-time, evenings and weekends. We've been organizing GRTTWaK shows for almost a decade and in that time, we've developed enough esoteric ways of doing things that franchising just isn't possible right now.
+GRTTWaK isn't a franchise. It's a tiny passion project run by a married couple, part-time, evenings and weekends. We've been organizing GRTTWaK shows for almost a decade and in that time, we've developed enough esoteric ways of doing things that franchising just isn't feasible right now.
 
 Of course, that shouldn't stop you from putting your own unique spin on a juvenilia-reading event. Nobody owns the idea of sharing cute/funny/embarassing juvenilia on stage, and there are **lots** of other events where people read childhood/teenage diaries, poetry, short stories, etc.
 
