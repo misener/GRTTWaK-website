@@ -1,7 +1,7 @@
 ---
 categories: episodes
 number: 308
-quote: I hugged with girls today
+quote: Nothing is sexier than teamwork
 city: Toronto
 permalink: /episode/308/
 simplecast_episode_id: 35013
