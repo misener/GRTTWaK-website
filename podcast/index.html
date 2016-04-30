@@ -6,7 +6,11 @@ redirect_from:
   - /category/podcast/episodes/
 ---
 
-<p>Subscribe to <em>Grownups Read Things They Wrote as Kids</em> in <a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_podcast_page">iTunes / Apple Podcasts</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/soundcloud">SoundCloud</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/overcast">Overcast</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/stitcher">Stitcher</a>, <a href="http://pcasts.in/feed/feeds.grownupsreadthingstheywroteaskids.com/podcast/">Pocket Casts</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/tunein">TuneIn</a>, or anywhere else using our <a href="http://feeds.grownupsreadthingstheywroteaskids.com/podcast/">RSS feed</a>.</p>
+<a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_podcast_page_badge"><img src="http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" style="display:inline" height="59px"></a>
+
+<a href="http://links.grownupsreadthingstheywroteaskids.com/googleplay"><img src="/images/get_it_on_play_logo_large.png" style="display:inline"></a>
+
+<p>Subscribe to <em>Grownups Read Things They Wrote as Kids</em> in <a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_podcast_page_text">iTunes / Apple Podcasts</a>, on <a href="http://links.grownupsreadthingstheywroteaskids.com/googleplay">Google Play (Android)</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/soundcloud">SoundCloud</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/overcast">Overcast</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/stitcher">Stitcher</a>, <a href="http://pcasts.in/feed/feeds.grownupsreadthingstheywroteaskids.com/podcast/">Pocket Casts</a>, <a href="http://links.grownupsreadthingstheywroteaskids.com/tunein">TuneIn</a>, or anywhere else using our <a href="http://feeds.grownupsreadthingstheywroteaskids.com/podcast/">RSS feed</a>.</p>
 
 {% comment %}
 
@@ -38,8 +42,11 @@ redirect_from:
 {% if post.soundcloud_id %}
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
 {% elsif post.simplecast_episode_id %}
-<img src="/images/episodes/{{ post.number }}.jpg">
-<iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark' width='100%'></iframe>
+
+
+        <img src="/images/episodes/{{ post.number }}.jpg">
+        <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark' width='100%'></iframe>
+
 {% endif %}
 
 <!--<audio controls>

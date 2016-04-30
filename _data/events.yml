@@ -2,42 +2,6 @@
 
 upcoming:
 
-- date: 2016-04-24 20:00:00
-  venue:
-    name: The Refinery
-    address: 609 Dufferin Avenue
-    city: 'Saskatoon'
-    province: SK
-    url: http://www.ontheboards.ca/
-  tito_event: "grttwak/saskatoon-2016-april"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: zhftm538dio
-        general_admission: s6qnjog89gi
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 
-    #     general_admission: 
-
-
-- date: 2016-04-25 20:00:00
-  venue:
-    name: The Artesian
-    address: 2627 13th Avenue
-    city: 'Regina'
-    province: SK
-    url: http://www.artesianon13th.ca/
-  tito_event: "grttwak/regina-2016-april"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: bw1lvdg0s-g
-        general_admission: 8vsmamiypby
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 
-    #     general_admission: 
 
 - date: 2016-05-01 20:00:00
   venue:
@@ -57,8 +21,6 @@ upcoming:
       releases:
         reader: curw3fpsiky
         general_admission: aukpott6cqc
-
-
 
 - date: 2016-05-02 20:00:00
   venue:
@@ -537,3 +499,41 @@ past:
       releases:
         reader: glzkwovrthq
         general_admission: 0m0axrbfs6s
+
+
+- date: 2016-04-24 20:00:00
+  venue:
+    name: The Refinery
+    address: 609 Dufferin Avenue
+    city: 'Saskatoon'
+    province: SK
+    url: http://www.ontheboards.ca/
+  tito_event: "grttwak/saskatoon-2016-april"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: zhftm538dio
+        general_admission: s6qnjog89gi
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+- date: 2016-04-25 20:00:00
+  venue:
+    name: The Artesian
+    address: 2627 13th Avenue
+    city: 'Regina'
+    province: SK
+    url: http://www.artesianon13th.ca/
+  tito_event: "grttwak/regina-2016-april"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: bw1lvdg0s-g
+        general_admission: 8vsmamiypby
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
