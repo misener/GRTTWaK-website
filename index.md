@@ -17,7 +17,7 @@ title: Home
 
 <i class="fa fa-headphones"></i> [Listen to more episodes in the archives](/podcast/) or subscribe:
 
-<a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_podcast_page_badge"><img src="http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/googleplay"><img src="/images/get_it_on_play_logo_large.png" style="display:inline"></a>
+<a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_front_page_badge"><img src="http://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/googleplay"><img src="/images/get_it_on_play_logo_large.png" style="display:inline"></a>
 
 ## <i class="fa fa-calendar"></i> Live Events 
 
