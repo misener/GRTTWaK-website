@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Can I organize my own GRTTWaK-style event?
+redirect_from:
+  - /diy/
 ---
 
 Of course, so long as you call it something other than *Grownups Read Things They Wrote as Kids*, to avoid confusion.[^1]
