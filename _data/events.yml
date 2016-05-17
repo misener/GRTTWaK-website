@@ -3,64 +3,6 @@
 upcoming:
 
 
-- date: 2016-05-01 20:00:00
-  venue:
-    name: Biltmore Cabaret
-    address: 2755 Prince Edward Street
-    city: 'Vancouver'
-    province: BC
-    url: http://biltmorecabaret.com/
-  tito_event: "grttwak/vancouver-2016-may"
-  showtimes:
-    - name: Matinee (3:30)
-      releases:
-        reader: 4zm9icwklje
-        general_admission: z3c57iqr3ze
-
-    - name: Evening (8:00)
-      releases:
-        reader: curw3fpsiky
-        general_admission: aukpott6cqc
-
-- date: 2016-05-02 20:00:00
-  venue:
-    name: Victoria Event Centre
-    address: 1415 Broad Street
-    city: 'Victoria'
-    province: BC
-    url: http://victoriaeventcentre.ca/
-  tito_event: "grttwak/victoria-2016-may"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: odkxkslfuqw
-        general_admission: bz6dg2g6wq0
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 
-    #     general_admission: 
-
-
-
-- date: 2016-05-04 20:00:00
-  venue:
-    name: The Park Theatre
-    address: 698 Osborne Street 
-    city: 'Winnipeg'
-    province: MB
-    url: http://www.parktheatervideo.com/
-  tito_event: "grttwak/winnipeg-2016-may"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: 528jy5pg2gi
-        general_admission: l9yyzaqe8ws
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 
-    #     general_admission: 
-
-
 # PAST
 
 past:
@@ -172,7 +114,7 @@ past:
     address: 
     city: 'Vancouver, BC'
 
-- date: 2014-03-04 20:00:00
+- date: 2014-06-04 20:00:00
   venue:
     name: Broken City Social Club
     address: 
@@ -533,6 +475,64 @@ past:
       releases:
         reader: bw1lvdg0s-g
         general_admission: 8vsmamiypby
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+- date: 2016-05-01 20:00:00
+  venue:
+    name: Biltmore Cabaret
+    address: 2755 Prince Edward Street
+    city: 'Vancouver'
+    province: BC
+    url: http://biltmorecabaret.com/
+  tito_event: "grttwak/vancouver-2016-may"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: 4zm9icwklje
+        general_admission: z3c57iqr3ze
+
+    - name: Evening (8:00)
+      releases:
+        reader: curw3fpsiky
+        general_admission: aukpott6cqc
+
+- date: 2016-05-02 20:00:00
+  venue:
+    name: Victoria Event Centre
+    address: 1415 Broad Street
+    city: 'Victoria'
+    province: BC
+    url: http://victoriaeventcentre.ca/
+  tito_event: "grttwak/victoria-2016-may"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: odkxkslfuqw
+        general_admission: bz6dg2g6wq0
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+
+- date: 2016-05-04 20:00:00
+  venue:
+    name: The Park Theatre
+    address: 698 Osborne Street 
+    city: 'Winnipeg'
+    province: MB
+    url: http://www.parktheatervideo.com/
+  tito_event: "grttwak/winnipeg-2016-may"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: 528jy5pg2gi
+        general_admission: l9yyzaqe8ws
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 

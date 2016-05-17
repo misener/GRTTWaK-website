@@ -27,7 +27,7 @@ We have upcoming live events in: {% for event in upcoming %}<a href="/events/#{{
 
 {% else %}
 
-NO EVENTS!
+No  events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/).
 
 {% endif %}
 

@@ -59,11 +59,8 @@ redirect_from:
 {% if event.showtimes == nill %}We've announced this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
 
 {% for showtime in event.showtimes %}
-{% if event.showtimes.size > 1 %}### {{ showtime.name }}{% endif %}
-
-{% comment %}
-<tito-widget event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"></tito-widget>
-{% endcomment %}
+{% if event.showtimes.size > 1 %}### {{ showtime.name }}
+{% endif %}
 
 {% comment %}
 <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button> 
@@ -72,7 +69,6 @@ redirect_from:
 {% endcomment %}
 
 <button onclick="window.location='https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}';"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</button> <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
-
 
 <script type="application/ld+json">
 {
@@ -101,6 +97,12 @@ redirect_from:
 
 <hr>
 {% endfor %}
+
+{% else %}
+
+No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/).
+
+
 
 {% endif %}
 
