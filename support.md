@@ -8,19 +8,19 @@ permalink: /support/
 
 When you become a patron of GRTTWaK, you support the show **directly**. This allows us to organize live events, record stories in as many different places as possible, and produce new podcast episodes in a sustainable way.
 
+
+## Three levels of support
+
+We have three different levels of patronage, each named after a phase of growing up:
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-/*.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}*/
-/*.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}*/
 .tg .tg-baqh{text-align:center;vertical-align:top}
 .fa-heart {
   color: #f37749;
 }
 </style>
 
-## Three levels of support
-
-We have three different levels of patronage, each named after a part of growing up:
 
 <table class="tg">
   <tr>
@@ -63,6 +63,10 @@ This isn't a Kickstarter. We don't have t-shirts or tote bags or stretch goals. 
 ## No pressure
 
 Patronage is completely optional. If you'd rather not, or just aren't in a place where you can support the show financially, no worries and no weirdness. Honest. But if you care about GRTTWaK and want to support it, consider becoming a patron today.
+
+## Thank you!
+
+*Grownups Read Things They Wrote as Kids* has always been a grassroots, word-of-mouth kind of thing, and the very fact that you're reading these words means a *lot.* If you're considering becoming a patron, thank you. We couldn't do GRTTWaK without you.
 
 ***
 
