@@ -32,22 +32,22 @@ We have three different levels of patronage, each named after a part of growing 
     <td class="tg-baqh">
       <a href="https://grttwak.memberful.com/checkout?plan=13328"><i class="fa fa-heart fa-5x" aria-hidden="true"></i></a>
       <br>
-      Support at<br>
-      $2/month*
+      <a href="https://grttwak.memberful.com/checkout?plan=13328">Support at<br>
+      $2/month*</a>
     </td>
 
     <td class="tg-baqh">
       <a href="https://grttwak.memberful.com/checkout?plan=13327"><i class="fa fa-heart fa-5x" aria-hidden="true"></i></a>
       <br>
-            Support at<br>
-      $5/month
+      <a href="https://grttwak.memberful.com/checkout?plan=13327">Support at<br>
+      $5/month</a>
     </td>
 
     <td class="tg-baqh">
       <a href="https://grttwak.memberful.com/checkout?plan=13326"><i class="fa fa-heart fa-5x" aria-hidden="true"></i></a>
       <br>
-            Support at<br>
-      $10/month 
+      <a href="https://grttwak.memberful.com/checkout?plan=13326">Support at<br>
+      $10/month</a>
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ Patronage is completely optional. If you'd rather not, or just aren't in a place
 
 ## Is this a paywall for the podcast?
 
-No. The podcast is free to download, and patronage is completely optional.
+No. The podcast is totally free to download, and patronage is completely optional.
 
 ## Is this secure?
 
