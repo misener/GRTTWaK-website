@@ -1,13 +1,11 @@
 <head>
   <!--
-
      __________  _____________       __      __ __
     / ____/ __ \/_  __/_  __/ |     / /___ _/ //_/
    / / __/ /_/ / / /   / /  | | /| / / __ `/ ,<   
   / /_/ / _, _/ / /   / /   | |/ |/ / /_/ / /| |  
   \____/_/ |_| /_/   /_/    |__/|__/\__,_/_/ |_|  
                                                   
-
   Made with <3 in Toronto by Dan Misener.
   Copyright © {{ site.time | date: '%Y' }} Grownups Read Things They Wrote as Kids.
 
@@ -94,31 +92,13 @@
   <script src="//js.tito.io/v1" async></script>
   <link rel="stylesheet" type="text/css" href='//css.tito.io/v1' />
 
-  {% comment %}
   <!-- Memberful -->
-  <script type="text/javascript">
-  window.MemberfulOptions = {site: "https://grttwak.memberful.com"};
-
-  (function() {
-    var s   = document.createElement('script');
-
-    s.type  = 'text/javascript';
-    s.async = true;
-    s.src   = 'https://d35xxde4fgg0cx.cloudfront.net/assets/embedded.js';
-
-    setup = function() { window.MemberfulEmbedded.setup(); }
-
-    if(s.addEventListener) { s.addEventListener("load", setup, false); } else { s.attachEvent("onload", setup); }
-
-    ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
-  })();
-  </script>
-  {% endcomment %}
+  {% include memberful.html %}
 
   <!-- Google Analytics -->
   <script>
     var googleUA = 'UA-382065-8';
-    var googleDomainList = ['grownupsreadthingstheywroteaskids.com', 'ti.to'];
+    var googleDomainList = ['grownupsreadthingstheywroteaskids.com', 'ti.to', 'memberful.com'];
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
