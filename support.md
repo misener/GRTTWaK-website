@@ -82,7 +82,7 @@ Yes. Patronage is handled by [Memberful](https://memberful.com/), and payments a
 
 ## How do I change/manage/cancel my patronage?
 
-Simply [sign in to your Memberful account](https://grttwak.memberful.com/account) using the email address and password you used when you signed up. If you run into trouble, [email Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
+Simply [sign in to your Memberful account](https://grttwak.memberful.com/account) using the email address and password you used when you signed up. To cancel, click *Subscriptions* then *Turn off auto-renewal*. If you run into trouble, [email Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
 
 ***
 
