@@ -58,7 +58,7 @@ All levels of patronage are in Canadian dollars, and are set to renew automatica
 
 ## What you get
 
-This isn't a Kickstarter. We don't have t-shirts or tote bags or stretch goals. But, as a way to say thank you, **patrons get early access to a block of advance tickets for each live event**.[^tickets]
+Beyond our sincere thanks, and the opportunity to support a thing you love, you also get early access to tickets for live events. Live GRTTWaK shows often sell out *very* quickly, and we'll make a special block of tickets available to patrons first.[^tickets]
 
 ## No pressure
 
@@ -74,7 +74,7 @@ Patronage is completely optional. If you'd rather not, or just aren't in a place
 
 ## Is this a paywall for the podcast?
 
-No. The podcast is totally free to download, and patronage is completely optional.
+No. The podcast is totally free to download, and will remain that way. Patronage is completely optional.
 
 ## Is this secure?
 
@@ -86,4 +86,4 @@ Simply [sign in to your Memberful account](https://grttwak.memberful.com/account
 
 ***
 
-[^tickets]: Don't worry. We'll always have general admission tickets and reader spots available to everyone (patron or not), first-come, first-served. Patronage doesn't guarantee anyone a live event ticket, but it does give supporters of the show first dibs on a small block of audience tickets.
+[^tickets]: Don't worry. We'll always have general admission tickets and reader spots available to everyone (patron or not), first-come, first-served.
