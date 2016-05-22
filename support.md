@@ -58,7 +58,7 @@ All levels of patronage are in Canadian dollars, and are set to renew automatica
 
 ## What you get
 
-Beyond our sincere thanks, and the opportunity to support a thing you love, you also get early access to tickets for live events. Live GRTTWaK shows often sell out *very* quickly, and we'll make a special block of tickets available to patrons first.[^tickets]
+Beyond our sincere thanks, and the opportunity to support a thing you love, you also get **early access to tickets for live events**. Live GRTTWaK shows often sell out *very* quickly, and we'll make a special block of tickets available to patrons first.[^tickets]
 
 ## No pressure
 
