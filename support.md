@@ -64,6 +64,18 @@ Beyond our sincere thanks, and the opportunity to support a thing you love, you 
 
 Patronage is completely optional. If you'd rather not, or just aren't in a place where you can support the show financially, no worries and no weirdness. Honest. But if you care about GRTTWaK and want to support it, consider becoming a patron today.
 
+## One-time options
+
+If you'd prefer a one-time non-recurring way to support the show, we have that too:
+
+- [$5 (one-time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13378)
+- [$10 (one-time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13379)
+- [$15 (one-time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13380)
+- [$25 (one time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13381)
+- [$50 (one time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13382)
+
+If you'd like to support the show with another amount, [email Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
+
 ## Thank you!
 
 *Grownups Read Things They Wrote as Kids* has always been a grassroots, word-of-mouth kind of thing, and the very fact that you're reading these words means a *lot.* If you're considering becoming a patron, thank you. We couldn't do GRTTWaK without you.
