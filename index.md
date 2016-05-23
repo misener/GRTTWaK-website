@@ -19,6 +19,10 @@ title: Home
 
 <a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_front_page_badge"><img src="https://linkmaker.itunes.apple.com/images/badges/en-us/badge_itunes-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/googleplay"><img src="/images/get_it_on_play_logo_large.png" style="display:inline"></a>
 
+## <i class="fa fa-heart" aria-hidden="true"></i> Support the show
+
+*Grownups Read Things They Wrote as Kids* is an independent production, supported by people who love it. <a href="/support/">Become a patron today</a>.
+
 ## <i class="fa fa-calendar"></i> Live Events 
 
 {% if site.data.events.upcoming.size > 0 %}
@@ -30,6 +34,8 @@ We have upcoming live events in: {% for event in upcoming %}<a href="/events/#{{
 No  events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/).
 
 {% endif %}
+
+
 
 ## About
 
