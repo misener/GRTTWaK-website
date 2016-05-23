@@ -11,7 +11,7 @@ When you become a patron of GRTTWaK, you support the show **directly**. This all
 
 ## Three levels of support
 
-We have three different levels of patronage, each named after a phase of growing up:
+We have three levels of patronage, each named after a phase of growing up:
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
