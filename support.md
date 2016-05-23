@@ -74,7 +74,7 @@ If you'd prefer a one-time non-recurring way to support the show, we have that t
 - [$25 (one time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13381)
 - [$50 (one time, non-recurring)](https://grttwak.memberful.com/checkout?plan=13382)
 
-If you'd like to support the show with another amount, [email Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
+If you'd like to support the show with another amount, just [email Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
 
 ## Thank you!
 
