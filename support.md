@@ -88,6 +88,10 @@ If you'd like to support the show with another amount, just [email Dan](mailto:d
 
 No. The podcast is totally free to download, and will remain that way. Patronage is completely optional.
 
+## I'm not Canadian. Can I still become a patron?
+
+Of course you can. If you support GRTTWaK using one of the links above, your credit card will be charged in [Canadian dollars](https://www.google.ca/search?q=google%20currency%20converter).
+
 ## Is this secure?
 
 Yes. Patronage is handled by [Memberful](https://memberful.com/), and payments are processed through [Stripe](https://stripe.com). You can read more about their online security [here](https://memberful.com/help/general/security/) and [here](https://stripe.com/docs/security). Neither GRTTWaK nor Memberful has access to your credit card data.
