@@ -42,6 +42,10 @@ Time yourself. If you have more than 5 minutes worth of material, pick your favo
 
 Kid = whatever you consider kid to mean. One of the best things about GRTTWaK is the wide variety of things people bring to read. We’ve had stuff from early elementary school all the way up to college age writing. Bring whatever you want.
 
+## How do you choose which readings end up in the podcast?
+
+Good question. [Dan wrote a whole thing about that](/faq/podcast-editorial/).
+
 ## What’s the deal with other, similar events? Are they ripping you off? Are you ripping them off? 
 
 There are lots of juvenilia-based events out there, each with their own particular format and execution.
