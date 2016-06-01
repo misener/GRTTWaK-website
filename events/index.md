@@ -100,9 +100,35 @@ redirect_from:
 
 {% else %}
 
-No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/).
+No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/):
 
+<form action="https://sendy.grownupsreadthingstheywroteaskids.com/subscribe" method="POST" accept-charset="utf-8" class="pure-form pure-form-aligned">
+  <fieldset>
+  <div class="pure-control-group">
+    <label for="name">Name</label>
+    <input type="text" name="name" id="name" placeholder="Name">
+  </div>
 
+  <div class="pure-control-group">
+    <label for="email">Email</label>
+    <input type="text" name="email" id="email" placeholder="your@email.com">
+  </div>
+
+  <div class="pure-control-group">
+   <label for="City">City</label>
+   <input type="text" name="City" id="City" placeholder="City">
+  </div>
+
+  <div class="pure-controls">
+   <button type="submit" class="pure-button pure-button-primary" name="submit" id="submit" style="background-color: #f37749;">Submit</button>
+  </div>
+
+    <input type="hidden" name="list" value="etW6B40hkAJ4FkY9FvApEQ">
+
+  </fieldset>
+</form>
+
+***
 
 {% endif %}
 
