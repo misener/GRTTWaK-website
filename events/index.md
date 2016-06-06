@@ -56,7 +56,7 @@ redirect_from:
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
-{% if event.showtimes == nill %}We've announced this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
+{% if event.showtimes == nill %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
 
 {% for showtime in event.showtimes %}
 {% if event.showtimes.size > 1 %}### {{ showtime.name }}
