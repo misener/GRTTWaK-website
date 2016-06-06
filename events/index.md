@@ -66,9 +66,18 @@ redirect_from:
 <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button> 
 
 [Sign up to read in {{ event.venue.city }}](https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }})
-{% endcomment %}
+
+WORKING:
 
 <button onclick="window.location='https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}';"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</button> <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
+
+{% endcomment %}
+
+<tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button>
+
+<tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
+
+
 
 <script type="application/ld+json">
 {
@@ -86,7 +95,7 @@ redirect_from:
   "offers":{
       "@type": "Offer",
       "url" : "https://ti.to{{ event.tito_event }}",
-      "price" : 12,
+      "price" : 14,
       "priceCurrency" : "CAD"
     }
 }
@@ -95,6 +104,7 @@ redirect_from:
 
 {% endfor %}
 
+
 <hr>
 {% endfor %}
 
@@ -102,31 +112,7 @@ redirect_from:
 
 No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/):
 
-<form action="https://sendy.grownupsreadthingstheywroteaskids.com/subscribe" method="POST" accept-charset="utf-8" class="pure-form pure-form-aligned">
-  <fieldset>
-  <div class="pure-control-group">
-    <label for="name">Name</label>
-    <input type="text" name="name" id="name" placeholder="Name">
-  </div>
-
-  <div class="pure-control-group">
-    <label for="email">Email</label>
-    <input type="text" name="email" id="email" placeholder="your@email.com">
-  </div>
-
-  <div class="pure-control-group">
-   <label for="City">City</label>
-   <input type="text" name="City" id="City" placeholder="City">
-  </div>
-
-  <div class="pure-controls">
-   <button type="submit" class="pure-button pure-button-primary" name="submit" id="submit" style="background-color: #f37749;">Submit</button>
-  </div>
-
-    <input type="hidden" name="list" value="etW6B40hkAJ4FkY9FvApEQ">
-
-  </fieldset>
-</form>
+{% include newsletter_subscribe.html %}
 
 ***
 
@@ -134,9 +120,34 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 
 
 
+# Ticketing FAQ
+
+We've tried to make GRTTWaK tickets as simple and straightforward as possible. Here are a few answers to frequently asked questions. If you have a question that's not answered here, [get in touch](/contact/).
+
+## It says you're sold out. Are you really sold out?
+
+If you can't buy a ticket, we're probably sold out. We know this can be frustrating.
+
+The first place we announce live shows is through our [email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/). Often, live events fill up hours (or minutes) after they're announced.
+
+Our ticketing company, [Tito](https://ti.to/), has a "waiting list" feature. If a show is sold out, you can join the waiting list. If more general admission tickets become available, we make them available to members of the waiting list. Joining the waiting list does not guarantee you a ticket, nor does it give you any special privledges for the *next* available show.
+
+Reader signup and general admission tickets are first-come, first-served. It's not ideal for everyone, but it's the fairest way we know how to do it. We appreciate your patience. 
+
+## How does the reader waiting list work?
+
+Reader signup is first-come, first-served. If all the reader spots are taken, you'll see an option that says "Join the Waiting List." If you add your name and email to the waiting list, and a reader spot opens up in the days or weeks leading up to an event, we'll be in touch by email. It might be very short notice.
+
+Please note that a spot on the waiting list does not guarantee you a reading spot.
+
+Remember — kid writing doesn't expire, and we're planning to keep doing shows well into the future.
+
+## Can I get a refund?
+
+General Admission tickets are fully transferrable to another person. Simply follow the links in the email confirmation from Tito. As a general rule, we can process refunds but only **up until one week before** a live event. We cannot accommodate last-minute refunds.
 
 
-## Past events
+# Past events
 
 | Date          | City          | Venue  |
 | ------------- |:-------------:| :-----:|
