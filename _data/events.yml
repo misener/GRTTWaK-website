@@ -2,6 +2,79 @@
 
 upcoming:
 
+- date: 2016-07-06 20:00:00
+  venue:
+    name: The Mercury Room
+    address: 10575 114 Street
+    city: 'Edmonton'
+    province: AB
+    url: http://mercuryroomyeg.com/
+  tito_event: "grttwak/edmonton-2016-july"
+  # showtimes:
+  #   - name: Evening (8:00)
+  #     releases:
+  #       reader: 528jy5pg2gi
+  #       general_admission: h4j09e2f9ow
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+- date: 2016-07-07 20:00:00
+  venue:
+    name: Yuk Yuk's Calgary
+    address: "218 - 18th Avenue SE, in the Elbow River Casino"
+    city: 'Calgary'
+    province: AB
+    url: https://www.yukyuks.com/calgary
+  tito_event: "grttwak/calgary-2016-july"
+  # showtimes:
+  #   - name: Evening (8:00)
+  #     releases:
+  #       reader: xd1d7euorc4
+  #       general_admission: gihzr52nbqo
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
+- date: 2016-07-08 20:00:00
+  venue:
+    name: The Top Knight
+    address: "4910 49th Street, above The Black Knight Pub"
+    city: 'Yellowknife'
+    province: NT
+    url: http://www.blackknightpub.com/
+  tito_event: "grttwak/yellowknife-2016-july"
+  # showtimes:
+  #   - name: Evening (8:00)
+  #     releases:
+  #       reader: uah-a-ijibm
+  #       general_admission: xoqaboe93e0
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+- date: 2016-07-24 20:00:00
+  venue:
+    name: The Tranzac
+    address: "292 Brunswick Ave"
+    city: 'Toronto'
+    province: 'ON'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/toronto-2016-july"
+  showtimes:
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: uah-a-ijibm
+    #     general_admission: xoqaboe93e0
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
 
 # PAST
 
