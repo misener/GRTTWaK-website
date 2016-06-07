@@ -10,11 +10,11 @@ upcoming:
     province: AB
     url: http://mercuryroomyeg.com/
   tito_event: "grttwak/edmonton-2016-july"
-  # showtimes:
-  #   - name: Evening (8:00)
-  #     releases:
-  #       reader: 528jy5pg2gi
-  #       general_admission: h4j09e2f9ow
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: h4j09e2f9ow
+        general_admission: fywc6ie3p1i
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
@@ -29,11 +29,11 @@ upcoming:
     province: AB
     url: https://www.yukyuks.com/calgary
   tito_event: "grttwak/calgary-2016-july"
-  # showtimes:
-  #   - name: Evening (8:00)
-  #     releases:
-  #       reader: xd1d7euorc4
-  #       general_admission: gihzr52nbqo
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: xd1d7euorc4
+        general_admission: gihzr52nbqo
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
@@ -48,11 +48,11 @@ upcoming:
     province: NT
     url: http://www.blackknightpub.com/
   tito_event: "grttwak/yellowknife-2016-july"
-  # showtimes:
-  #   - name: Evening (8:00)
-  #     releases:
-  #       reader: uah-a-ijibm
-  #       general_admission: xoqaboe93e0
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: uah-a-ijibm
+        general_admission: xoqaboe93e0
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
