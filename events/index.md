@@ -124,7 +124,7 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 
 We've tried to make GRTTWaK tickets as simple and straightforward as possible. Here are a few answers to frequently asked questions. If you have a question that's not answered here, [get in touch](/contact/).
 
-## It says you're sold out. Are you really sold out?
+## <a name="waitlist"></a> It says you're sold out. Are you really sold out?
 
 If you can't buy a ticket, we're probably sold out. We know this can be frustrating.
 
@@ -134,7 +134,7 @@ Our ticketing company, [Tito](https://ti.to/), has a "waiting list" feature. If 
 
 Reader signup and general admission tickets are first-come, first-served. It's not ideal for everyone, but it's the fairest way we know how to do it. We appreciate your patience. 
 
-## How does the reader waiting list work?
+## <a name="reader_waitlist"></a> How does the reader waiting list work?
 
 Reader signup is first-come, first-served. If all the reader spots are taken, you'll see an option that says "Join the Waiting List." If you add your name and email to the waiting list, and a reader spot opens up in the days or weeks leading up to an event, we'll be in touch by email. It might be very short notice.
 
@@ -142,7 +142,7 @@ Please note that a spot on the waiting list does not guarantee you a reading spo
 
 Remember — kid writing doesn't expire, and we're planning to keep doing shows well into the future.
 
-## Can I get a refund?
+## <a name="refunds"></a>Can I get a refund?
 
 General Admission tickets are fully transferrable to another person. Simply follow the links in the email confirmation from Tito. As a general rule, we can process refunds but only **up until one week before** a live event. We cannot accommodate last-minute refunds.
 
