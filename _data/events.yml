@@ -58,6 +58,42 @@ upcoming:
     #     reader: 
     #     general_admission: 
 
+
+
+
+- date: 2016-07-10 14:30:00
+  venue:
+    name: Biltmore Cabaret
+    address: "2755 Prince Edward Street"
+    city: 'Vancouver (matinee)'
+    province: 'BC'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/vancouver-2016-july"
+  showtimes:
+    # - name: Matinee (2:30) # these are correct 12 June 2016
+    #   releases:
+    #     reader: egtmvghrekm
+    #     general_admission: bfd6r-vy0ui
+
+- date: 2016-07-12 20:00:00
+  venue:
+    name: "The Old Fire Hall"
+    address: 1105 Front Street
+    city: 'Whitehorse'
+    province: 'YT'
+    url: http://yukonartscentre.com/firehall/
+  tito_event: "grttwak/whitehorse-2016-july"
+  showtimes:
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: qthejqxysni
+    #     general_admission: mmgwmwek7rk
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+
 - date: 2016-07-24 20:00:00
   venue:
     name: The Tranzac
