@@ -70,10 +70,10 @@ upcoming:
     url: http://www.tranzac.org/
   tito_event: "grttwak/vancouver-2016-july"
   showtimes:
-    # - name: Matinee (2:30) # these are correct 12 June 2016
-    #   releases:
-    #     reader: egtmvghrekm
-    #     general_admission: bfd6r-vy0ui
+    - name: Matinee (2:30) # these are correct 12 June 2016
+      releases:
+        reader: egtmvghrekm
+        general_admission: bfd6r-vy0ui
 
 - date: 2016-07-12 20:00:00
   venue:
@@ -84,10 +84,10 @@ upcoming:
     url: http://yukonartscentre.com/firehall/
   tito_event: "grttwak/whitehorse-2016-july"
   showtimes:
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: qthejqxysni
-    #     general_admission: mmgwmwek7rk
+    - name: Evening (8:00)
+      releases:
+        reader: qthejqxysni
+        general_admission: mmgwmwek7rk
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
