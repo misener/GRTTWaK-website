@@ -65,13 +65,20 @@
   {% endcomment %}
   <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.grownupsreadthingstheywroteaskids.com/podcast/">
 
+  {% comment %}EPISODE SPECIFIC METADATA FOR SOCIAL{% endcomment %}
+  {% if page.layout == 'episode' %}
+    {% capture image %}{{ site.url }}/images/episodes/{{ page.number }}.jpg{% endcapture %}
+  {% else %}
+      {% assign image = "https://grownupsreadthingstheywroteaskids.com/images/end-of-world-DSCF4448-800px.jpg" %}
+  {% endif %}
+
   <!-- Twitter -->
   <meta name="twitter:card" content="summary"/>
   <meta name="twitter:description" content="{{ site.description }}"/>
   <meta name="twitter:title" content="{{ page_title }}"/>
   <meta name="twitter:site" content="@GRTTWaK"/>
   <meta name="twitter:domain" content="{{ site.title }}"/>
-  <meta name="twitter:image:src" content="https://grownupsreadthingstheywroteaskids.com/images/end-of-world-DSCF4448-800px.jpg"/>
+  <meta name="twitter:image:src" content="{{ image }}"/>
   <meta name="twitter:creator" content="@misener"/>
 
   <!-- Facebook -->
@@ -85,7 +92,7 @@
   <meta property="article:publisher" content="https://www.facebook.com/grownupsreadthingstheywroteaskids" />
   <meta property="fb:admins" content="698025472" />
   <meta property="fb:app_id" content="153175753168" />
-  <meta property="og:image" content="https://grownupsreadthingstheywroteaskids.com/images/end-of-world-DSCF4448-800px.jpg" />
+  <meta property="og:image" content="{{ image }}" />
   <meta property="al:ios:url" content="itms-podcasts://geo.itunes.apple.com/us/podcast/grownups-read-things-they/id890900960?mt=2&at=10lR7u&ct=facebook" />
 
   <!-- Tito -->
