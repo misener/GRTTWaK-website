@@ -68,14 +68,18 @@
   {% comment %}EPISODE SPECIFIC METADATA FOR SOCIAL{% endcomment %}
   {% if page.layout == 'episode' %}
     {% capture image %}{{ site.url }}/images/episodes/{{ page.number }}.jpg{% endcapture %}
+    {% capture social_title %}&quot;{{ page.quote }}&quot; (Episode {{page.number}}, {{page.city}}){% endcapture %}
+    {% assign social_description = page.excerpt | strip_html }} %}
   {% else %}
       {% assign image = "https://grownupsreadthingstheywroteaskids.com/images/end-of-world-DSCF4448-800px.jpg" %}
+      {% assign social_description = site.description %}
+      {% assign social_title = site.title %}
   {% endif %}
 
   <!-- Twitter -->
   <meta name="twitter:card" content="summary"/>
-  <meta name="twitter:description" content="{{ site.description }}"/>
-  <meta name="twitter:title" content="{{ page_title }}"/>
+  <meta name="twitter:description" content="{{ social_description }}"/>
+  <meta name="twitter:title" content="{{ social_title }}"/>
   <meta name="twitter:site" content="@GRTTWaK"/>
   <meta name="twitter:domain" content="{{ site.title }}"/>
   <meta name="twitter:image:src" content="{{ image }}"/>
@@ -85,8 +89,8 @@
   <meta name="description" content="{{ site.description }}"/>
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:title" content="{{ page_title }}" />
-  <meta property="og:description" content="{{ site.description }}" />
+  <meta property="og:title" content="{{ social_title }}" />
+  <meta property="og:description" content="{{ social_description }}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url | replace:'index.html',''}}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="fb:admins" content="698025472" />
