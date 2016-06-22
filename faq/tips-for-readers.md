@@ -88,6 +88,8 @@ Here's the thing: _you might not end up on the radio/podcast_. Our live shows o
 
 If you don't end up in the podcast, don't take it personally. Very often, live readings have a "you had to be there" moment that doesn't translate to tape. **GRTTWaK is first and foremost a live event.** It's a room full of people getting together to have fun. The radio show and podcast is a consequence, not the cause. Don't think of your reading as an audition for the podcast. It's not.
 
+If you'd like a recording of yourself, [just ask](dan@grownupsreadthingstheywroteaskids.com).
+
 ## Questions?
 
 If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/).
