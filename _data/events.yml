@@ -58,9 +58,6 @@ upcoming:
     #     reader: 
     #     general_admission: 
 
-
-
-
 - date: 2016-07-10 14:30:00
   venue:
     name: Biltmore Cabaret
@@ -104,14 +101,15 @@ upcoming:
     url: http://www.tranzac.org/
   tito_event: "grttwak/toronto-2016-july"
   showtimes:
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: uah-a-ijibm
-    #     general_admission: xoqaboe93e0
     # - name: Matinee (3:30)
     #   releases:
-    #     reader: 
-    #     general_admission: 
+    #     reader: y-b5usog7eu
+    #     general_admission: xdfbrkqa5jw
+    - name: Evening (8:00)
+      releases:
+        reader: 1l9dx8wnwhg
+        general_admission: l-vfghfjfhg
+
 
 # PAST
 
