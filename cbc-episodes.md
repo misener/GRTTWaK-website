@@ -17,7 +17,6 @@ In the summer of 2014, CBC Radio aired 10 episodes of GRTTWaK. They're not on th
 
 {% assign episodes = site.data.cbc-episodes  %}
 
-
 {% for episode in episodes %}
 ## Episode {{ episode.number }}: {{ episode.city }}
 
@@ -25,5 +24,9 @@ In the summer of 2014, CBC Radio aired 10 episodes of GRTTWaK. They're not on th
 	<source src="{{ episode.mp3_url }}" type="audio/mpeg">
 	Your browser does not support the audio element.
 </audio>
+
+[MP3]({{ episode.mp3_url }})
+
+***
 
 {% endfor %}
