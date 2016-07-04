@@ -7,6 +7,8 @@ permalink: /episode/314/
 simplecast_episode_id: 41287
 ---
 
+Evan writes a letter to Wayne's World, Sabrina tells a terrifying tale about a murderous English teacher, Kaylee grabs her crush's balls, and much more. Recorded live at the [Artesian](http://www.artesianon13th.ca/) in Regina, SK.
+
 This episode is sponsored by [ShipStation](https://www.shipstation.com/step1/?coupon=grownups&utm_campaign=podcasts-promo-q2-2016&utm_medium=podcast-ad-jun-2016&utm_source=grownups-read-things-they-wrote-as-kids&ref=grownups_podcast). Get a free month of ShipStation when you use offer code [GROWNUPS](https://www.shipstation.com/step1/?coupon=grownups&utm_campaign=podcasts-promo-q2-2016&utm_medium=podcast-ad-jun-2016&utm_source=grownups-read-things-they-wrote-as-kids&ref=grownups_podcast).
 
 ## Show notes
