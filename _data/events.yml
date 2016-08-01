@@ -3,25 +3,6 @@
 upcoming:
 
 
-- date: 2016-07-24 20:00:00
-  venue:
-    name: The Tranzac
-    address: "292 Brunswick Ave"
-    city: 'Toronto'
-    province: 'ON'
-    url: http://www.tranzac.org/
-  tito_event: "grttwak/toronto-2016-july"
-  showtimes:
-    - name: Matinee (3:30)
-      releases:
-        reader: y-b5usog7eu
-        general_admission: xdfbrkqa5jw
-    - name: Evening (8:00)
-      releases:
-        reader: 1l9dx8wnwhg
-        general_admission: l-vfghfjfhg
-
-
 # PAST
 
 past:
@@ -645,3 +626,21 @@ past:
     #   releases:
     #     reader: 
     #     general_admission: 
+
+- date: 2016-07-24 20:00:00
+  venue:
+    name: The Tranzac
+    address: "292 Brunswick Ave"
+    city: 'Toronto'
+    province: 'ON'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/toronto-2016-july"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: y-b5usog7eu
+        general_admission: xdfbrkqa5jw
+    - name: Evening (8:00)
+      releases:
+        reader: 1l9dx8wnwhg
+        general_admission: l-vfghfjfhg

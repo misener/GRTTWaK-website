@@ -31,11 +31,11 @@ We have upcoming live events in: {% for event in upcoming %}<a href="/events/#{{
 
 {% else %}
 
-No  events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/).
+No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upcoming shows, [join the email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/):
+
+{% include newsletter_subscribe.html %}
 
 {% endif %}
-
-
 
 ## About
 
