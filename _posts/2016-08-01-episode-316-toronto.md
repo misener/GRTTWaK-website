@@ -16,3 +16,5 @@ This episode is sponsored by [ShipStation](https://www.shipstation.com/step1/?co
 - [Photos from our {{ page.city }} event](https://www.facebook.com/grownupsreadthingstheywroteaskids/photos/?tab=album&album_id=10154059819408600)
 {% include boilerplate_episode_links.md number=page.number %}
 {% include social.md number=page.number %}
+
+{% include subscribe_to_podcast.html number=page.number %}

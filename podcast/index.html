@@ -44,7 +44,7 @@ redirect_from:
 {% elsif post.simplecast_episode_id %}
 
 
-        <img src="/images/episodes/{{ post.number }}.jpg">
+        <a href="{{ post.url }}"><img src="/images/episodes/{{ post.number }}.jpg"></a>
         <iframe frameborder='0' height='36px' scrolling='no' seamless src='https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark' width='100%'></iframe>
 
 {% endif %}

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## <i class="fa fa-headphones"></i> Latest Episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}{{ post.city }}{% endfor %}
+## <i class="fa fa-headphones"></i> Latest Episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}[{{ post.city }}]({{ post.url }}){% endfor %}
 
 {% for post in site.posts if post.categories contains 'episodes' limit:1 %}
 
