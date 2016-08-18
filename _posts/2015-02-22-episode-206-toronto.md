@@ -5,8 +5,7 @@ quote:  I had a mucus problem
 city:   Toronto
 permalink: /episode/206/
 guid:   tag:soundcloud,2010:tracks/192538011
-soundcloud_id: 192538011
-mp3_enclosure: http://feeds.soundcloud.com/stream/192538011-grownupsreadthingstheywroteaskids-s2e06.mp3
+simplecast_episode_id: 27714
 redirect_from:  /2015/02/206-mucus-problem-toronto/
 ---
 

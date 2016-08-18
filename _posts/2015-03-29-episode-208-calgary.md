@@ -5,8 +5,7 @@ quote:  Backslide into lust
 city:   Calgary
 permalink: /episode/208/
 guid:   tag:soundcloud,2010:tracks/198318444
-soundcloud_id: 198318444
-mp3_enclosure: http://feeds.soundcloud.com/stream/198318444-grownupsreadthingstheywroteaskids-s2e08.mp3
+simplecast_episode_id: 27716
 redirect_from:  /2015/03/episode-208-backslide-into-lust-calgary/ 
 ---
 

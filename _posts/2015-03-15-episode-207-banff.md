@@ -5,8 +5,7 @@ quote:  Half-baked psycho pervert
 city:   Banff
 permalink: /episode/207/
 guid:   tag:soundcloud,2010:tracks/196057701
-soundcloud_id: 196057701
-mp3_enclosure: http://feeds.soundcloud.com/stream/196057701-grownupsreadthingstheywroteaskids-s2e07.mp3
+simplecast_episode_id: 27715
 redirect_from:  /2015/03/episode-207-half-baked-psycho-pervert-banff/
 ---
 

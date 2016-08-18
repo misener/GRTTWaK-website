@@ -5,9 +5,8 @@ quote: A couple of popped-out eyeballs
 city: Winnipeg
 permalink: /episode/222/
 guid: tag:soundcloud,2010:tracks/227970125
-soundcloud_id: 227970125
-mp3_enclosure: http://feeds.soundcloud.com/stream/227970125-grownupsreadthingstheywroteaskids-s2e22.mp3
 redirect_from: /2015/10/episode-222/
+simplecast_episode_id: 27730
 ---
 
 Plans for revenge, poetry about chicken pox, and and backhanded compliments in the form of career advice. Recorded live at the Kings's Head Pub in Winnipeg, MB.

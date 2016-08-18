@@ -5,8 +5,7 @@ quote: Before I die, I want to have sex
 city: Toronto
 permalink: /episode/227/
 guid: tag:soundcloud,2010:tracks/238309257
-soundcloud_id: 238309257
-mp3_enclosure: http://feeds.soundcloud.com/stream/238309257-grownupsreadthingstheywroteaskids-s2e27.mp3
+simplecast_episode_id: 27735
 redirect_from: /2015/12/episode-227-before-i-die-i-want-to-have-sex-toronto/
 ---
 

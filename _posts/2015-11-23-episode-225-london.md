@@ -5,8 +5,7 @@ quote:  I will not attack Nicholas
 city: London
 permalink: /episode/225/
 guid: tag:soundcloud,2010:tracks/234269323
-soundcloud_id: 234269323
-mp3_enclosure: http://feeds.soundcloud.com/stream/234269323-grownupsreadthingstheywroteaskids-s2e25.mp3
+simplecast_episode_id: 27733
 redirect_from: /2015/11/episode-225-i-will-not-attack-nicholas-london/
 ---
 

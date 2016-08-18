@@ -5,8 +5,7 @@ quote: Things to do with your menstrual blood
 city: Toronto
 permalink: /episode/303/
 guid: tag:soundcloud,2010:tracks/244721945
-soundcloud_id: 244721945
-mp3_enclosure: http://feeds.soundcloud.com/stream/244721945-grownupsreadthingstheywroteaskids-s3e03.mp3
+simplecast_episode_id: 27738
 ---
 
 Olive lists things to do with your menstrual blood, Shirley describes a terrifying solar eclipse, Jeff reveals his secret soap opera obsession, and much more. Recorded live at the Tranzac in Toronto.

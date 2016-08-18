@@ -5,8 +5,7 @@ quote: Gone are my days of hedonism and mediocrity
 city: Yellowknife
 permalink: /episode/221/
 guid: tag:soundcloud,2010:tracks/225859016
-soundcloud_id: 225859016
-mp3_enclosure: http://feeds.soundcloud.com/stream/225859016-grownupsreadthingstheywroteaskids-s2e21.mp3
+simplecast_episode_id: 27729
 redirect_from: /2015/09/episode-221-gone-are-my-days-of-hedonism-and-mediocrity-yellowknife/
 ---
 

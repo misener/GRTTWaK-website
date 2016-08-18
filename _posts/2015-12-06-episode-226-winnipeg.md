@@ -5,8 +5,7 @@ quote: Wearing a cape and farting
 city: Winnipeg
 permalink: /episode/226/
 guid: tag:soundcloud,2010:tracks/236396808
-soundcloud_id: 236396808
-mp3_enclosure: http://feeds.soundcloud.com/stream/236396808-grownupsreadthingstheywroteaskids-s2e26.mp3
+simplecast_episode_id: 27734
 redirect_from: /2015/12/episode-226-wearing-a-cape-and-farting-winnipeg/
 ---
 
