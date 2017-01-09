@@ -36,6 +36,8 @@ redirect_from:
   - /event/grttwak-calgary-3/
 ---
 
+<script>fbq('track', 'ViewContent');</script>
+
 ![GRTTWaK](/images/charlottetown_pano.jpg)
 
 {% if jekyll.environment == "development" %}
@@ -56,27 +58,22 @@ redirect_from:
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
-{% if event.showtimes == nill %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
+
+{% if event.showtimes == nill and event.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
 
 {% for showtime in event.showtimes %}
 {% if event.showtimes.size > 1 %}### {{ showtime.name }}
 {% endif %}
 
-{% comment %}
-<tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button> 
-
-[Sign up to read in {{ event.venue.city }}](https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }})
-
-WORKING:
-
-<button onclick="window.location='https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}';"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</button> <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
-
-{% endcomment %}
-
 <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button>
 
-<tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
+{% if showtime.releases.general_admission contains "http" %}
+ <button onclick="window.location='{{ showtime.releases.general_admission }}';"><i class="fa fa-ticket"></i> Buy tickets</button>
+{% else %}
+  <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
+{% endif %}
 
+<small>{{ event.notes }}</small>
 
 
 <script type="application/ld+json">
@@ -144,7 +141,9 @@ Remember — kid writing doesn't expire, and we're planning to keep doing shows 
 
 ## <a name="refunds"></a>Can I get a refund?
 
-General Admission tickets are fully transferrable to another person. Simply follow the links in the email confirmation from Tito. As a general rule, we can process refunds but only **up until one week before** a live event. We cannot accommodate last-minute refunds.
+For most GRTTWaK events, General Admission tickets are fully transferrable to another person. Simply follow the links in the email confirmation from Tito. As a general rule, we can process refunds but only **up until one week before** a live event. We cannot accommodate last-minute refunds.
+
+A small handful of GRTTWaK events are part of festivals. In cases like these where we don't directly control ticketing, refund and exchangepolicies may vary.
 
 
 # Past events

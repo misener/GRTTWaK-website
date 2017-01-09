@@ -1,0 +1,9 @@
+ftp_host: '76.74.235.200'
+ftp_dir: '/public_html'
+ftp_passive: false
+
+# optional
+ftp_port: 21                  # default 21
+ftp_username: 'grown643'     # default read from stdin
+ftp_password: '136889HostPapaolopib' # default read from stdin
+ftp_secure: false              # default false

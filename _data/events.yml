@@ -2,14 +2,96 @@
 
 upcoming:
 
+- date: 2017-01-15 20:00:00
+  venue:
+    name: The Tranzac
+    address: "292 Brunswick Ave"
+    city: 'Toronto'
+    province: 'ON'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/toronto-2017-january"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: x7i8xzghryg
+        general_admission: 1tjtiobjm4y
+    - name: Evening (8:00)
+      releases:
+        reader: dmotjlxcgcu
+        general_admission: mzwbr1j7njc
 
-# PAST
+- date: 2017-01-22 20:00:00
+  venue:
+    name: The Park Theatre
+    address: 698 Osborne Street 
+    city: 'Winnipeg'
+    province: MB
+    url: http://www.parktheatervideo.com/
+  tito_event: "grttwak/winnipeg-2017-january"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: k-pe4d3jxqe
+        general_admission: ob0khzsisk0
+
+
+- date: 2017-01-20 20:00:00
+  venue:
+    name: The Artesian
+    address: 2627 13th Ave
+    city: 'Regina'
+    province: 'SK'
+    url: http://www.ticketfly.com/event/1373499
+  tito_event: "grttwak/regina-2017-january"
+  notes: "**Note:** This show is part of Winterruption 2017 in Regina. [Tickets are available through Ticketfly](http://www.ticketfly.com/event/1373499). If you have trouble signing up to read, use [this direct link instead](https://ti.to/grttwak/regina-2017-january/with/lkvawike69o)."
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: lkvawike69o
+        general_admission: http://www.ticketfly.com/event/1373499
+
+
+- date: 2017-01-21 20:00:00
+  venue:
+    name: Cosmo Seniors Hall
+    address: 614 11th St E
+    city: 'Saskatoon'
+    province: 'SK'
+    url: "https://broadwaytheatre.ca/events?p=event&event=3804"
+  tito_event: "grttwak/saskatoon-2017-january"
+  notes: "**Note:** This show is part of Winterruption 2017 in Saskatoon. Tickets are available through the [Broadway Theatre website](https://broadwaytheatre.ca/events?p=event&event=3804)."
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: wsbu-ks8emw
+        general_admission: "https://broadwaytheatre.ca/events?p=event&event=3804"
+
+
+- date: 2017-02-05 20:00:00
+  venue:
+    name: The Rondo
+    address: 63 Pitt St E.
+    city: 'Windsor'
+    province: 'ON'
+    url: "https://www.facebook.com/therondobar/"
+  tito_event: "grttwak/windsor-2017-february"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: fav2mwmp1g
+        general_admission: jxk5yovthwo
+
+
+
+
+
+# PAST EVENTS GO BELOW THIS LINE
 
 past:
 - date: 2007-02-19 20:00:00
   venue:
     name: The Victory Cafe
-    address: 4848 St Laurent Blvd.
+    address: 
     city: 'Toronto, ON'
 
 - date: 2007-04-30 20:00:00
@@ -644,3 +726,120 @@ past:
       releases:
         reader: 1l9dx8wnwhg
         general_admission: l-vfghfjfhg
+
+
+- date: 2016-10-16 20:00:00
+  venue:
+    name: The Tranzac
+    address: "292 Brunswick Ave"
+    city: 'Toronto'
+    province: 'ON'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/toronto-2016-october"
+  notes: "**Note:** These Toronto shows will be recorded (audio *and* video) as part of a web series pilot. Each show will feature a different mix of new readers and fan favourites."
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: 1vis7n0jiy0
+        general_admission: 60yw6egmmzc
+    - name: Evening (8:00)
+      releases:
+        reader: zzc573fgfze
+        general_admission: zjfgidtpp48
+
+- date: 2016-10-23 20:00:00
+  venue:
+    name: Yuk Yuk's Ottawa
+    address: "292 Elgin Street"
+    city: 'Ottawa'
+    province: ON
+    url: https://www.yukyuks.com/ottawa
+  tito_event: "grttwak/ottawa-2016-october"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: 7-y32h7cdta
+        general_admission: yxcg5kxsxq0
+    - name: Evening (8:00)
+      releases:
+        reader: dgckzryqn9u
+        general_admission: mtaswnwxth8
+
+- date: 2016-11-05 20:00:00
+  venue:
+    name: The Company House
+    address: 2202 Gottingen Street
+    city: 'Halifax'
+    province: NS
+    url: http://www.thecompanyhouse.ca
+  tito_event: "grttwak/halifax-2016-november"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: avdlppursnw
+        general_admission: ghqb-dcruue
+
+- date: 2016-11-18 21:30:00
+  # special: "Yes"
+  venue:
+    name: Hot Docs Ted Rogers Cinema
+    address: "506 Bloor St W"
+    city: 'Toronto'
+    province: ON
+    # url: http://boxoffice.hotdocs.ca/WebSales/pages/info.aspx?evtinfo=56429&utm_source=Grownups&utm_campaign=HDCEvents&utm_medium=HDC&utm_content=PodcastFestival
+  notes: "**Note:** This is a special GRTTWaK event as part of the Hot Docs Podcast Festival. [Tickets are available exclusively through the Hot Docs website](http://boxoffice.hotdocs.ca/WebSales/pages/info.aspx?evtinfo=56429&utm_source=Grownups&utm_campaign=HDCEvents&utm_medium=HDC&utm_content=PodcastFestival)."
+  tito_event: "grttwak/toronto-2016-november"
+  showtimes:
+    - name: Evening (9:30)
+      releases:
+        reader: g7pyd-gsylm
+        general_admission: http://boxoffice.hotdocs.ca/WebSales/pages/info.aspx?evtinfo=56429&utm_source=Grownups&utm_campaign=HDCEvents&utm_medium=HDC&utm_content=PodcastFestival
+
+- date: 2016-11-20 21:30:00
+  venue:
+    name: La Sala Rossa
+    address: 4848 St Laurent Blvd.
+    city: 'Montréal'
+    province: 'QC'
+    url: http://lasalarossa.com
+  tito_event: "grttwak/montreal-2016-november"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: sk3m1h5aqxa
+        general_admission: j-mq8przds8
+
+    - name: Evening (8:00)
+      releases:
+        reader: vxuefosttes
+        general_admission: lgicaczfty8
+
+- date: 2016-11-25 21:30:00
+  venue:
+    name: The Spice Factory
+    address: The Spice Factory
+    city: Hamilton
+    province: "ON"
+    url: http://www.spicefactory.ca
+  tito_event: "grttwak/hamilton-2016-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: 34qqokiyuhm
+        general_admission: 0ctpraer7q4
+
+
+
+- date: 2016-11-27 21:30:00
+  venue:
+    name: The Registry Theatre
+    address: 122 Frederick Street
+    city: Kitchener
+    province: "ON"
+    url: http://www.spicefactory.ca
+  tito_event: "grttwak/kitchener-2016-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: hwspgeoayh0
+        general_admission: jm0pljz3lok

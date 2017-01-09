@@ -33,7 +33,7 @@ Temporal distance matters. Ideally, you should be a decade removed from the ma
 
 ## What should I read?
 
-So long as it fits the 3 criteria listed above, you can read pretty much anything. Material that makes you cringe is usually a good place to start. Journals, dairy entries, short stories, and poems are always popular. We also love less-common formats (screenplays, lists, song lyrics).
+So long as it fits the 3 criteria listed above, you can read pretty much anything. Material that makes you cringe is usually a good place to start. Journals, diary entries, short stories, and poems are always popular. We also love less-common formats (screenplays, lists, song lyrics).
 
 **Your reading needn’t be funny.** Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
 
@@ -41,11 +41,11 @@ So long as it fits the 3 criteria listed above, you can read pretty much anythi
 
 ## When am I on?
 
-We usually don't know the lineup until moments before the show begins. During the course of the show, Dan will give readers a heads-up about who's "on deck" (coming up next). If you're on deck, you should make your way towards the font of the room (or backstage, if applicable), and wait to be introduced.
+We usually don't know the lineup until moments before the show begins. During the course of the show, Dan will give readers a heads-up about who's "on deck" (coming up next). If you're on deck, you should make your way towards the front of the room (or backstage, if applicable), and wait to be introduced.
 
 ## How should I read my thing?
 
-Dan will introduce you, and everyone will applaud. You come onstage, and read your thing. The audience laughs, cries. etc. Then, everyone applauds again. You got back to your seat, and that's it.
+Dan will introduce you, and everyone will applaud. You come onstage, and read your thing. The audience laughs, cries. etc. Then, everyone applauds again. You go back to your seat, and that's it.
 
 **Please note:** GRTTWaK is not the place to work on your standup act, or promote your next gig, or read your current writing. There are other shows for those things. GRTTWaK is all about adults, reading childhood and teenage writing, as close to verbatim as possible. Please note that none of these are the title of our show:
 
