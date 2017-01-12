@@ -81,7 +81,19 @@ upcoming:
         reader: fav2mwmp1g
         general_admission: jxk5yovthwo
 
-
+- date: 2017-02-11 3:30:00
+  venue:
+    name: The Mansion (upstairs)
+    address: 506 Princess Street
+    city: 'Kingston'
+    province: 'ON'
+    url: "https://mansion.rocks"
+  tito_event: "grttwak/kingston-2017-february"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: bui5aarab6c
+        general_admission: fnzvcf2erqq
 
 
 
