@@ -54,10 +54,9 @@ redirect_from:
 
 {% for event in upcoming %}
  
-## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}{% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
+## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}, {{ event.venue.province }} {% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
-
 
 {% if event.showtimes == nill and event.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
 
@@ -65,13 +64,31 @@ redirect_from:
 {% if event.showtimes.size > 1 %}### {{ showtime.name }}
 {% endif %}
 
+{% comment %}
+
 <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button>
 
 {% if showtime.releases.general_admission contains "http" %}
- <button onclick="window.location='{{ showtime.releases.general_admission }}';"><i class="fa fa-ticket"></i> Buy tickets</button>
+  <button onclick="window.location='{{ showtime.releases.general_admission }}';"><i class="fa fa-ticket"></i> Buy tickets</button>
 {% else %}
   <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
+
+
 {% endif %}
+
+{% endcomment %}
+
+
+<ul class="fa-ul">
+  {% if showtime.releases.general_admission contains "http" %}
+    <li><i class="fa-li fa fa-ticket"></i><a href="{{ showtime.releases.general_admission }}">Buy audience tickets for {{ event.venue.city }}</a></li>
+  {% else %}
+    <li><i class="fa-li fa fa-ticket"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.general_admission }}">Buy audience tickets for {{ event.venue.city }}</a></li>
+  {% endif %}
+
+  <li><i class="fa-li fa fa-user-plus"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</a></li>
+</ul>
+
 
 <small>{{ event.notes }}</small>
 
