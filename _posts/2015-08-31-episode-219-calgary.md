@@ -13,5 +13,3 @@ An elementary school detective agency, teenage infidelity, and an urgent desire 
 
 ## Links
 - [Photos from our Calgary event](https://goo.gl/8wYlh0)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

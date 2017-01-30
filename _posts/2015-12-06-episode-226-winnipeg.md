@@ -13,5 +13,3 @@ Angie finds out why lingerie is the devil, Inayat explains how to defeat bullies
 
 ## Show notes
 - [Photos from our Winnipeg event](https://goo.gl/1Bjq4n)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

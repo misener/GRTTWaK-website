@@ -12,5 +12,3 @@ Misha predicts his own death, Jeffrey obsesses about goldfish, Sarah worries tha
 
 ## Show notes
 - [Photos from our Montréal event](https://goo.gl/UEoOI3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

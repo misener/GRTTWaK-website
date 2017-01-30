@@ -14,5 +14,3 @@ A champion high-jumping snake, an underwhelming sex ed class, and what it's like
 ## Show notes
 
 - [Photos from our Ottawa event](https://www.facebook.com/media/set/?set=a.10153426050998600.1073741849.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

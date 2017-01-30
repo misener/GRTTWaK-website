@@ -11,5 +11,3 @@ simplecast_episode_id: 27713
 
 Unsolicited apology notes, vampire-inspired poetry, and political analysis from a 9-year-old. Recorded live at the Bytown Tavern in Ottawa, Ontario.
 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

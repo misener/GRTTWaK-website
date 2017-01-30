@@ -13,5 +13,3 @@ A secret spy club, haiku about death, and a murder-mystery coming out story. Rec
 
 * [Photos from our Halifax event](https://goo.gl/I8V505)
 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

@@ -11,5 +11,3 @@ Heather and Bianca share dating advice, Josh reads Zelda-themed short fiction, M
 
 ## Show notes
 - [Photos from our {{ page.city }} event](https://www.facebook.com/media/set/?set=a.10153607419948600.1073741859.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

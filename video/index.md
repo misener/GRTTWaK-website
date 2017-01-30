@@ -23,3 +23,6 @@ Recorded {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.ur
 
 {% endfor %}
 {% endfor %}
+
+
+

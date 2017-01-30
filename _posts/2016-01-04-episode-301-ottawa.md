@@ -12,5 +12,3 @@ Terry sets sexual goals at a church youth group, Karen deals with a dead bird, D
 
 ## Show notes
 - [Photos from our Ottawa event](https://goo.gl/jmfVoa)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

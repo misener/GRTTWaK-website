@@ -13,5 +13,3 @@ Angsty breakup poetry, an interview with a “dirty old man,” and World War 3 
 
 ## Show notes
 - [Photos from our London event](https://www.facebook.com/media/set/?set=a.10153438882543600.1073741852.121054468599&type=1&l=972044eea5)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

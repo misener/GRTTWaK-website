@@ -53,8 +53,9 @@ redirect_from:
 {% if upcoming %}
 
 {% for event in upcoming %}
- 
+
 ## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}, {{ event.venue.province }} {% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
+
 
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
@@ -144,7 +145,7 @@ If you can't buy a ticket, we're probably sold out. We know this can be frustrat
 
 The first place we announce live shows is through our [email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/). Often, live events fill up hours (or minutes) after they're announced.
 
-Our ticketing company, [Tito](https://ti.to/), has a "waiting list" feature. If a show is sold out, you can join the waiting list. If more general admission tickets become available, we make them available to members of the waiting list. Joining the waiting list does not guarantee you a ticket, nor does it give you any special privledges for the *next* available show.
+Our ticketing company, [Tito](https://ti.to/), has a "waiting list" feature. If a show is sold out, you can join the waiting list. If more general admission tickets become available, we make them available to members of the waiting list. Joining the waiting list does not guarantee you a ticket, nor does it give you any special privileges for the *next* available show.
 
 Reader signup and general admission tickets are first-come, first-served. It's not ideal for everyone, but it's the fairest way we know how to do it. We appreciate your patience. 
 

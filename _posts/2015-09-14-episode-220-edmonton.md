@@ -14,5 +14,3 @@ A report on flying cows, an acrostic poem music video request, and a collection 
 
 ## Links
 - [Photos from our Edmonton event](https://www.facebook.com/media/set/?set=a.10153309299673600.1073741843.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

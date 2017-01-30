@@ -12,5 +12,3 @@ Renee finds herself in an 8th-grade love triangle, Gordon writes short fiction a
 ## Show notes
 - [Photos from our {{ page.city }} event](https://www.facebook.com/media/set/?set=a.10153674905528600.1073741865.121054468599&type=3)
 - [Subscribe to GRTTWaK in Google Play](http://links.grownupsreadthingstheywroteaskids.com/googleplay)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

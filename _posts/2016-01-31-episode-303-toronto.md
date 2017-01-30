@@ -12,5 +12,3 @@ Olive lists things to do with your menstrual blood, Shirley describes a terrifyi
 
 ## Show notes
 - [Photos from our Toronto event](https://goo.gl/2C3UHK)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

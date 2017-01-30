@@ -13,5 +13,3 @@ Heather gets a fart-related nickname, Andru takes a risky trip to second base, B
 
 ## Show notes
 - [Photos from our Toronto event](https://goo.gl/pld52u) 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

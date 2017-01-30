@@ -18,5 +18,3 @@ Terra compares virginity to a birthday cake, Bradley explains how to find a rock
 
 ## Show notes
 - [Photos from our {{ page.city }} event](https://www.facebook.com/media/set/?set=a.10153651505153600.1073741863.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

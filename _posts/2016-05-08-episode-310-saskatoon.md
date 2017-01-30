@@ -11,5 +11,3 @@ Barry gets a "hard-on" during The Ed Sullivan Show, Katherine weighs the pros an
 
 ## Show notes
 - [Photos from our {{ page.city }} event](https://www.facebook.com/media/set/?set=a.10153851107713600.1073741866.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

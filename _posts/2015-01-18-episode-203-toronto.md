@@ -10,5 +10,3 @@ simplecast_episode_id: 27711
 
 A bald eagle, war between Canada and China, and lots of French kissing. Recorded live at The Garrison in Toronto, Ontario.
 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

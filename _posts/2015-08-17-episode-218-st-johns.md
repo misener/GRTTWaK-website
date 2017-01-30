@@ -11,5 +11,3 @@ simplecast_episode_id: 27726
 
 Childhood revenge fantasies, a fake newspaper article, and a journal entry written directly to God. Recorded live at The Rocket Room in St. John's, NL.
 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

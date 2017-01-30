@@ -11,5 +11,3 @@ redirect_from:  /2015/04/episode-210-fires-are-not-nice-fires-hurt-victoria/
 
 Childhood pyrophobia, a sister pact, and a plan to rid the world of nuclear bombs. Recorded live at the Victoria Event Centre in Victoria, BC.
 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

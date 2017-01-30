@@ -1,3 +1,5 @@
+{{ page.class }}
+
 <head>
   <!--
      __________  _____________       __      __ __
@@ -23,7 +25,13 @@
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  {% capture page_title %}{% if page.title == "Home" %}{{ site.title }} &middot; {{ site.tagline }}{% else %}{{ page.title }} &middot; {{ site.title }}{% endif %}{% endcapture %}
+  {% capture page_title %}
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  {% endcapture %}
 
   <title>{{ page_title }}</title>
 

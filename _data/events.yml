@@ -807,10 +807,10 @@ past:
         general_admission: 1tjtiobjm4y
     - name: Evening (8:00)
       youtube: pyKvxAaUqOc
+      podcast_episode: 403
       releases:
         reader: dmotjlxcgcu
         general_admission: mzwbr1j7njc
-
 
 - date: 2017-01-22 20:00:00
   venue:
@@ -827,7 +827,6 @@ past:
         reader: k-pe4d3jxqe
         general_admission: ob0khzsisk0
 
-
 - date: 2017-01-20 20:00:00
   venue:
     name: The Artesian
@@ -843,7 +842,6 @@ past:
       releases:
         reader: lkvawike69o
         general_admission: http://www.ticketfly.com/event/1373499
-
 
 - date: 2017-01-21 20:00:00
   venue:

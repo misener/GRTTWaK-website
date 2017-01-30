@@ -10,6 +10,3 @@ redirect_from:  /2015/06/episode-213/
 ---
 
 Breaking up, getting fired, and dissing your home country. Recorded live at Phog Lounge in Windsor, ON.
-
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

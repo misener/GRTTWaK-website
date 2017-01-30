@@ -15,9 +15,3 @@ Susan steals vegetables, Glenn goes bumper-hitching, Claire reads an angry lette
 * Music by [Podington Bear](https://geo.itunes.apple.com/us/artist/podington-bear/id250459572?at=10lR7u&mt=1&app=music) and [Lullatone](https://geo.itunes.apple.com/us/artist/lullatone/id34467705?at=10lR7u&mt=1&app=music)
 * Facebook Live video of our Ottawa event, [part 1](https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154305345723600/)
 * Facebook Live video of our Ottawa event, [part 2](https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154305523783600/)
-
-{% include boilerplate_episode_links.md number=page.number %}
-
-{% include social.md number=page.number %}
-
-{% include subscribe_to_podcast.html number=page.number %}

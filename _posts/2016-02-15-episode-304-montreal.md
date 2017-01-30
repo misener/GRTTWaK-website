@@ -12,5 +12,3 @@ James wishes for a spray tan, Jessie reads jokes without punchlines, Zach shares
 
 ## Show notes
 - [Photos from our Montréal event](https://goo.gl/eYSn5H)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

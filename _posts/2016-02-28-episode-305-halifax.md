@@ -11,5 +11,3 @@ Erin laments being a late bloomer, Jenna reads her last will and testament, Mich
 
 ## Show notes
 - [Photos from our {{ page.city }} event](https://www.facebook.com/media/set/?set=a.10153674879408600.1073741864.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

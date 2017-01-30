@@ -15,9 +15,3 @@ John feels funny about Christmas carols, Roger moves to Canada, Esther writes ma
 <li><i class="fa-li fa fa-heart"></i><a href="https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=326">Support GRTTWaK. Become a patron</a></li>
 <li><i class="fa-li fa fa-camera"></i><a href="https://www.facebook.com/media/set/?set=a.10154393933733600.1073741885.121054468599&type=1&l=25ed887fa6">Photos from our Toronto event</a></li>
 </ul>
-
-{% include boilerplate_episode_links.md number=page.number %}
-
-{% include social.md number=page.number %}
-
-{% include subscribe_to_podcast.html number=page.number %}

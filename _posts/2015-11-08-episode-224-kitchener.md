@@ -12,5 +12,3 @@ Drunken necking, deep misunderstandings about the Catholic church, and a dirty m
 
 ## Show notes
 - [Photos from our Kitchener event](https://goo.gl/MW2XGD)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

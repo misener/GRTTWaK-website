@@ -11,5 +11,3 @@ redirect_from:  /2015/04/episode-209-stupit-and-dumb-and-especially-ugly-hamilto
 
 Dead hamsters, spin the bottle, and the truth about NYC. Recorded live at the Spice Factory in Hamilton, Ontario.
 
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

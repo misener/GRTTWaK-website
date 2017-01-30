@@ -15,9 +15,3 @@ This episode is sponsored by [ShipStation](https://www.shipstation.com/step1/?co
 - [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign={{ page.number }})
 - [Photos from our {{ page.city }} event](https://www.facebook.com/121054468599/photos/?tab=album&album_id=10153867744488600)
 - Music by [Podington Bear](https://geo.itunes.apple.com/us/artist/podington-bear/id250459572?at=10lR7u&mt=1&app=music) and [Lullatone](https://geo.itunes.apple.com/us/artist/lullatone/id34467705?at=10lR7u&mt=1&app=music)
-
-{% include boilerplate_episode_links.md number=page.number %}
-
-{% include social.md number=page.number %}
-
-{% include subscribe_to_podcast.html number=page.number %}

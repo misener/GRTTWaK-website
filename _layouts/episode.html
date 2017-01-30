@@ -30,6 +30,27 @@ layout: default
 
   	{{ content }}
 
+    {% include boilerplate_episode_links.md number=page.number %}
+    {% include social.md number=page.number %}
+    {% include subscribe_to_podcast.html number=page.number %}
+
+    <br>
+    {% assign past = site.data.events.past | sort: "date" | reverse %}
+    {% for event in past %}
+    {% for showtime in event.showtimes %}
+
+    {% if showtime.podcast_episode == page.number %}
+
+    <h2>Video</h2>    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ showtime.youtube }}" frameborder="0" allowfullscreen></iframe>
+
+    {% endif %}
+
+    {% endfor %}
+    {% endfor %}
+
+    <br>
+
     {% if page.mp3_enclosure %}
     <a href="{{ page.mp3_enclosure }}">Download MP3</a>    
     {% elsif page.simplecast_episode_id %}

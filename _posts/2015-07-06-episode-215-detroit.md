@@ -12,5 +12,3 @@ redirect_from:  /2015/07/episode-215-its-not-a-cult-detroit/
 Firearm accidents, a speech for Bill Gates, and a step-by-step guide to popularity. Recorded live at Cliff Bell's in Detroit, MI.
 
 - [Photos from our Detroit event](https://goo.gl/Yg9ZDe)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}

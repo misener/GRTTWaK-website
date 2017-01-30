@@ -12,5 +12,3 @@ Carolyn finds an envelope full of nude photos, Preeti questions her faith, Rob a
 ## Show notes
 - [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=311)
 - [Photos from our {{ page.city }} event](https://www.facebook.com/media/set/?set=a.10153867748873600.1073741870.121054468599&type=3)
-{% include boilerplate_episode_links.md number=page.number %}
-{% include social.md number=page.number %}
