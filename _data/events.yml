@@ -31,6 +31,25 @@ upcoming:
         general_admission: fnzvcf2erqq
 
 
+- date: 2017-02-26 20:00:00
+  venue:
+    name: La Sala Rossa
+    address: 4848 St Laurent Blvd.
+    city: 'Montréal'
+    province: 'QC'
+    url: http://lasalarossa.com
+  tito_event: "grttwak/montreal-2017-january"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+    - name: Evening (8:00)
+      releases:
+        reader: xwzj4m-ohnu
+        general_admission: dlj6qnycvzm
+
 
 # PAST EVENTS GO BELOW THIS LINE
 
