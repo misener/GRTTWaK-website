@@ -2,34 +2,6 @@
 
 upcoming:
 
-- date: 2017-02-05 20:00:00
-  venue:
-    name: The Rondo
-    address: 63 Pitt St E.
-    city: 'Windsor'
-    province: 'ON'
-    url: "https://www.facebook.com/therondobar/"
-  tito_event: "grttwak/windsor-2017-february"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: fav2mwmp1g
-        general_admission: jxk5yovthwo
-
-- date: 2017-02-11 3:30:00
-  venue:
-    name: The Mansion (upstairs)
-    address: 506 Princess Street
-    city: 'Kingston'
-    province: 'ON'
-    url: "https://mansion.rocks"
-  tito_event: "grttwak/kingston-2017-february"
-  showtimes:
-    - name: Matinee (3:30)
-      releases:
-        reader: bui5aarab6c
-        general_admission: fnzvcf2erqq
-
 
 - date: 2017-02-26 20:00:00
   venue:
@@ -877,3 +849,31 @@ past:
       releases:
         reader: wsbu-ks8emw
         general_admission: "https://broadwaytheatre.ca/events?p=event&event=3804"
+
+- date: 2017-02-05 20:00:00
+  venue:
+    name: The Rondo
+    address: 63 Pitt St E.
+    city: 'Windsor'
+    province: 'ON'
+    url: "https://www.facebook.com/therondobar/"
+  tito_event: "grttwak/windsor-2017-february"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: fav2mwmp1g
+        general_admission: jxk5yovthwo
+
+- date: 2017-02-11 3:30:00
+  venue:
+    name: The Mansion (upstairs)
+    address: 506 Princess Street
+    city: 'Kingston'
+    province: 'ON'
+    url: "https://mansion.rocks"
+  tito_event: "grttwak/kingston-2017-february"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: bui5aarab6c
+        general_admission: fnzvcf2erqq
