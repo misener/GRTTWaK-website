@@ -3,6 +3,9 @@
 upcoming:
 
 
+
+
+
 - date: 2017-02-26 20:00:00
   venue:
     name: La Sala Rossa
@@ -21,6 +24,100 @@ upcoming:
       releases:
         reader: xwzj4m-ohnu
         general_admission: dlj6qnycvzm
+
+
+
+- date: 2017-05-07 20:00:00
+  venue:
+    name: The Tranzac
+    address: "292 Brunswick Ave"
+    city: 'Toronto'
+    province: 'ON'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/XXXXXXXXXX"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+
+
+- date: 2017-06-26 20:00:00
+  venue:
+    name: TBA
+    address: TBA
+    city: 'St. Albert'
+    province: 'AB'
+    url: 
+  tito_event: "grttwak/XXXXXXXXXX"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+
+
+- date: 2017-07-23 20:00:00
+  venue:
+    name: TBA
+    address: TBA
+    city: 'Vancouver'
+    province: 'BC'
+    url: 
+  tito_event: "grttwak/XXXXXXXXXX"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+
+- date: 2017-07-24 20:00:00
+  venue:
+    name: TBA
+    address: TBA
+    city: 'Victoria'
+    province: 'BC'
+    url: 
+  tito_event: "grttwak/XXXXXXXXXX"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+
+- date: 2017-09-17 20:00:00
+  venue:
+    name: TBA
+    address: TBA
+    city: 'Peterborough'
+    province: 'ON'
+    url: 
+  tito_event: "grttwak/XXXXXXXXXX"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    # - name: Evening (8:00)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
 
 
 # PAST EVENTS GO BELOW THIS LINE
@@ -762,6 +859,7 @@ past:
   tito_event: "grttwak/hamilton-2016-november"
   showtimes:
     - name: Evening (8:00)
+      youtube: lEu8-ShhCf0
       releases:
         reader: 34qqokiyuhm
         general_admission: 0ctpraer7q4
@@ -874,6 +972,7 @@ past:
   tito_event: "grttwak/kingston-2017-february"
   showtimes:
     - name: Matinee (3:30)
+      youtube: ArhqQJHG5Zs
       releases:
         reader: bui5aarab6c
         general_admission: fnzvcf2erqq
