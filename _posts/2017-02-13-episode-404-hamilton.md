@@ -5,6 +5,7 @@ quote: "Space yogurt"
 city: Hamilton
 permalink: /episode/404/
 simplecast_episode_id: 60309
+art19_id: 509fc809-6821-4c14-825f-5cc614750674
 ---
 
 Breanne loses her temper, Jody writes a revenge poem, Ryan recaps game shows, and much more. Recorded live in Hamilton, ON.

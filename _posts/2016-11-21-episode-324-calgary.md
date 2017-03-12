@@ -5,6 +5,7 @@ quote: "I love you more than chicken hearts"
 city: Calgary
 permalink: /episode/324/
 simplecast_episode_id: 53374
+art19_id: 14571b82-e7ee-4465-9f2b-a398b02fda22
 ---
 
 Song pulls a telemarketing prank, Rebecca obsesses over Justin Timberlake, Melanie makes a "special friend" at camp, and much more. Recorded live in Calgary, AB.

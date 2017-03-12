@@ -5,6 +5,7 @@ quote: "Search my remains for more answers"
 city: Montréal
 permalink: /episode/325/
 simplecast_episode_id: 54401
+art19_id: 76871bb6-551f-497d-a6bc-c978734b79e5
 ---
 
 Jon runs away from home, Simon runs away from a drug rehab program, Kristen critiques Shakespeare, and much more. Recorded live at [La Sala Rossa](http://lasalarossa.com) in Montréal.

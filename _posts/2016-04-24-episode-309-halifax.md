@@ -5,6 +5,7 @@ quote: We looked and smelled deadly
 city: Halifax
 permalink: /episode/309/
 simplecast_episode_id: 36275
+art19_id: 1a7b540a-1807-4fd0-b45a-8820f473e915
 ---
 
 Renee finds herself in an 8th-grade love triangle, Gordon writes short fiction about crime-fighting insects, Sarah confesses to petty crime, and much more. Recorded live at [The Company House](http://www.thecompanyhouse.ca/) in Halifax, NS.

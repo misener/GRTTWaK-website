@@ -5,6 +5,7 @@ quote: I hugged with girls today
 city: Winnipeg
 permalink: /episode/307/
 simplecast_episode_id: 33777
+art19_id: 9db46104-7361-418b-87b8-204503be61fe
 ---
 
 Karleigh threatens the Tooth Fairy, Kaj reads a comic book about giant mutant beavers, Jen writes a letter to the Prime Minister, and much more. Recorded live at the [Park Theatre](http://myparktheatre.com/) in Winnipeg, MB.

@@ -6,6 +6,7 @@ city: Vancouver
 permalink: /episode/322/
 simplecast_episode_id: 50411
 published: true
+art19_id: d5a91153-8b76-42ac-9caa-836044ec1d3c
 ---
 
 Tara writes a letter to her future self, Ron loves and lusts in vain, Felicia and Skylar discuss hookups, and much more. Recorded live at the Biltmore Cabaret in Vancouver, BC.

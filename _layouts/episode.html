@@ -9,7 +9,23 @@ layout: default
   </header>
 
   <article class="post-content">
-    {% if page.soundcloud_id %}
+
+    {% if page.art19_id %}
+
+    {% assign episode_image = "/images/charlottetown_pano.jpg" %}
+    {% for static_file in site.static_files %}
+      {% capture path %}/{{ page.number | downcase }}.jpg{% endcapture %}
+      {% if static_file.path contains path and static_file.extname == ".jpg" %}
+        {% assign episode_image = static_file.path %}
+        {% break %}      
+      {% endif %}
+    {% endfor %}
+
+    <img src="{{ episode_image }}">
+
+    <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ page.art19_id }}/embed?type=micro&theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 40px; border: 0 none;" scrolling="no"></iframe>
+
+    {% elsif page.soundcloud_id %}
     <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
     </br>
     {% elsif page.simplecast_episode_id %}

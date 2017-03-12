@@ -5,6 +5,7 @@ quote: Love me, bananas
 city: Montréal
 permalink: /episode/313/
 simplecast_episode_id: 40334
+art19_id: af19f709-83c7-4e81-a7ed-56a89b771cd4
 ---
 
 Shelby worries about evil bananas, Patrick visits another planet, Simone stops indenting, and much more. Recorded live at [La Sala Rossa](http://lasalarossa.com/) in Montréal, QC.

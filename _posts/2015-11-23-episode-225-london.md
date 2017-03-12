@@ -7,6 +7,7 @@ permalink: /episode/225/
 guid: tag:soundcloud,2010:tracks/234269323
 simplecast_episode_id: 27733
 redirect_from: /2015/11/episode-225-i-will-not-attack-nicholas-london/
+art19_id: 50b63a28-e650-47f7-a59e-d55e34b34cf3
 ---
 
 Angsty breakup poetry, an interview with a “dirty old man,” and World War 3 at Santa’s house. Recorded live at the London Music Club in London, ON.

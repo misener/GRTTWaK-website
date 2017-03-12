@@ -5,6 +5,7 @@ quote: "The first time I'd seen a real one."
 city: Yellowknife
 permalink: /episode/319/
 simplecast_episode_id: 46693
+art19_id: df76193b-7041-416d-94f6-20b60d8a150a
 ---
 
 Maureen contemplates losing her virginity, Rajiv writes a lullabye about the Iran-Contra affair, Kimberley shares a steamy shower scene, and much more. Recorded live at the Black Knight Pub in Yellowknife, NWT.

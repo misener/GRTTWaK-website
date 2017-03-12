@@ -5,6 +5,7 @@ quote: At least I know I'm fertile
 city: Halifax
 permalink: /episode/305/
 simplecast_episode_id: 27871
+art19_id: ac2edcab-c9b0-4219-9496-6cdf2ac5653d
 ---
 
 Erin laments being a late bloomer, Jenna reads her last will and testament, Michelle takes an east-coast-themed acid trip, and much more. Recorded live at [The Company House](http://www.thecompanyhouse.ca/) in Halifax, NS.

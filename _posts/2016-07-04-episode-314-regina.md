@@ -5,6 +5,7 @@ quote: You stole my electron
 city: Regina
 permalink: /episode/314/
 simplecast_episode_id: 41287
+art19_id: f96a0bcd-5155-4320-9475-8001fbeac791
 ---
 
 Evan writes a letter to Wayne's World, Sabrina tells a terrifying tale about a murderous English teacher, Kaylee grabs her crush's balls, and much more. Recorded live at the [Artesian](http://www.artesianon13th.ca/) in Regina, SK.

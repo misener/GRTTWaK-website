@@ -5,6 +5,7 @@ quote: "Stages of horniness"
 city: Toronto
 permalink: /episode/320/
 simplecast_episode_id: 48461
+art19_id: e6ca60a0-335b-4ef6-9025-2771b7329ed3
 ---
 
 Rachel plans a skinny-dipping prank, Josh writes a very formal love note, Dianne mashes up fairy tales, and much more. Recorded live at the Tranzac Club in Toronto.

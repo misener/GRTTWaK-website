@@ -7,6 +7,7 @@ permalink: /episode/223/
 guid: tag:soundcloud,2010:tracks/230022971
 simplecast_episode_id: 27731
 redirect_from: /2015/10/episode-223-wieners-are-stupid-and-so-is-health-class-ottawa/
+art19_id: 5c233cb8-e71c-4a1c-89bd-8fda0eee5cb5
 ---
 
 A champion high-jumping snake, an underwhelming sex ed class, and what it's like to work in a cemetery. Recorded live at Yuk Yuk's in Ottawa, ON.

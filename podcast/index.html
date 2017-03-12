@@ -8,7 +8,9 @@ redirect_from:
 
 <h2>Latest episode<h2>
 
-<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups" scrolling="no" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=2f14f380-2584-47a6-acac-d937f60121fd"></iframe>
+<!-- <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups" scrolling="no" width="100%" height="185" frameborder="0" src="https://embed.radiopublic.com/e?if=2f14f380-2584-47a6-acac-d937f60121fd"></iframe> -->
+
+<iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/embed?theme=light-custom&primary_color=%23f37749&playlist_type=latest" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
 
 <h2>Subscribe</h2>
 
@@ -47,8 +49,17 @@ redirect_from:
 </h1>
 <span class="post-date">{{ post.date | date_to_string }}</span>
 
-{% if post.soundcloud_id %}
+
+{% if post.art19_id %}
+
+<iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=light-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+
+{% elsif post.soundcloud_id %}
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ post.soundcloud_id }}&amp;color=f37749&amp;auto_play=false&amp;hide_related=false&amp;show_comments=false&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+
+
 {% elsif post.simplecast_episode_id %}
 
         {% assign episode_image = "/images/charlottetown_pano.jpg" %}

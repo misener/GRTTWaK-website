@@ -7,13 +7,19 @@ title: Home
 
 [<img src="/images/episodes/{{ post.number }}.jpg">]({{ post.url }})
 
-<iframe frameborder="0" height="36px" scrolling="no" src="https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark" width="100%"></iframe>
+<!-- <iframe frameborder="0" height="36px" scrolling="no" src="https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark" width="100%"></iframe>
+ -->
+<iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?type=micro&theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 40px; border: 0 none;" scrolling="no"></iframe>
 
 ## Latest podcast episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}[{{ post.city }}]({{ post.url }}){% endfor %}
+
+
 
 {{ post.excerpt}}
 
 {% endfor %}
+
+
 
 <i class="fa fa-headphones"></i> [Listen to more episodes in the archives](/podcast/) or your favourite app:
 

@@ -5,6 +5,7 @@ quote: "I will now talk about my sorrows"
 city: Montréal
 permalink: /episode/405/
 simplecast_episode_id: 61173
+art19_id: d9fab392-2e63-4d03-8825-95dc819c7b31
 ---
 
 Talia overcomes her shyness, Josh reads Indiana Jones fan fiction, Madeline crushes on her bandstand partner, and much more. Recorded live at La Sala Rossa in Montréal.

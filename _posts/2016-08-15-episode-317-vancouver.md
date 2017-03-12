@@ -5,6 +5,7 @@ quote: "My love floats lonely as a feather"
 city: Vancouver
 permalink: /episode/317/
 simplecast_episode_id: 44489
+art19_id: c186157a-f446-4d92-a5a3-efec76a5c166
 ---
 
 Bernadette makes a silent vow, Omar rebels against middle school propaganda, Willow writes an obituary, and much more. Recorded live at the Biltmore Cabaret in Vancouver, BC.

@@ -16,7 +16,7 @@ GRTTWaK travels with the following gear:
 
 We require the following from venues:
 
-- 1x adjustable microphone stand, centre stage. This microsphone stand must be in good working order, easily adjustable to accommodate various reader heights. A one-hand clutch style stand is preferred. A tripod boom mic stand will also work if a one-hand clutch style stand is unavailable.
+- 1x adjustable microphone stand, centre stage. This microphone stand must be in good working order, easily adjustable to accommodate various reader heights. A one-hand clutch style stand is preferred. A tripod boom mic stand will also work if a one-hand clutch style stand is unavailable.
 - 1x microphone stand (any style, the taller the better) to mount a shotgun microphone
 - 3x 15-25' XLR cables for use on stage
 - A small table and chair on stage

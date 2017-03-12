@@ -5,6 +5,7 @@ quote: Nothing is sexier than teamwork
 city: Toronto
 permalink: /episode/308/
 simplecast_episode_id: 35013
+art19_id: e1fd4bd1-0507-4971-bb4e-801895ce3a0b
 ---
 
 Heather and Bianca share dating advice, Josh reads Zelda-themed short fiction, Mary Jean almost gets stood up, and much more. Recorded live at the [Tranzac Club](http://www.tranzac.org/) in Toronto, ON.

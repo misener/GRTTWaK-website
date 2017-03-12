@@ -7,6 +7,7 @@ permalink: /episode/221/
 guid: tag:soundcloud,2010:tracks/225859016
 simplecast_episode_id: 27729
 redirect_from: /2015/09/episode-221-gone-are-my-days-of-hedonism-and-mediocrity-yellowknife/
+art19_id: 49521ab0-003b-4bea-ad40-f81c249c66a1
 ---
 
 Weak bladders, friends of the forest, and a proven strategy for dealing with bullies. Recorded live at the [Black Knight Pub](http://www.blackknightpub.com/) in Yellowknife, NT.

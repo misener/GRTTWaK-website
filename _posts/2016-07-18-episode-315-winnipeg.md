@@ -5,6 +5,7 @@ quote: "We play smoochie-pie on the couch"
 city: Winnipeg
 permalink: /episode/315/
 simplecast_episode_id: 42531
+art19_id: c61d6e62-6ea5-4cb3-9128-171a1b6b54f9
 ---
 
 Lexi visits the Czech Republic, Gabrielle finds herself in a love square, Carson meets the monster from the Black Lagoon, and much more. Recorded live at [The Park Theare](http://myparktheatre.com/) in Winnipeg, MB.
