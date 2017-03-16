@@ -11,7 +11,7 @@ Nellie crushes on fictional characters, Dan plays spin the bottle, Rachel learns
 
 ## Sponsor
 
-This episode is brought to you by the CAMH [One Brave Night for Mental Health](http://onebravenight.ca/grownups) challenge. On April 7, people across Canada will share one night to inspire hope for the 1 in 5 Canadians living with mental illness in any given year. You can step up and stay up to defeat mental illness. Visit [onebravenight.ca/grownups](http://onebravenight.ca/grownups) to register now.
+This episode is brought to you by the CAMH [One Brave Night for Mental Health](http://onebravenight.ca/grownups) challenge. On April 7, people across Canada will share one night to inspire hope for the 1 in 5 Canadians living with mental illness in any given year. You can stand up and stay up to defeat mental illness. Visit [onebravenight.ca/grownups](http://onebravenight.ca/grownups) to register now.
 
 ## Show notes
 * [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=406).
