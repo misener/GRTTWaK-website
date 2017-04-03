@@ -7,7 +7,7 @@ title: Audio Tech Details
 
 ## What you supply, what we bring
 
-GRTTWaK travels with the following gear:
+GRTTWaK travels with the following audio gear:
 
 - <a href="http://www.shure.com/americas/products/microphones/beta/beta-87a-vocal-microphone">Shure Beta 87A</a> microphone (shared by host and readers)
 - <a href="http://www.rode.com/microphones/ntg-2">Rode NTG2</a> shotgun microphone (for recording audience reaction)
@@ -17,9 +17,10 @@ GRTTWaK travels with the following gear:
 We require the following from venues:
 
 - 1x adjustable microphone stand, centre stage. This microphone stand must be in good working order, easily adjustable to accommodate various reader heights. A one-hand clutch style stand is preferred. A tripod boom mic stand will also work if a one-hand clutch style stand is unavailable.
-- 1x microphone stand (any style, the taller the better) to mount a shotgun microphone
+- 2x microphone stands (any style, the taller the better) to mount a shotgun microphone and a small video camera
 - 3x 15-25' XLR cables for use on stage
 - A small table and chair on stage
+- A tablecloth (preferably black)
 
 ## Live sound
 Our live sound reinforcement needs are minimal. We’re single-mic setup.
