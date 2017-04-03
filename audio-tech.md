@@ -13,6 +13,7 @@ GRTTWaK travels with the following audio gear:
 - <a href="http://www.rode.com/microphones/ntg-2">Rode NTG2</a> shotgun microphone (for recording audience reaction)
 - <a href="https://www.zoom-na.com/products/field-video-recording/field-recording/h6-handy-recorder">Zoom H6</a> multi-track recorder
 - <a href="http://www.radialeng.com/proms2.php">Radial Engineering ProMS2</a> passive microphone splitter
+- <a href="http://www.radialeng.com/trimtwo.php">Radio Engineering Trim-Two</a> passive direct box (for sending pre-show and intermission music to the mixing console from an iPad)
 
 We require the following from venues:
 
@@ -27,7 +28,9 @@ Our live sound reinforcement needs are minimal. We’re single-mic setup.
 
 However, because we often have 15–20 readers on stage in rapid succession, we need an audio tech to ride each reader’s level in real-time. Before the show, our host will prep readers on microphone technique.
 
-Signal from a single Beta 87A is split onstage using the ProMS2. One feed goes directly into GRTTWaK’s recording setup (described above). The other feed (transformer isolated) goes to the house mixer. <strong>That’s it.</strong>
+Signal from a single Beta 87A is split onstage using the ProMS2. One feed goes directly into GRTTWaK’s recording setup (described above). The other feed (transformer isolated) goes to the house mixer.
+
+For pre-show and intermission music, signal from an iPad (on stage) is sent through the Trim-Two direct box to the mixing console. <strong>That’s it.</strong>
 
 Many of our readers are not used to being on stage. Monitors often freak them out. <strong>We do not require monitors.</strong>
 <h2>Recording</h2>
