@@ -10,16 +10,16 @@ upcoming:
     city: 'Toronto'
     province: 'ON'
     url: http://www.tranzac.org/
-  tito_event: "grttwak/XXXXXXXXXX"
+  tito_event: "grttwak/toronto-2017-may"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
+    #     reader: 9gyfryvpavu
+    #     general_admission: ilpqs8brd0i
+    - name: Evening (8:00)
+      releases:
+        reader: hnsn4ozc29e
+        general_admission: jtdjq4pbe44
 
 - date: 2017-05-28 20:00:00
   venue:
@@ -28,16 +28,16 @@ upcoming:
     city: 'Sudbury'
     province: 'ON'
     url: https://www.facebook.com/FromagerieElgin/
-  tito_event: "grttwak/XXXXXXXXXX"
+  tito_event: "grttwak/sudbury-2017-may"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
     #     reader: XXXXXXXXXX
     #     general_admission: XXXXXXXXXX
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: 3tt3zfk18pa
+        general_admission: ym9fe-dsiiq
 
 
 - date: 2017-06-26 20:00:00
