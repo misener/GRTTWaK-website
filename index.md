@@ -19,7 +19,7 @@ title: Home
 
 {% endfor %}
 
-Subscribe with [RSS](http://www.grownupsreadthingstheywroteaskids.com/) or in your [favourite podcast app](/podcast/):
+Subscribe with [RSS](http://feeds.grownupsreadthingstheywroteaskids.com/podcast/) or in your [favourite podcast app](/podcast/):
 
 <a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_front_page_badge"><img src="//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/spotify"><img src="/images/spotify_logo.png" height="59px" style="display:inline"></a> 
 
