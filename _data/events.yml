@@ -47,16 +47,16 @@ upcoming:
     city: 'St. Albert'
     province: 'AB'
     url: https://stalbert.ca/exp/arden/
-  tito_event: "grttwak/XXXXXXXXXX"
+  tito_event: "grttwak/stalbert-2017-june"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
     #     reader: XXXXXXXXXX
     #     general_admission: XXXXXXXXXX
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: 9iuhob2y-3w
+        general_admission: jslkl3b59ge
 
 
 - date: 2017-07-09 20:00:00
