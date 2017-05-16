@@ -56,14 +56,13 @@ redirect_from:
 
 ## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}, {{ event.venue.province }} {% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
 
-
 {{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
 
 {% if event.showtimes == nill and event.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
 
 {% for showtime in event.showtimes %}
-{% if event.showtimes.size > 1 %}### {{ showtime.name }}
-{% endif %}
+
+#### {{ showtime.name }}
 
 {% comment %}
 
