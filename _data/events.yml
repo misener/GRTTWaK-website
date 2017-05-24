@@ -31,10 +31,10 @@ upcoming:
     url: https://www.yukyuks.com/calgary
   tito_event: "grttwak/calgary-2017-june"
   showtimes:
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: xd1d7euorc4
-    #     general_admission: gihzr52nbqo
+    - name: Evening (8:00)
+      releases:
+        reader: ajxib1uceyi
+        general_admission: s9ya-aum5ue
     # - name: Matinee (3:30)
     #   releases:
     #     reader: 
@@ -58,7 +58,6 @@ upcoming:
         reader: 9iuhob2y-3w
         general_admission: jslkl3b59ge
 
-
 - date: 2017-07-09 20:00:00
   venue:
     name: Yuk Yuk's Ottawa
@@ -66,16 +65,16 @@ upcoming:
     city: 'Ottawa'
     province: 'ON'
     url: https://www.yukyuks.com/ottawa
-  tito_event: "grttwak/ottawa-2016-november"
-  # showtimes:
+  tito_event: "grttwak/ottawa-2017-july"
+  showtimes:
   #   - name: Matinee (3:30)
   #     releases:
-  #       reader: 
-  #       general_admission: 
-  #   - name: Evening (8:00)
-  #     releases:
-  #       reader: 
-  #       general_admission: 
+  #       reader: bdnbkrhibju
+  #       general_admission: amqi75kqx-a
+    - name: Evening (8:00)
+      releases:
+        reader: 1vlkzff59gq
+        general_admission: lq4rjmeqp6w
 
 - date: 2017-07-23 20:00:00
   venue:
@@ -84,16 +83,16 @@ upcoming:
     city: 'Vancouver'
     province: 'BC'
     url: http://riotheatre.ca/
-  tito_event: "grttwak/XXXXXXXXXX"
+  tito_event: "grttwak/vancouver-2017-july"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
     #     reader: XXXXXXXXXX
     #     general_admission: XXXXXXXXXX
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: nb56iwcthaw
+        general_admission: uqebqks4rda
 
 - date: 2017-07-24 20:00:00
   venue:
@@ -102,16 +101,16 @@ upcoming:
     city: 'Victoria'
     province: BC
     url: http://victoriaeventcentre.ca/
-  tito_event: "grttwak/XXXXXXXXXX"
+  tito_event: "grttwak/victoria-2017-july"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
     #     reader: XXXXXXXXXX
     #     general_admission: XXXXXXXXXX
-    # - name: Evening (8:00)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: hrazuetawxo
+        general_admission: r5paf3fe-c8
 
 - date: 2017-09-17 20:00:00
   venue:
