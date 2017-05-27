@@ -13,7 +13,16 @@ title: Home
 
 ## Latest podcast episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}[{{ post.city }}]({{ post.url }}){% endfor %}
 
-<iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe>
+<!-- <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe> -->
+
+<div id='episodes-page-{{ page.number }}'
+     class='art19-web-player awp-medium awp-theme-dark-custom'
+     data-episode-id='{{ post.art19_id }}'
+     data-primary-color='#f37749'
+     data-emit-events='true'
+     data-bt-episode-title='{{ post.number }}: "{{ post.quote }}" ({{ post.city }})'
+     data-bt-episode-author='Grownups Read Things They Wrote as Kids'
+     ></div>
 
 {{ post.excerpt}}
 
