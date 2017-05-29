@@ -84,6 +84,7 @@ upcoming:
     province: 'BC'
     url: http://riotheatre.ca/
   tito_event: "grttwak/vancouver-2017-july"
+  notes: "19+"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
