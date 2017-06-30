@@ -1,43 +1,6 @@
 # UPCOMING
 
 upcoming:
-
-- date: 2017-06-25 20:00:00
-  venue:
-    name: Yuk Yuk's Calgary
-    address: "218 - 18th Avenue SE, in the Elbow River Casino"
-    city: 'Calgary'
-    province: AB
-    url: https://www.yukyuks.com/calgary
-  tito_event: "grttwak/calgary-2017-june"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: ajxib1uceyi
-        general_admission: s9ya-aum5ue
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: 
-    #     general_admission: 
-
-- date: 2017-06-26 20:00:00
-  venue:
-    name: Arden Theatre
-    address: '5 St. Anne Street Street'
-    city: 'St. Albert'
-    province: 'AB'
-    url: https://stalbert.ca/exp/arden/
-  tito_event: "grttwak/stalbert-2017-june"
-  showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
-    - name: Evening (8:00)
-      releases:
-        reader: 9iuhob2y-3w
-        general_admission: jslkl3b59ge
-
 - date: 2017-07-09 20:00:00
   venue:
     name: Yuk Yuk's Ottawa
@@ -47,10 +10,10 @@ upcoming:
     url: https://www.yukyuks.com/ottawa
   tito_event: "grttwak/ottawa-2017-july"
   showtimes:
-  #   - name: Matinee (3:30)
-  #     releases:
-  #       reader: bdnbkrhibju
-  #       general_admission: amqi75kqx-a
+    - name: Matinee (3:30)
+      releases:
+        reader: bdnbkrhibju
+        general_admission: amqi75kqx-a
     - name: Evening (8:00)
       releases:
         reader: 1vlkzff59gq
@@ -1032,3 +995,41 @@ past:
       releases:
         reader: 3tt3zfk18pa
         general_admission: ym9fe-dsiiq
+
+
+
+- date: 2017-06-25 20:00:00
+  venue:
+    name: Yuk Yuk's Calgary
+    address: "218 - 18th Avenue SE, in the Elbow River Casino"
+    city: 'Calgary'
+    province: AB
+    url: https://www.yukyuks.com/calgary
+  tito_event: "grttwak/calgary-2017-june"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: ajxib1uceyi
+        general_admission: s9ya-aum5ue
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: 
+    #     general_admission: 
+
+- date: 2017-06-26 20:00:00
+  venue:
+    name: Arden Theatre
+    address: '5 St. Anne Street Street'
+    city: 'St. Albert'
+    province: 'AB'
+    url: https://stalbert.ca/exp/arden/
+  tito_event: "grttwak/stalbert-2017-june"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: 9iuhob2y-3w
+        general_admission: jslkl3b59ge
