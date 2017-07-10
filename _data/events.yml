@@ -1,23 +1,6 @@
 # UPCOMING
 
 upcoming:
-- date: 2017-07-09 20:00:00
-  venue:
-    name: Yuk Yuk's Ottawa
-    address: "292 Elgin Street"
-    city: 'Ottawa'
-    province: 'ON'
-    url: https://www.yukyuks.com/ottawa
-  tito_event: "grttwak/ottawa-2017-july"
-  showtimes:
-    - name: Matinee (3:30)
-      releases:
-        reader: bdnbkrhibju
-        general_admission: amqi75kqx-a
-    - name: Evening (8:00)
-      releases:
-        reader: 1vlkzff59gq
-        general_admission: lq4rjmeqp6w
 
 - date: 2017-07-23 20:00:00
   venue:
@@ -1033,3 +1016,21 @@ past:
       releases:
         reader: 9iuhob2y-3w
         general_admission: jslkl3b59ge
+
+- date: 2017-07-09 20:00:00
+  venue:
+    name: Yuk Yuk's Ottawa
+    address: "292 Elgin Street"
+    city: 'Ottawa'
+    province: 'ON'
+    url: https://www.yukyuks.com/ottawa
+  tito_event: "grttwak/ottawa-2017-july"
+  showtimes:
+    - name: Matinee (3:30)
+      releases:
+        reader: bdnbkrhibju
+        general_admission: amqi75kqx-a
+    - name: Evening (8:00)
+      releases:
+        reader: 1vlkzff59gq
+        general_admission: lq4rjmeqp6w

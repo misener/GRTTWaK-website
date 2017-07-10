@@ -150,11 +150,15 @@ Reader signup and general admission tickets are first-come, first-served. It's n
 
 ## <a name="reader_waitlist"></a> How does the reader waiting list work?
 
-Reader signup is first-come, first-served. If all the reader spots are taken, you'll see an option that says "Join the Waiting List." If you add your name and email to the waiting list, and a reader spot opens up in the days or weeks leading up to an event, we'll be in touch by email. It might be very short notice.
+If you want to read at *Grownups Read Things They Wrote as Kids*, you must sign up in advance.
 
-Please note that a spot on the waiting list does not guarantee you a reading spot.
+For each live event, there are a limited number of reader spots, available on a first-come, first-served basis.
 
-Remember — kid writing doesn't expire, and we're planning to keep doing shows well into the future.
+If all the reader spots are taken, our website will show you a button that says "Join the Waiting List."
+
+If you add your name and email address to the waiting list, *and* a reader spot opens up in the days or weeks leading up to an event, we'll be in touch by email. It might be very short notice. **A spot on the waiting list does not guarantee you a reading spot.**
+
+If you don't get a reader spot, there will probably be another event in the future you can read at. Remember — kid writing doesn't expire.
 
 ## <a name="refunds"></a>Can I get a refund?
 
