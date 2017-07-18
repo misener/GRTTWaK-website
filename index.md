@@ -30,7 +30,7 @@ title: Home
 
 Listen in your [favourite podcast app](/podcast/):
 
-<a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_front_page_badge"><img src="//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/spotify"><img src="/images/spotify_logo.png" height="59px" style="display:inline"></a> <a href="https://play.radiopublic.com/2f14f380-2584-47a6-acac-d937f60121fd"><img src="/images/radiopublic_badge.png" height="59px" style="display:inline"></a>
+<a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_front_page_badge"><img src="//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/spotify"><img src="/images/spotify_logo.png" height="59px" style="display:inline"></a> <a href="https://play.radiopublic.com/2f14f380-2584-47a6-acac-d937f60121fd?utm_source=GRTTWaK&utm_medium=grttwak-website&utm_campaign=grttwak-frontpage"><img src="/images/radiopublic_badge.png" height="59px" style="display:inline"></a>
 
 ## <i class="fa fa-heart" aria-hidden="true"></i> Support the show
 
