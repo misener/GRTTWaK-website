@@ -19,6 +19,8 @@ title: Home
      class='art19-web-player awp-medium awp-theme-dark-custom'
      data-episode-id='{{ post.art19_id }}'
      data-primary-color='#f37749'
+	 data-bt-series-id='a160bd44-67e2-11e7-b61d-0e6e2408d686'
+	 data-bt-guid='{{ post.art19_id }}'
      data-emit-events='true'
      data-bt-episode-title='{{ post.number }}: "{{ post.quote }}" ({{ post.city }})'
      data-bt-episode-author='Grownups Read Things They Wrote as Kids'
