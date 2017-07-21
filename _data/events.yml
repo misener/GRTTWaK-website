@@ -46,16 +46,34 @@ upcoming:
     city: 'Peterborough'
     province: 'ON'
     url: http://markethall.org/
-  tito_event: "grttwak/XXXXXXXXXX"
+  tito_event: "grttwak/peterborough-2017-september"
   showtimes:
     # - name: Matinee (3:30)
     #   releases:
     #     reader: XXXXXXXXXX
     #     general_admission: XXXXXXXXXX
-    # - name: Evening (8:00)
+    - name: Evening (8:00)
+      releases:
+        reader: 3kwdj0j6qgc
+        general_admission: c0fwyuscczy
+
+- date: 2017-08-20 20:00:00
+  venue:
+    name: The Tranzac
+    address: "292 Brunswick Ave"
+    city: 'Toronto'
+    province: 'ON'
+    url: http://www.tranzac.org/
+  tito_event: "grttwak/toronto-2017-august"
+  showtimes:
+    # - name: Matinee (3:30)
     #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
+    #     reader: 9gyfryvpavu
+    #     general_admission: ilpqs8brd0i
+    - name: Evening (8:00)
+      releases:
+        reader: quycgcz2wku
+        general_admission: 0s2lvq6myqa
 
 
 # PAST EVENTS GO BELOW THIS LINE
