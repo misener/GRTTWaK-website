@@ -55,15 +55,15 @@ redirect_from:
 
 {% if post.art19_id %}
 
-    <div id='episodes-page-{{ page.number }}'
-         class='art19-web-player awp-medium awp-theme-light-custom'
-         data-episode-id='{{ post.art19_id }}'
-         data-primary-color='#f37749'
-         data-bt-series-id='a160bd44-67e2-11e7-b61d-0e6e2408d686'
-         data-bt-guid='{{ post.art19_id }}'
-         data-emit-events='true'
-         data-bt-episode-title='{{ post.number }}: "{{ post.quote }}" ({{ post.city }})'
-         data-bt-episode-author='Grownups Read Things They Wrote as Kids'
+    <div id="episodes-page-{{ page.number }}"
+         class="art19-web-player awp-medium awp-theme-light-custom"
+         data-episode-id="{{ post.art19_id }}"
+         data-primary-color="#f37749"
+         data-emit-events="true"
+         data-bt-series-id="a160bd44-67e2-11e7-b61d-0e6e2408d686"
+         data-bt-guid={% if post.guid %}"{{ post.guid }}"{% else %}"{{ post.art19_id }}"{% endif %}
+         data-bt-episode-title="{{ post.number }}: &quot;{{ post.quote }}&quot; ({{ post.city }})"
+         data-bt-episode-author="Grownups Read Things They Wrote as Kids"
          ></div>
 
 {% elsif post.soundcloud_id %}
