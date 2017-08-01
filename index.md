@@ -3,6 +3,21 @@ layout: default
 title: Home
 ---
 
+
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+  <!-- Your embedded video player code -->
+
+
+
 {% for post in site.posts if post.categories contains 'episodes' limit:1 %}
 
 <!-- [<img src="/images/episodes/{{ post.number }}.jpg">]({{ post.url }}) -->
@@ -34,11 +49,14 @@ Listen in your [favourite podcast app](/podcast/):
 
 <a href="https://itunes.apple.com/podcast/id890900960?mt=2&at=10lR7u&ct=website_front_page_badge"><img src="//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg" style="display:inline" height="59px"></a> <a href="http://links.grownupsreadthingstheywroteaskids.com/spotify"><img src="/images/spotify_logo.png" height="59px" style="display:inline"></a> <a href="https://play.radiopublic.com/2f14f380-2584-47a6-acac-d937f60121fd?utm_source=GRTTWaK&utm_medium=grttwak-website&utm_campaign=grttwak-frontpage"><img src="/images/radiopublic_badge.png" height="59px" style="display:inline"></a>
 
+{% comment %}
 ## <i class="fa fa-heart" aria-hidden="true"></i> Support the show
 
 *Grownups Read Things They Wrote as Kids* is an independent production, supported by people who love it. <a href="/support/">Become a patron today</a>.
+{% endcomment %}
 
-## <i class="fa fa-calendar"></i> Live Events 
+
+## Live Events 
 
 {% if site.data.events.upcoming.size > 0 %}
 {% assign upcoming = site.data.events.upcoming %}
@@ -52,6 +70,13 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 
 {% endif %}
 
+## Video
+We post new reader videos **every weekday** on [Facebook](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/videos/) and [YouTube](https://www.youtube.com/channel/UCPjbSZkl7t2Kj6_Hlc71A4g).
+
+<div class="fb-video" data-href="https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154847272218600/" data-width="auto" data-show-text="false"><blockquote cite="https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154847272218600/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154847272218600/">&quot;I&#039;m pretty sure I missed his lips&quot;</a><p>When Jeanna was 12, she had her first kiss with a boy named Tyler. She may have missed his lips.</p>Posted by <a href="https://www.facebook.com/grownupsreadthingstheywroteaskids/">Grownups Read Things They Wrote as Kids</a> on Monday, April 24, 2017</blockquote></div>
+
+{% comment %}
 ## About
 
 Since 2007, *Grownups Read Things They Wrote as Kids* has invited audiences to remember the good, the bad, and the awkward parts of growing up. Courageous adults read their childhood and teenage diaries, poetry, short stories, letters from camp, and much more... out loud in front of an audience. [Learn more...](/about/)
+{% endcomment %}
