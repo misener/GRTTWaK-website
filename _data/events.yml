@@ -2,43 +2,6 @@
 
 upcoming:
 
-- date: 2017-07-23 20:00:00
-  venue:
-    name: Rio Theatre
-    address: '1660 East Broadway'
-    city: 'Vancouver'
-    province: 'BC'
-    url: http://riotheatre.ca/
-  tito_event: "grttwak/vancouver-2017-july"
-  notes: "19+"
-  showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
-    - name: Evening (8:00)
-      releases:
-        reader: nb56iwcthaw
-        general_admission: uqebqks4rda
-
-- date: 2017-07-24 20:00:00
-  venue:
-    name: Victoria Event Centre
-    address: 1415 Broad Street
-    city: 'Victoria'
-    province: BC
-    url: http://victoriaeventcentre.ca/
-  tito_event: "grttwak/victoria-2017-july"
-  showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
-    - name: Evening (8:00)
-      releases:
-        reader: hrazuetawxo
-        general_admission: r5paf3fe-c8
-
 - date: 2017-09-17 20:00:00
   venue:
     name: Market Hall
@@ -1052,3 +1015,40 @@ past:
       releases:
         reader: 1vlkzff59gq
         general_admission: lq4rjmeqp6w
+
+- date: 2017-07-23 20:00:00
+  venue:
+    name: Rio Theatre
+    address: '1660 East Broadway'
+    city: 'Vancouver'
+    province: 'BC'
+    url: http://riotheatre.ca/
+  tito_event: "grttwak/vancouver-2017-july"
+  notes: "19+"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: nb56iwcthaw
+        general_admission: uqebqks4rda
+
+- date: 2017-07-24 20:00:00
+  venue:
+    name: Victoria Event Centre
+    address: 1415 Broad Street
+    city: 'Victoria'
+    province: BC
+    url: http://victoriaeventcentre.ca/
+  tito_event: "grttwak/victoria-2017-july"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: hrazuetawxo
+        general_admission: r5paf3fe-c8
