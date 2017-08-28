@@ -5,7 +5,7 @@ quote: "Brains are better than boobs"
 city: St. Albert
 permalink: /episode/418/
 simplecast_episode_id: XXXX
-art19_id: XXXX
+art19_id: 883b32c2-7483-4bb7-8048-7c7c87fd0f9b
 ---
 
 Maura contemplates puberty, Matt poops his pants, Michelle imagines a family of horses, and much more. Recorded live at The Arden Theatre in St. Albert.
