@@ -64,19 +64,7 @@ redirect_from:
 
 #### {{ showtime.name }}
 
-{% comment %}
 
-<tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus"></i> Sign up to read in {{ event.venue.city }}</tito-button>
-
-{% if showtime.releases.general_admission contains "http" %}
-  <button onclick="window.location='{{ showtime.releases.general_admission }}';"><i class="fa fa-ticket"></i> Buy tickets</button>
-{% else %}
-  <tito-button event="{{ event.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket"></i> Buy tickets</tito-button>
-
-
-{% endif %}
-
-{% endcomment %}
 
 
 <ul class="fa-ul">
@@ -86,12 +74,16 @@ redirect_from:
     <li><i class="fa-li fa fa-ticket"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.general_admission }}">Buy audience tickets for {{ event.venue.city }}</a></li>
   {% endif %}
 
-  <li><i class="fa-li fa fa-user-plus"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</a></li>
+  {% if showtime.releases.reader == nill %}
+    <li><i class="fa-li fa fa-user-plus"></i>Reader signup details coming soon...</li>
+  {% else %}
+    <li><i class="fa-li fa fa-user-plus"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</a></li>
+
+  {% endif %}
+
 </ul>
 
-
 <small>{{ event.notes }}</small>
-
 
 <script type="application/ld+json">
 {
