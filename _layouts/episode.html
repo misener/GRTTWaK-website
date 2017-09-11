@@ -81,7 +81,7 @@ layout: default
     {% if page.mp3_enclosure %}
     <a href="{{ page.mp3_enclosure }}">Download MP3</a>
     {% elsif page.art19_id %}    
-    <a href="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/{{ page.simplecast_episode_id }}.mp3">Download MP3</a>
+    <a href="https://dts.podtrac.com/redirect.mp3/rss.art19.com/episodes/{{ page.art19_id }}.mp3">Download MP3</a>
     {% elsif page.simplecast_episode_id %}
     <a href="https://dts.podtrac.com/redirect.mp3/audio.simplecast.com/{{ page.simplecast_episode_id }}.mp3">Download MP3</a>
     {% endif %}
