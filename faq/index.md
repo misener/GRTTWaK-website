@@ -23,6 +23,7 @@ Embarrassing, moving, and hilarious, these readings are powerful reminders of wh
 * About the podcast
 	* [What’s the story with the podcast?](#podcastvslive)
 	* [How do you choose which readings end up in the podcast?](#podcasteditorial)
+	* [When will the podcast episode you taped in City X be available?](#podcasttimeline)
 * Reading at the show
 	* [How do I sign up to participate?](#signup)
 	* [What can I read?](#whatcaniread)
@@ -97,6 +98,12 @@ Kid = whatever you consider kid to mean. One of the best things about GRTTWaK is
 <h2 id="podcasteditorial">How do you choose which readings end up in the podcast?</h2>
 
 Good question. [Dan wrote a whole thing about that](/faq/podcast-editorial/).
+
+<h2 id="podcasttimeline">When will the podcast episode you taped in City X be available?</h2>
+
+Short answer: we usually don't know.
+
+Depending on the schedule and season, can take several weeks (or months) between recording a live event, and releasing a podcast episode. We usually don't have a firm podcast release date until very shortly before the episode is released. If we feature your reading in the podcast, we *will* give you a heads-up before the episode drops.
 
 <h2 id="ripoff">What’s the deal with other, similar events? Are they ripping you off? Are you ripping them off?</h2>
 
