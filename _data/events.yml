@@ -2,24 +2,6 @@
 
 upcoming:
 
-- date: 2017-09-17 20:00:00
-  venue:
-    name: Market Hall
-    address: '140 Charlotte Street'
-    city: 'Peterborough'
-    province: 'ON'
-    url: http://markethall.org/
-  tito_event: "grttwak/peterborough-2017-september"
-  showtimes:
-    # - name: Matinee (3:30)
-    #   releases:
-    #     reader: XXXXXXXXXX
-    #     general_admission: XXXXXXXXXX
-    - name: Evening (8:00)
-      releases:
-        reader: 3kwdj0j6qgc
-        general_admission: c0fwyuscczy
-
 - date: 2017-10-12 21:30:00
   special: "Yes"
   venue:
@@ -1068,3 +1050,21 @@ past:
       releases:
         reader: quycgcz2wku
         general_admission: 0s2lvq6myqa
+
+- date: 2017-09-17 20:00:00
+  venue:
+    name: Market Hall
+    address: '140 Charlotte Street'
+    city: 'Peterborough'
+    province: 'ON'
+    url: http://markethall.org/
+  tito_event: "grttwak/peterborough-2017-september"
+  showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: XXXXXXXXXX
+    #     general_admission: XXXXXXXXXX
+    - name: Evening (8:00)
+      releases:
+        reader: 3kwdj0j6qgc
+        general_admission: c0fwyuscczy
