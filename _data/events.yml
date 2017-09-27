@@ -11,12 +11,55 @@ upcoming:
     province: "ON"
     url: https://goo.gl/wZC88d
   notes: "**Note:** This is a special GRTTWaK event as part of the Hot Docs Podcast Festival. [General Admission tickets are available exclusively through the Hot Docs website](https://goo.gl/wZC88d)."
-  tito_event: "grttwak/XXX"
+  tito_event: "grttwak/toronto-2017-october"
   showtimes:
     - name: Evening (9:30)
       releases:
-        reader: 
+        reader: 41uymyjncqk
         general_admission: https://goo.gl/wZC88d
+
+- date: 2017-11-05 20:00:00
+  venue:
+    name: Florence Simmons Performance Hall
+    address: "140 Weymouth Street"
+    city: 'Charlottetown'
+    province: "PEI"
+    url: http://www.hollandcollege.com/florence-simmons-performance-hall/
+  # notes: "**Note:** This is a special GRTTWaK event as part of the Hot Docs Podcast Festival. [General Admission tickets are available exclusively through the Hot Docs website](https://goo.gl/wZC88d)."
+  tito_event: "grttwak/charlottetown-2017-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: l7cmzbapx3c
+        general_admission: ah5x4fjwafc
+
+- date: 2017-11-06 20:00:00
+  venue:
+    name: Charlotte Street Arts Centre
+    address: 732 Charlotte Street
+    city: Fredericton
+    province: NB
+    url: http://www.charlottestreetarts.ca
+  tito_event: "grttwak/fredericton-2017-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: cezntqjtus8
+        general_admission: 7xzodakj7g
+
+- date: 2017-11-08 20:00:00
+  venue:
+    name: a top secret location in the Wicker Park/Bucktown area
+    address: shhhhhhh!
+    city: Chicago
+    province: IL
+    url: https://grownups.fm
+  tito_event: "grttwak/chicago-2017-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: 3ednrr3yd7w
+        general_admission: y9jij7p5dyw
 
 
 # PAST EVENTS GO BELOW THIS LINE
