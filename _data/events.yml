@@ -25,7 +25,7 @@ upcoming:
     city: 'Charlottetown'
     province: "PEI"
     url: http://www.hollandcollege.com/florence-simmons-performance-hall/
-  # notes: "**Note:** This is a special GRTTWaK event as part of the Hot Docs Podcast Festival. [General Admission tickets are available exclusively through the Hot Docs website](https://goo.gl/wZC88d)."
+  notes: "This event is presented in partnership with the [PEI Literacy Alliance](http://www.peiliteracy.ca/)"
   tito_event: "grttwak/charlottetown-2017-november"
   showtimes:
     - name: Evening (8:00)
