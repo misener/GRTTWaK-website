@@ -21,14 +21,14 @@ layout: default
       {% endif %}
     {% endfor %}
 
-    <img src="{{ episode_image }}">
+    <!-- <img src="{{ episode_image }}"> -->
 
     <!-- <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ page.art19_id }}/embed?type=micro&theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 40px; border: 0 none;" scrolling="no"></iframe> -->
 
     <!-- <div class="art19-web-player awp-micro awp-theme-dark-custom" data-episode-id="{{ page.art19_id }}" data-primary-color="#f37749"></div> -->
 
     <div id='episode-page-{{ page.number }}'
-         class='art19-web-player awp-micro awp-theme-dark-custom'
+         class='art19-web-player awp-medium awp-theme-dark-custom'
          data-episode-id='{{ page.art19_id }}'
          data-primary-color='#f37749'
          data-emit-events='true'
