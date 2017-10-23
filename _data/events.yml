@@ -2,22 +2,6 @@
 
 upcoming:
 
-- date: 2017-10-12 21:30:00
-  special: "Yes"
-  venue:
-    name: Hot Docs Ted Rogers Cinema
-    address: "506 Bloor St W"
-    city: 'Toronto'
-    province: "ON"
-    url: https://goo.gl/wZC88d
-  notes: "**Note:** This is a special GRTTWaK event as part of the Hot Docs Podcast Festival. [General Admission tickets are available exclusively through the Hot Docs website](https://goo.gl/wZC88d)."
-  tito_event: "grttwak/toronto-2017-october"
-  showtimes:
-    - name: Evening (9:30)
-      releases:
-        reader: 41uymyjncqk
-        general_admission: https://goo.gl/wZC88d
-
 - date: 2017-11-05 20:00:00
   venue:
     name: Florence Simmons Performance Hall
@@ -1111,3 +1095,19 @@ past:
       releases:
         reader: 3kwdj0j6qgc
         general_admission: c0fwyuscczy
+
+- date: 2017-10-12 21:30:00
+  special: "Yes"
+  venue:
+    name: Hot Docs Ted Rogers Cinema
+    address: "506 Bloor St W"
+    city: 'Toronto'
+    province: "ON"
+    url: https://goo.gl/wZC88d
+  notes: "**Note:** This is a special GRTTWaK event as part of the Hot Docs Podcast Festival. [General Admission tickets are available exclusively through the Hot Docs website](https://goo.gl/wZC88d)."
+  tito_event: "grttwak/toronto-2017-october"
+  showtimes:
+    - name: Evening (9:30)
+      releases:
+        reader: 41uymyjncqk
+        general_admission: https://goo.gl/wZC88d
