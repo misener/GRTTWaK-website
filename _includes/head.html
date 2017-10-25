@@ -27,7 +27,9 @@
 
   {% capture page_title %}
     {% if page.title == "Home" %}
-      {{ site.title }} &middot; {{ site.tagline }}
+      {{ site.title }} &middot; {{ site.tagline }}   
+    {% elsif page.categories contains "episodes" %}
+      "{{ page.quote }}" ({{ page.city }}) &middot; Episode {{ page.number }} &middot; {{ site.title }}
     {% else %}
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
