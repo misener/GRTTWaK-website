@@ -1,5 +1,5 @@
 ---
-category:   episodes
+category: episodes
 number: 201
 quote:  I was 9, but I was tough
 city:   Montreal
