@@ -2,48 +2,23 @@
 
 upcoming:
 
-- date: 2017-11-05 20:00:00
+- date: 2017-07-09 20:00:00
   venue:
-    name: Florence Simmons Performance Hall
-    address: "140 Weymouth Street"
-    city: 'Charlottetown'
-    province: "PEI"
-    url: http://www.hollandcollege.com/florence-simmons-performance-hall/
-  notes: "This event is presented in partnership with the [PEI Literacy Alliance](http://www.peiliteracy.ca/)"
-  tito_event: "grttwak/charlottetown-2017-november"
+    name: The Gladstone Theatre
+    address: "910 Gladstone Ave"
+    city: 'Ottawa'
+    province: 'ON'
+    url: http://www.thegladstone.ca
+  tito_event: "grttwak/ottawa-december-2017"
   showtimes:
+    # - name: Matinee (3:30)
+    #   releases:
+    #     reader: bdnbkrhibju
+    #     general_admission: amqi75kqx-a
     - name: Evening (8:00)
       releases:
-        reader: l7cmzbapx3c
-        general_admission: ah5x4fjwafc
-
-- date: 2017-11-06 20:00:00
-  venue:
-    name: Charlotte Street Arts Centre
-    address: 732 Charlotte Street
-    city: Fredericton
-    province: NB
-    url: http://www.charlottestreetarts.ca
-  tito_event: "grttwak/fredericton-2017-november"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: cezntqjtus8
-        general_admission: 7xzodakj7g
-
-- date: 2017-11-08 20:00:00
-  venue:
-    name: a top secret location in the Wicker Park/Bucktown area
-    address: shhhhhhh!
-    city: Chicago
-    province: IL
-    url: https://grownups.fm
-  tito_event: "grttwak/chicago-2017-november"
-  showtimes:
-    - name: Evening (8:00)
-      releases:
-        reader: 3ednrr3yd7w
-        general_admission: y9jij7p5dyw
+        reader: fubxfbawgvw
+        general_admission: 2ragphe-8ca
 
 
 # PAST EVENTS GO BELOW THIS LINE
@@ -1111,3 +1086,46 @@ past:
       releases:
         reader: 41uymyjncqk
         general_admission: https://goo.gl/wZC88d
+
+- date: 2017-11-05 20:00:00
+  venue:
+    name: Florence Simmons Performance Hall
+    address: "140 Weymouth Street"
+    city: 'Charlottetown'
+    province: "PEI"
+    url: http://www.hollandcollege.com/florence-simmons-performance-hall/
+  notes: "This event is presented in partnership with the [PEI Literacy Alliance](http://www.peiliteracy.ca/)"
+  tito_event: "grttwak/charlottetown-2017-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: l7cmzbapx3c
+        general_admission: ah5x4fjwafc
+
+- date: 2017-11-06 20:00:00
+  venue:
+    name: Charlotte Street Arts Centre
+    address: 732 Charlotte Street
+    city: Fredericton
+    province: NB
+    url: http://www.charlottestreetarts.ca
+  tito_event: "grttwak/fredericton-2017-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: cezntqjtus8
+        general_admission: 7xzodakj7g
+
+- date: 2017-11-08 20:00:00
+  venue:
+    name: a top secret location in the Wicker Park/Bucktown area
+    address: shhhhhhh!
+    city: Chicago
+    province: IL
+    url: https://grownups.fm
+  tito_event: "grttwak/chicago-2017-november"
+  showtimes:
+    - name: Evening (8:00)
+      releases:
+        reader: 3ednrr3yd7w
+        general_admission: y9jij7p5dyw
