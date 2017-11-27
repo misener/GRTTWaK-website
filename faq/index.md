@@ -20,6 +20,7 @@ Embarrassing, moving, and hilarious, these readings are powerful reminders of wh
 * About the live events
 	* [Where did the idea come from?](#origins)
 	* [What’s the deal with other, similar events?](#ripoff)
+	* [Can I organize my own GRTTWaK-style event?](#DIY)
 * About the podcast
 	* [What’s the story with the podcast?](#podcastvslive)
 	* [How do you choose which readings end up in the podcast?](#podcasteditorial)
@@ -109,9 +110,24 @@ Depending on the schedule and season, can take several weeks (or months) between
 
 There are lots of juvenilia-based events out there, each with their own particular format and execution.
 
-Chronologically, Sara Bynoe's [Teen Angst](https://sarabynoe.com/shows/teen-angst/) (Vancouver) was the first show like this that we’ve heard of. [Mortified’s](http://getmortified.com/) another. [Cringe](http://queserasera.org/cringe.html) (NYC & London) and [Salon of Shame](http://salonofshame.com/) (Seattle) and [Scribbler Skeletons](https://www.facebook.com/events/1407290712824089/) (Charlottetown) are others. Of course, there are similarities. But each show is unique in its execution.
+Chronologically, Sarah Bynoe's [Teen Angst Night](http://sarabynoe.com/shows/teen-angst/) (Calgary, then Vancouver) was the first event like this we’ve heard of. [Mortified](getmortified.com) is another. [Cringe](http://www.queserasera.org/cringe.html) (NYC and London) and [Salon of Shame](http://salonofshame.com/) (Seattle) and [Dear Diary](https://www.facebook.com/DearDiaryShow) (Toronto) are others. Obviously, there are similarities between these events, but each is unique in its format and execution.
 
 *Grownups Read Things They Wrote as Kids* has been around as a live event since 2007, and as a podcast since 2008. There are older shows, and newer shows, and if you ask me, there’s room for more.
+
+<h2 id="DIY">Can I organize my own GRTTWaK-style event?</h2>
+
+Of course, so long as you call it something other than *Grownups Read Things They Wrote as Kids*, to avoid confusion. It's important to choose a *meaningfully different* name (e.g. "Adults Read Stuff They Wrote When They Were Young" isn't meangfully different).
+
+GRTTWaK isn't a franchise. It's a tiny passion project run by a married couple, part-time, evenings and weekends. We've been organizing GRTTWaK shows for almost a decade and in that time, we've developed enough esoteric ways of doing things that franchising just isn't feasible right now.
+
+Of course, that shouldn't stop you from putting your own unique spin on a juvenilia-reading event. Nobody owns the idea of sharing cute/funny/embarassing juvenilia on stage, and there are **lots** of other events where people read childhood/teenage diaries, poetry, short stories, etc.
+
+Chronologically, Sarah Bynoe's [Teen Angst Night](http://sarabynoe.com/shows/teen-angst/) (Calgary, then Vancouver) was the first event like this we’ve heard of. [Mortified](getmortified.com) is another. [Cringe](http://www.queserasera.org/cringe.html) (NYC and London) and [Salon of Shame](http://salonofshame.com/) (Seattle) and [Dear Diary](https://www.facebook.com/DearDiaryShow) (Toronto) are others. Obviously, there are similarities between these events, but each is unique in its format and execution.
+
+Ariel from [Salon of Shame](http://salonofshame.com/) wrote a great how-to guide called [Start a diary reading event in your town!](http://salonofshame.com/start-your-own/) Also, Mortified's FAQ has some good advice about making your event unique (scroll down to "[Can I do a Mortified-inspired show in my city if I call it something else?](http://getmortified.com/about/faq/)").
+
+Finally, if you start your own GRTTWaK-inspired reading event, [let us know](mailto:dan@grownupsreadthingstheywroteaskids.com). We're always keen to hear from kindred spirits, and we're happy to help wherever we can.
+
 
 <h2 id="whycantigettickets">Your live events sell out really quickly. What's the deal?</h2>
 
