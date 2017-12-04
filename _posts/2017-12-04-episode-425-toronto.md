@@ -6,6 +6,11 @@ city: Toronto
 permalink: /episode/425/
 simplecast_episode_id: XXXX
 art19_id: e0cea947-0489-49ef-9a61-0e21e6bf9a3c
+
+episode_link_apple: 1000395588459
+episode_link_spotify: 56ix00yoFGy3nHJKqMZYQc
+episode_link_radiopublic: a56da59a91cac803fd4dbec00da883a8969c8ab4
+
 ---
 
 Chris discovers he's gay, Teagan writes poems about Ebola, Ariana falls in love with an older man, and much more. Recorded live at the Tranzac in Toronto.
