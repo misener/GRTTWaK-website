@@ -15,6 +15,10 @@ episode_link_radiopublic: a56da59a91cac803fd4dbec00da883a8969c8ab4
 
 Chris discovers he's gay, Teagan writes poems about Ebola, Ariana falls in love with an older man, and much more. Recorded live at the Tranzac in Toronto.
 
+Ariana's poem in this episode was written at a point in her life when she was "really into slam poetry." Her poem's format was inspired by Kevin Kantor's "Honest Confessions on Letting Go."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YLbh1z3dzo0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## Show notes
 * [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=425).
 * [Photos from our Toronto event](https://www.facebook.com/media/set/?set=a.10155215362748600.1073741904.121054468599&type=1&l=529e94b77d)
