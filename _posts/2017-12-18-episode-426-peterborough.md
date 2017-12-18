@@ -1,15 +1,15 @@
 ---
 categories: episodes
-number: 425
+number: 426
 quote: "It touched my feelings like a sledgehammer"
 city: Peterborough
-permalink: /episode/425/
+permalink: /episode/426/
 simplecast_episode_id: XXXX
 art19_id: fe71f1bb-bcc4-49b0-a486-167b89074e3f
 
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+episode_link_apple: 1000397642717
+episode_link_spotify: 2SjTfpAG1bRnk3bGgVFvRD
+episode_link_radiopublic: 5834c98b1b374ad0ec2af7fc3b4dc124da2af6e2
 
 ---
 
