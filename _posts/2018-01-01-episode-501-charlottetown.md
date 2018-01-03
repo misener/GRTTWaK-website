@@ -7,9 +7,9 @@ permalink: /episode/501/
 simplecast_episode_id: XXXX
 art19_id: 9bc0f02d-a4b2-4c47-b7e1-0d09789573e6
 
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+episode_link_apple: 1000398849871
+episode_link_spotify: 4u5S5lbtFbh5Pj61A4xvLg
+episode_link_radiopublic: s1!2699346032951f645455b12650cb1a49913d7a73
 ---
 
 Em explains the perils of pornography, Wendy writes long-distance love letters, Chet imagines villainous owls, and much more. Recorded live at the Florence Simmons Performance Hall in Charlottetown.
