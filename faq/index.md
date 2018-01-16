@@ -35,6 +35,9 @@ Embarrassing, moving, and hilarious, these readings are powerful reminders of wh
 	* [Your live events sell out really quickly. What's the deal?](#whycantigettickets)
 	* [Have you considered a larger venue in [insert city here]?](#biggervenue)
 	* [Is GRTTWaK a really great first date?](#date)
+	* [It says you’re sold out. Are you really sold out?](#soldout)
+	* [How does the reader waiting list work?](#readerwaitlist)
+	* [Can I get a refund?](#refunds)
 
 <h2 id="origins">Where did the idea for Grownups Read Things They Wrote as Kids come from?</h2>
 
@@ -128,7 +131,6 @@ Ariel from [Salon of Shame](http://salonofshame.com/) wrote a great how-to guide
 
 Finally, if you start your own GRTTWaK-inspired reading event, [let us know](mailto:dan@grownupsreadthingstheywroteaskids.com). We're always keen to hear from kindred spirits, and we're happy to help wherever we can.
 
-
 <h2 id="whycantigettickets">Your live events sell out really quickly. What's the deal?</h2>
 
 Often, our shows sell out quickly. We know this can be frustrating.
@@ -152,6 +154,32 @@ That said, if you have a great venue recommendation, we're all ears. Typically, 
 3. Alcohol that you're allowed to bring to your seat
 
 Venue suggestions always welcome: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com)
+
+
+<h2 id="soldout">It says you’re sold out. Are you really sold out?</h2>
+If you can't buy a ticket, we're probably sold out. We know this can be frustrating.
+
+The first place we announce live shows is through our [email newsletter](https://grownupsreadthingstheywroteaskids.com/newsletter/). Often, live events fill up hours (or minutes) after they're announced.
+
+Our ticketing company, [Tito](https://ti.to/), has a "waiting list" feature. If a show is sold out, you can join the waiting list. If more general admission tickets become available, we make them available to members of the waiting list. Joining the waiting list does not guarantee you a ticket, nor does it give you any special privileges for the *next* available show.
+
+Reader signup and general admission tickets are first-come, first-served. It's not ideal for everyone, but it's the fairest way we know how to do it. We appreciate your patience. 
+
+<h2 id="readerwaitlist">How does the reader waiting list work?</h2>
+If you want to read at *Grownups Read Things They Wrote as Kids*, you must sign up in advance.
+
+For each live event, there are a limited number of reader spots, available on a first-come, first-served basis.
+
+If all the reader spots are taken, our website will show you a button that says "Join the Waiting List."
+
+If you add your name and email address to the waiting list, *and* a reader spot opens up in the days or weeks leading up to an event, we'll be in touch by email. It might be very short notice. **A spot on the waiting list does not guarantee you a reading spot.**
+
+If you don't get a reader spot, there will probably be another event in the future you can read at. Remember — kid writing doesn't expire.
+
+<h2 id="refunds">Can I get a refund?</h2>
+For most GRTTWaK events, General Admission tickets are fully transferrable to another person. Simply follow the links in the email confirmation from Tito. As a general rule, we can process refunds but only **up until one week before** a live event. We cannot accommodate last-minute refunds.
+
+A small handful of GRTTWaK events are part of festivals. In cases like these where we don't directly control ticketing, refund and exchangepolicies may vary.
 
 <h2 id="date">Is GRTTWaK a really great first date?</h2>
 
