@@ -41,3 +41,14 @@ defaults:
         path: "/newsletter/"
     values:
       layout: "page"
+
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: "event"
+
+collections:
+  events:
+    output: true
+    permalink: /:collection/:path/
