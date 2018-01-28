@@ -1,5 +1,5 @@
 ---
-date: 2018-03-03 21:30:00
+event_date: 2018-03-03 21:30:00
 special: "Yes"
 venue:
   name: Holiday Inn Kingston
