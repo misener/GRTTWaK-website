@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Live Events
+permalink: /events/index.html
 redirect_from:
   - /liveshows/
   - /event/grttwak-halifax/
@@ -34,6 +35,8 @@ redirect_from:
   - /event/grttwak-edmonton/
   - /event/grttwak-yellowknife/
   - /event/grttwak-calgary-3/
+
+
 ---
 
 <script>fbq('track', 'ViewContent');</script>
