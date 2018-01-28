@@ -1,6 +1,5 @@
 # Dependencies
 markdown:         kramdown
-
 # redcarpet:
 #   extensions: ["tables"]
 
@@ -21,6 +20,7 @@ tagline:          'Remembering the good, the bad, and the awkward parts of growi
 description:      'Remembering the good, the bad, and the awkward parts of growing up. Since 2007.'
 url:              https://grownupsreadthingstheywroteaskids.com
 baseurl:          ''
+future:           false
 
 author:
   name:           'Dan Misener'
