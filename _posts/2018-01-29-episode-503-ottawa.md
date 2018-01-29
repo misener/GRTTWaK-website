@@ -7,9 +7,9 @@ permalink: /episode/503/
 simplecast_episode_id: XXXX
 art19_id: a24cab4d-5370-4970-b7ac-e5fed3e5aa24
 
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+episode_link_apple: 1000400954922
+episode_link_spotify: 17TYsMVEXFVf6BdqnI6F7L
+episode_link_radiopublic: 0c812631c9da1321bcad277cf104d6761213b79f
 ---
 
 Caitlin contemplates her first kiss, Todd writes a poem about picking your nose, Melanie reviews *The X-Files*, and much more. Recorded live at The Gladstone Theatre in Ottawa.
