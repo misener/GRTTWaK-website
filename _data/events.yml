@@ -18,21 +18,6 @@ upcoming:
         reader: 2bfk1qzqrwq
         general_admission: https://www.ticketscene.ca/events/19817/
 
-- date: 2018-02-04 00:00:00
-  showtimes:
-  - name: Evening (8:00)
-    releases: {general_admission: e2fq6djv-yi, reader: 8g1sotmvkqq}
-  tito_event: grttwak/windsor-2018-february
-  notes: We've cancelled the Windsor event on February 4. We're disappointed to cancel the show, but thankful for your interest in attending. All General Admission tickets have been refunded. If you have any questions about the refund process, email dan@grownups.fm
-  venue: {address: 121 University Avenue West, city: Windsor, name: Capitol Theatre,
-    province: 'ON', url: 'http://www.capitoltheatrewindsor.ca/getting-here/'}
-- date: 2018-02-05 00:00:00
-  showtimes:
-  - name: Evening (8:00)
-    releases: {general_admission: rzl84qv8ui0, reader: l3slxucn9gc}
-  tito_event: grttwak/london-2018-february
-  venue: {address: 470 Colborne Street, city: London, name: London Music Club, province: 'ON',
-    url: 'http://www.londonmusicclub.com/contactinfo.html'}
 - date: 2018-02-08 00:00:00
   showtimes:
   - name: Evening (8:00)
@@ -1190,3 +1175,19 @@ past:
       releases:
         reader: fubxfbawgvw
         general_admission: 2ragphe-8ca
+
+- date: 2018-02-04 00:00:00
+  showtimes:
+  - name: Evening (8:00)
+    releases: {general_admission: e2fq6djv-yi, reader: 8g1sotmvkqq}
+  tito_event: grttwak/windsor-2018-february
+  notes: We've cancelled the Windsor event on February 4. We're disappointed to cancel the show, but thankful for your interest in attending. All General Admission tickets have been refunded. If you have any questions about the refund process, email dan@grownups.fm
+  venue: {address: 121 University Avenue West, city: Windsor, name: Capitol Theatre,
+    province: 'ON', url: 'http://www.capitoltheatrewindsor.ca/getting-here/'}
+- date: 2018-02-05 00:00:00
+  showtimes:
+  - name: Evening (8:00)
+    releases: {general_admission: rzl84qv8ui0, reader: l3slxucn9gc}
+  tito_event: grttwak/london-2018-february
+  venue: {address: 470 Colborne Street, city: London, name: London Music Club, province: 'ON',
+    url: 'http://www.londonmusicclub.com/contactinfo.html'}
