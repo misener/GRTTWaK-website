@@ -7,8 +7,8 @@ permalink: /episode/505/
 simplecast_episode_id: XXXX
 art19_id: c096f23e-02e3-49bb-a5e3-2200450b9d4f
 
-episode_link_apple: 
-episode_link_spotify: 
+episode_link_apple: 1000403855410
+episode_link_spotify: 1DHo935Dsd81JK0mwhqJoX?
 episode_link_radiopublic: 
 ---
 
