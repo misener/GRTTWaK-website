@@ -11,11 +11,15 @@ title: Tips for Readers
 
 <hr>
 
-So you've signed up to read at _Grownups Read Things They Wrote as Kids_. Congratulations and thank you. Here are a few tips to help make the most out of your GRTTWaK experience. They're all important, so please read them all, and read them carefully.
+So you've signed up to read at _Grownups Read Things They Wrote as Kids_. Congratulations and thank you! Here are a few tips to help make the most out of your GRTTWaK experience. They're all important, so please read them all, and read them carefully.
 
 ## Show up early
 
-It's _very_ important that you show up  before we open the doors for general admission. At most events, we ask readers to arrive **no later than 7pm** for evening shows, and **2:30pm** for matinees. When you arrive, check in with Dan or Jenna so we know you made it. We kindly ask that your friends/family/partners wait until general admission doors open (usually at 7:30pm for evening shows, 3:00pm for matinees). Don't worry -- you can save them seats.
+It's _very_ important that you show up  before we open the doors for general admission. At most events, we ask readers to arrive **no later than 7pm** for evening shows, and **2:30pm** for matinees. When you arrive, check in with Dan or Jenna so we know you made it. We kindly ask that your friends/family/partners wait until general admission doors open (usually at 7:30pm for evening shows, 3:00pm for matinees).
+
+## Where will I sit?
+
+You'll spend 95% of the show sitting in the audience, enjoying the event along with everyone else. Because you'll arrive early, you get first dibs on whichever seats you want. You can save seats for any friends or family you'd like to sit with, too.
 
 ## The three rules
 
@@ -37,17 +41,19 @@ So long as it fits the 3 criteria listed above, you can read pretty much anythi
 
 **Your reading needn’t be funny.** Some of our most memorable readings have been bittersweet, sad, or difficult to share. Stuff that was once _secret_ usually elicits the biggest reactions, even though it can be the scariest material to read aloud. Cuss words are A-OK.
 
-**A note on language:** kid writing is a product of its time. Sometimes, the things we wrote as kids reflect predjudices of earlier times. We want your reading to stay true to the original words on the page, but if your reading includes predjudicial language of any kind **it is your responsibility** to flag it so we can properly contextualize, advise the audience, or alter the wording as necessary.
+**A note on language:** kid writing is a product of its time. Sometimes, the things we wrote as kids reflect predjudices of earlier times. We want your reading to stay true to the original words on the page, but if your reading includes predjudicial language of any kind **it is your responsibility** to flag it so we can properly contextualize, advise the audience, or tweak the wording as necessary.
 
 ## When am I on?
 
 We usually don't know the lineup until moments before the show begins. During the course of the show, Dan will give readers a heads-up about who's "on deck" (coming up next). If you're on deck, you should make your way towards the front of the room (or backstage, if applicable), and wait to be introduced.
 
+If you have a specific request about timing (e.g. "I'd like to go first"), we can probably accommodate you. Just ask.
+
 ## How should I read my thing?
 
 Dan will introduce you, and everyone will applaud. You come onstage, and read your thing. The audience laughs, cries. etc. Then, everyone applauds again. You go back to your seat, and that's it.
 
-**Please note:** GRTTWaK is not the place to work on your standup act, or promote your next gig, or read your current writing. There are other shows for those things. GRTTWaK is all about adults, reading childhood and teenage writing, as close to verbatim as possible. Please note that none of these are the title of our show:
+**Please note:** GRTTWaK is _not_ the place to work on your standup act, or tell a story from memory, or read your current writing. There are other shows for those things. GRTTWaK is all about adults, reading childhood and teenage writing, as close to verbatim as possible. Please note that none of these are the title of our show:
 
 *   _Grownups Read Lengthy Prepared Introductions to Things They Wrote as Kids_
 *   _Grownups Tell Their Entire Life Stories, Then Read Things They Wrote as Kids_
@@ -59,10 +65,11 @@ If the audience needs to hear a crucial piece of context (e.g. "my sister's name
 
 No way. Remember:
 
-*   Everyone in the audience is rooting for you. There's nobody to win over. They're already on your side.
-*   You have a built-in script. No need to be clever on the spot. Just read your thing, and you'll be fine.
-*   You don't have to worry about where to put your hands. Your diary/letter/journal/etc. is a built-in prop that'll help keep your hands still.
-*   You probably won't be able to see the audience. The lights are super-bright.
+* Everyone in the audience is rooting for you.
+* You have a built-in script. There is no need to be clever on the spot. Just read your thing, and you'll be fine.
+* You don't have to worry about where to put your hands. Your diary/letter/journal/etc. is a built-in prop that'll help keep your hands occupied.
+* You probably won't be able to see most of the audience. The lights will be very bright.
+* You're in good hands. The GRTTWaK team knows what we're doing, and we've got your back.
 
 There isn't a warmer, more supportive crowd than a GRTTWaK crowd. Honest.
 
@@ -75,6 +82,14 @@ The goal is to keep things short, and keep things moving. You get five minutes t
 Our stages are well-lit. Sometimes, they're so well-lit that it can be difficult to read your childhood writing. Especially if it's small, or written in pencil. **Pro tip: **if your original writing is small or difficult to read, _type out a copy in a large font_, and keep the typed copy inside the original (if indeed you bring along an original copy -- which isn't a requirement).
 
 ## Will there be a projector for visuals?
+
+Nope. Sorry.
+
+## Will there be a podium or lectern for me to stand behind?
+
+Nope. Sorry.
+
+## Will there be a music stand to hold my writing for me?
 
 Nope. Sorry.
 
@@ -96,10 +111,10 @@ You bet. We make audio recordings of all our live events. We also now make video
 
 We post daily reader videos to [Facebook](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/videos/) and [YouTube](https://www.youtube.com/c/GrownupsReadThingsTheyWroteasKids). Your video will likely be posted in the weeks (or months) following the live event.
 
-If you'd like a recording of your reading, please be patient. Video takes a while. We will probably post a video of you, and we always send a heads-up email to readers to let them know their video is about to be posted.
+If you'd like a recording of your reading, please be patient. Video takes a while. We will probably post a video of you, and we always send a heads-up email to readers to let them know their video has been posted.
 
 ## Questions?
 
-If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/).
+If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/) or [watch vides of past readers](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/videos/).
 
 See you soon, and thanks again! 
