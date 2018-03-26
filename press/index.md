@@ -14,6 +14,14 @@ A few of our favourite readings, in MP3 format:
 
 ## Images
 
+### Photos from previous events
+
+Photo albums from past shows are available [on Facebook](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/photos/?tab=albums).
+
+Photo credit: Jenna Zuschlag Misener (unless otherwise specified).
+
+High-resolution images available upon request.
+
 ### Official logo (square):
 
 ![](/images/grttwak-2048-orange.png)
@@ -22,11 +30,15 @@ A few of our favourite readings, in MP3 format:
 
 ![](/images/grownups-3000x1688.jpg)
 
-### Show photos
 
-Photo albums from past shows are available [on Facebook](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/photos/?tab=albums).
+### A few nice things people have said about us
 
-Photo credit: Jenna Zuschlag Misener (unless otherwise specified).
+> "An insightful portrait of childhood, with all of its crushes, friendships, misunderstandings, humor and anxiety" -- [USA Today](https://www.usatoday.com/story/life/entertainthis/2016/09/12/podcast-grownups-read-things-they-wrote-as-kids/90276962/)
 
-High-resolution images available upon request.
+> "It has much charm" -- [The Guardian](https://www.theguardian.com/tv-and-radio/2015/jul/19/radio-review-annie-nightingale-stewart-lee-grownups-read-things-wrote-kids-radio)
 
+> "Equal parts cringe-worthy and cathartic" -- [Splitsider](http://splitsider.com/2015/01/this-week-in-comedy-podcasts-horatio-sanz-and-ben-schwartz-celebrate-secular-christmas/)
+
+> "Personal time capsules at their soulful and entertaining best." -- [The Globe and Mail](https://www.theglobeandmail.com/arts/books-and-media/grownups-read-things-they-wrote-as-kids/article19316827/)
+
+> "That’s a long-ass name for a show" -- [Shannon Cason](https://soundcloud.com/homemadestories/hs-68-live-learn)
