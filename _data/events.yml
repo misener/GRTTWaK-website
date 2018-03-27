@@ -2,52 +2,6 @@
 
 upcoming:
 
-- date: 2018-03-03 21:30:00
-  special: "Yes"
-  venue:
-    name: Holiday Inn Kingston
-    address: "2 Princess St"
-    city: 'Kingston'
-    province: "ON"
-    url: https://www.ticketscene.ca/events/19817/
-  notes: "**Note:** This is a special GRTTWaK event as part of the Kingston Canadian Film Festival. [General Admission tickets are available exclusively through the KCFF website](https://www.ticketscene.ca/events/19817/)."
-  tito_event: "grttwak/kingston-2018-march"
-  showtimes:
-    - name: Evening (9:30)
-      releases:
-        reader: 2bfk1qzqrwq
-        general_admission: https://www.ticketscene.ca/events/19817/
-
-- date: 2018-02-08 00:00:00
-  showtimes:
-  - name: Evening (8:00)
-    releases: {general_admission: cxhakg0bfju, reader: xp2-7bo8-ps}
-  tito_event: grttwak/kitchener-2018-february
-  venue: {address: 20 Queen Street South, city: Kitchener, name: The Walper Hotel, province: 'ON',
-    url: 'http://www.walper.com/kitchener-hotel-contact-and-directions-en.html'}
-- date: 2018-03-09 00:00:00
-  showtimes:
-  - name: Evening (8:00)
-    releases: {general_admission: wkh9kad4paw, reader: n-7-rukjmzi}
-  tito_event: grttwak/saskatoon-2018-march
-  venue: {address: 715 Broadway Avenue, city: Saskatoon, name: The Broadway Theatre,
-    province: SK, url: 'https://broadwaytheatre.ca/contact'}
-- date: 2018-03-11 00:00:00
-  showtimes:
-  - name: Evening (8:00)
-    releases: {general_admission: jyyj4ulaxxg, reader: glcqdjuwtrm}
-  tito_event: grttwak/winnipeg-2018-march
-  venue: {address: ' 698 Osborne Street', city: Winnipeg, name: The Park Theatre,
-    province: MB, url: 'https://myparktheatre.com/about/'}
-- date: 2018-03-12 00:00:00
-  showtimes:
-  - name: Evening (8:00)
-    releases: {general_admission: ds6xenguinc, reader: kihqu3znztc}
-  tito_event: grttwak/thunderbay-2018-march
-  venue: {address: 314 Bay Street, city: Thunder Bay, name: The Finlandia Club, province: 'ON',
-    url: 'http://www.thefinlandia.com/about/'}
-
-
 
 # PAST EVENTS GO BELOW THIS LINE
 
@@ -1191,3 +1145,49 @@ past:
   tito_event: grttwak/london-2018-february
   venue: {address: 470 Colborne Street, city: London, name: London Music Club, province: 'ON',
     url: 'http://www.londonmusicclub.com/contactinfo.html'}
+
+
+- date: 2018-03-03 21:30:00
+  special: "Yes"
+  venue:
+    name: Holiday Inn Kingston
+    address: "2 Princess St"
+    city: 'Kingston'
+    province: "ON"
+    url: https://www.ticketscene.ca/events/19817/
+  notes: "**Note:** This is a special GRTTWaK event as part of the Kingston Canadian Film Festival. [General Admission tickets are available exclusively through the KCFF website](https://www.ticketscene.ca/events/19817/)."
+  tito_event: "grttwak/kingston-2018-march"
+  showtimes:
+    - name: Evening (9:30)
+      releases:
+        reader: 2bfk1qzqrwq
+        general_admission: https://www.ticketscene.ca/events/19817/
+
+- date: 2018-02-08 00:00:00
+  showtimes:
+  - name: Evening (8:00)
+    releases: {general_admission: cxhakg0bfju, reader: xp2-7bo8-ps}
+  tito_event: grttwak/kitchener-2018-february
+  venue: {address: 20 Queen Street South, city: Kitchener, name: The Walper Hotel, province: 'ON',
+    url: 'http://www.walper.com/kitchener-hotel-contact-and-directions-en.html'}
+- date: 2018-03-09 00:00:00
+  showtimes:
+  - name: Evening (8:00)
+    releases: {general_admission: wkh9kad4paw, reader: n-7-rukjmzi}
+  tito_event: grttwak/saskatoon-2018-march
+  venue: {address: 715 Broadway Avenue, city: Saskatoon, name: The Broadway Theatre,
+    province: SK, url: 'https://broadwaytheatre.ca/contact'}
+- date: 2018-03-11 00:00:00
+  showtimes:
+  - name: Evening (8:00)
+    releases: {general_admission: jyyj4ulaxxg, reader: glcqdjuwtrm}
+  tito_event: grttwak/winnipeg-2018-march
+  venue: {address: ' 698 Osborne Street', city: Winnipeg, name: The Park Theatre,
+    province: MB, url: 'https://myparktheatre.com/about/'}
+- date: 2018-03-12 00:00:00
+  showtimes:
+  - name: Evening (8:00)
+    releases: {general_admission: ds6xenguinc, reader: kihqu3znztc}
+  tito_event: grttwak/thunderbay-2018-march
+  venue: {address: 314 Bay Street, city: Thunder Bay, name: The Finlandia Club, province: 'ON',
+    url: 'http://www.thefinlandia.com/about/'}
