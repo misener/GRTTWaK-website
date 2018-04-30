@@ -29,34 +29,24 @@ author:
 paginate:         5
 paginate_path:    "/podcast/page:num/"
 
+collections:
+  events-upcoming:
+    output: true
+    permalink: /event/:path/
+
+
 defaults:
   - scope:
       type: events-upcoming
     values:
       layout: "event"
 
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      layout: "episode"
-
-  -
-    scope:
+  - scope:
         path: "/newsletter/"
     values:
       layout: "page"
 
-
-
-collections:
-  events-upcoming:
-    output: true
-    permalink: /event/:path/
-    # values:
-    #     layout: event
-
-# - events-past
-#     # output: true
-#     # # permalink: /:collection/:path/
-#     # permalink: /event/:path/
+  - scope:
+      path: "" # empty string for all files
+    values:
+      layout: "episode"
