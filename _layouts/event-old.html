@@ -1,0 +1,76 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">Grownups Read Things They Wrote as Kids {{ page.venue.city }}</h1>
+    <p class="post-meta"><i class="fa fa-calendar" aria-hidden="true"></i> {{ page.event_date | date: "%A, %B %-d, %Y" }} at <a href="{{ page.venue.url }}"> {{ page.venue.name }}</a> ({{ page.venue.address }}, {{ page.venue.city }}, {{ page.venue.province }})</p>
+  </header>
+
+  <article class="post-content">
+    <img src="/images/charlottetown_pano.jpg">
+
+    {% if jekyll.environment == "development" %}
+      <script>TitoDevelopmentMode = true</script>
+    {% endif %}
+
+    {% include showdescription.html %}
+
+    {{ page.notes | markdownify }}
+
+    {% if page.showtimes == nill and page.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
+
+    {% for showtime in page.showtimes %}
+
+    {% if page.showtimes > 1 %}
+    <h2>{{ showtime.name }}</h2>
+    {% endif %}
+
+    <ul class="fa-ul">
+      {% if showtime.releases.general_admission contains "http" %}
+        <li><h2><i class="fa-li fa fa-ticket"></i><a href="{{ showtime.releases.general_admission }}">Buy audience tickets for {{ page.venue.city }}</a></h2></li>
+      {% else %}
+        <li><h2><i class="fa-li fa fa-ticket"></i><a href="https://ti.to/{{ page.tito_event }}/with/{{ showtime.releases.general_admission }}">Buy audience tickets for {{ page.venue.city }}</a></h2></li>
+
+        <tito-widget event="{{ page.tito_event }}" releases="{{ showtime.releases.general_admission }}"></tito-widget>
+
+      {% endif %}
+
+      {% if showtime.releases.reader == nill %}
+        <li><h2><i class="fa-li fa fa-user-plus"></i>Reader signup details coming soon...</h2></li>
+      {% else %}
+        <li><h2><i class="fa-li fa fa-user-plus"></i><a href="https://ti.to/{{ page.tito_event }}/with/{{ showtime.releases.reader }}">Sign up to read in {{ page.venue.city }}</a></h2></li>
+
+        <tito-widget event="{{ page.tito_event }}" releases="{{ showtime.releases.reader }}"></tito-widget>
+
+      {% endif %}
+      {% endfor %}      
+
+      <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Event",
+        "name": "Grownups Read Things They Wrote as Kids {{ event.venue.city }} - {{ showtime.name }}",
+        "startDate" : "{{ event.date | date: "%F" }}",
+        "url" : "{{ site.url }}{{ page.url }}",
+        "location" : {
+          "@type" : "Place",
+          "sameAs" : "{{ event.venue.url }}",
+          "name" : "{{ event.venue.name }}",
+          "address" : "{{ event.venue.address }}"
+        },
+        "offers":{
+            "@type": "Offer",
+            "url" : "https://ti.to{{ event.tito_event }}",
+            "price" : 14,
+            "priceCurrency" : "CAD"
+          }
+      }
+      </script>
+
+
+
+  </article>
+
+</div>

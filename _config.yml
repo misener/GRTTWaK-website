@@ -30,6 +30,11 @@ paginate:         5
 paginate_path:    "/podcast/page:num/"
 
 defaults:
+  - scope:
+      type: events-upcoming
+    values:
+      layout: "event"
+
   -
     scope:
       path: "" # empty string for all files
@@ -42,13 +47,16 @@ defaults:
     values:
       layout: "page"
 
-  - scope:
-      path: ""
-      type: events
-    values:
-      layout: "event"
+
 
 collections:
-  events:
+  events-upcoming:
     output: true
-    permalink: /:collection/:path/
+    permalink: /event/:path/
+    # values:
+    #     layout: event
+
+# - events-past
+#     # output: true
+#     # # permalink: /:collection/:path/
+#     # permalink: /event/:path/
