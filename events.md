@@ -50,18 +50,15 @@ redirect_from:
 {% endif %}
 
 
-
-
-
 {% assign past = site.data.events.past | sort: "date" | reverse %}
 
 {% if upcoming %}
 
 ## Upcoming events
 
-| Date          | City          | Venue  | <i class="fa fa-ticket" aria-hidden="true"></i> |
-| ------------- |:-------------:| :-----:| :-----------------:|
-{% for event in upcoming %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | <a href="{{ event.url }}">Get tickets or sign up to read</a> |
+| Date          | City          | Venue  | Details |
+| ------------- |:-------------:| :-----:| :------:|
+{% for event in upcoming %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | <a href="{{ event.url }}">Get tickets or sign up to read</a>
 {% endfor %}
 
 {% else %}
