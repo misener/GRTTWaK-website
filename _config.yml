@@ -34,7 +34,7 @@ paginate_path:    "/podcast/page:num/"
 
 defaults:
   - scope:
-      type: events-upcoming
+      type: events_upcoming
     values:
       layout: "event"
 
@@ -49,6 +49,7 @@ defaults:
       layout: "episode"
 
 collections:
-  events-upcoming:
+  events_upcoming:
     output: true
-    permalink: /event/:path/
+    permalink: /event/:slug/
+    name: "Upcoming Events"

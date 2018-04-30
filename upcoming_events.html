@@ -1,12 +1,9 @@
 ---
-layout: page
-title: Upcoming Live Events
-# permalink: /events/index.html
-
+layout: default
+title: Upcoming events
 ---
 
-
-{% for item in site.events-upcoming %}
+{% for item in site.events_upcoming %}
   <h2>{{ item.title }}</h2>
   <p>{{ item.description }}</p>
   <p><a href="{{ item.url }}">{{ item.title }}</a></p>
