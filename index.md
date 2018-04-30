@@ -58,9 +58,12 @@ Listen in your [favourite podcast app](/podcast/):
 
 ## Live Events 
 
-{% if site.events-upcoming.size > 0 %}
 
-We have upcoming live events in {% for item in site.data.events.upcoming %}<a href="/events/">{{ item.venue.city }}</a>, {% endfor %} and beyond...
+{% assign upcoming = site.events_upcoming | sort: "show_date" %}
+
+{% if upcoming.size > 0 %}
+
+We have upcoming live events in {% for item in upcoming %}<a href="{{ item.url }}">{{ item.venue.city }}</a>, {% endfor %} and beyond...
 
 {% else %}
 

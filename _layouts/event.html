@@ -11,7 +11,7 @@ layout: default
 
 <p>Travel back in time to remember the good, bad, and awkward parts of growing up. <i>Grownups Read Things They Wrote as Kids</i> is a live, open-mic storytelling event where courageous adults share their childhood and teenage writing on stage.</p>
 
-	<p><b>When:</b> {{ page.date | date: "%A, %B %-d, %Y" }}<br>
+	<p><b>When:</b> {{ page.show_date | date: "%A, %B %-d, %Y" }}<br>
 	   <b>Where:</b> <a href="{{ page.venue.url }}"> {{ page.venue.name }}</a> ({{ page.venue.address }}) </p>
 
 {% if page.showtimes == nill and page.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
@@ -20,22 +20,11 @@ layout: default
 
 <h3>{{ showtime.name }} show</h3>
 
-<ul class="fa-ul">
-  {% if showtime.releases.general_admission contains "http" %}
-    <li><i class="fa-li fa fa-ticket"></i><a href="{{ showtime.releases.general_admission }}">Buy audience tickets for {{ page.venue.city }}</a></li>
-  {% else %}
-    <li><i class="fa-li fa fa-ticket"></i><a href="https://ti.to/{{ page.tito_event }}/with/{{ showtime.releases.general_admission }}">Buy audience tickets for {{ page.venue.city }}</a></li>
-  {% endif %}
+<p><tito-button event="{{ page.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket" aria-hidden="true"></i> Buy audience tickets for {{ page.venue.city }}</tito-button> <tito-button event="{{ page.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus" aria-hidden="true"></i> Sign up to read in {{ page.venue.city }}</a></tito-button><p>
 
-  {% if showtime.releases.reader == nill %}
-    <li><i class="fa-li fa fa-user-plus"></i>Reader signup details coming soon...</li>
-  {% else %}
-    <li><i class="fa-li fa fa-user-plus"></i><a href="https://ti.to/{{ page.tito_event }}/with/{{ showtime.releases.reader }}">Sign up to read in {{ page.venue.city }}</a></li>
 
-  {% endif %}
-</ul>
 
-<small>All tickets are general admission. No assigned seating. Doors open 30 minutes before showtime.</small>
+<p><small>All tickets are general admission. No assigned seating. Doors open 30 minutes before showtime.</small></p>
 
 <hr />
 
@@ -46,7 +35,7 @@ layout: default
   "@context": "http://schema.org",
   "@type": "Event",
   "name": "Grownups Read Things They Wrote as Kids {{ page.venue.city }}",
-  "startDate" : "{{ page.date | date: "%F" }}",
+  "startDate" : "{{ page.show_date | date: "%F" }}",
   "url" : "{{ site.url }}{{ page.url }}",
   "location" : {
     "@type" : "Place",

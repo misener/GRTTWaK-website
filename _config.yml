@@ -32,6 +32,7 @@ paginate_path:    "/podcast/page:num/"
 
 
 
+
 defaults:
   - scope:
       type: events_upcoming

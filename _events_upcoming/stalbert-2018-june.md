@@ -1,5 +1,5 @@
 ---
-date: 2018-06-15 20:00:00
+show_date: 2018-06-15 20:00:00
 showtimes:
 - name: Evening (8:00)
   releases: {general_admission: ufucvwyqmco, reader: 3xjabsi6kae}
