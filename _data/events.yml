@@ -2,22 +2,21 @@
 
 upcoming:
 
-
-- date: 2018-06-03 00:00:00
+- date: 2018-06-03 20:00:00
   showtimes:
   - name: Evening (8:00)
     releases: {general_admission: 0zgqyb7mwek, reader: evqcxvrrxsc}
   tito_event: grttwak/vancouver-2018-june
   venue: {address: 639 Commercial Drive, city: Vancouver, name: York Theatre, province: BC,
     url: 'https://thecultch.com/venues/york-theatre/'}
-- date: 2018-06-13 00:00:00
+- date: 2018-06-13 20:00:00
   showtimes:
   - name: Evening (8:00)
     releases: {general_admission: w3mlrhyxqhc, reader: avcaqrpkuea}
   tito_event: grttwak/calgary-2018-june
   venue: {address: 4825 Mt Royal Gate SW, city: Calgary, name: The Leacock Theatre,
     province: AB, url: 'https://www.mtroyal.ca/mrevents/Find-a-Venue/leacock-theatre.htm'}
-- date: 2018-06-15 00:00:00
+- date: 2018-06-15 20:00:00
   showtimes:
   - name: Evening (8:00)
     releases: {general_admission: ufucvwyqmco, reader: 3xjabsi6kae}

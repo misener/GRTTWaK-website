@@ -43,20 +43,76 @@ redirect_from:
 
 ![GRTTWaK](/images/charlottetown_pano.jpg)
 
-
-
-{% if site.events-upcoming %}
-  {% assign upcoming = site.events-upcoming | sort: "date" %}
+{% if jekyll.environment == "development" %}
+  <script>TitoDevelopmentMode = true</script>
 {% endif %}
+
+{% if site.data.events.upcoming %}
+  {% assign upcoming = site.data.events.upcoming | sort: "date" %}
+{% endif %}
+
+{% assign past = site.data.events.past | sort: "date" | reverse %}
 
 {% if upcoming %}
 
-## Upcoming events
+{% for event in upcoming %}
 
-<ul>
-  {% for event in upcoming %}<li>{{ event.date | date: "%B %-d, %Y" }}: <a href="{{ event.url }}">{{ event.venue.city }} at {{ event.venue.name }}</a></li>{% endfor %}
+## <a name="{{ event.venue.city }}"></a>{{ event.venue.city }}, {{ event.venue.province }} {% if event.showtimes.size > 1 %} ({{ event.showtimes.size }} shows){% endif %}
+
+{{ event.date | date: "%A, %B %-d, %Y" }} at <a href="{{ event.venue.url }}"> {{ event.venue.name }}</a> ({{ event.venue.address }})
+
+{% if event.showtimes == nill and event.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
+
+{% for showtime in event.showtimes %}
+
+#### {{ showtime.name }}
+
+<ul class="fa-ul">
+  {% if showtime.releases.general_admission contains "http" %}
+    <li><i class="fa-li fa fa-ticket"></i><a href="{{ showtime.releases.general_admission }}">Buy audience tickets for {{ event.venue.city }}</a></li>
+  {% else %}
+    <li><i class="fa-li fa fa-ticket"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.general_admission }}">Buy audience tickets for {{ event.venue.city }}</a></li>
+  {% endif %}
+
+  {% if showtime.releases.reader == nill %}
+    <li><i class="fa-li fa fa-user-plus"></i>Reader signup details coming soon...</li>
+  {% else %}
+    <li><i class="fa-li fa fa-user-plus"></i><a href="https://ti.to/{{ event.tito_event }}/with/{{ showtime.releases.reader }}">Sign up to read in {{ event.venue.city }}</a></li>
+
+  {% endif %}
+
 </ul>
 
+<small>{{ event.notes }}</small>
+
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Event",
+  "name": "Grownups Read Things They Wrote as Kids {{ event.venue.city }} - {{ showtime.name }}",
+  "startDate" : "{{ event.date | date: "%F" }}",
+  "url" : "{{ site.url }}{{ page.url }}",
+  "location" : {
+    "@type" : "Place",
+    "sameAs" : "{{ event.venue.url }}",
+    "name" : "{{ event.venue.name }}",
+    "address" : "{{ event.venue.address }}"
+  },
+  "offers":{
+      "@type": "Offer",
+      "url" : "https://ti.to{{ event.tito_event }}",
+      "price" : 14,
+      "priceCurrency" : "CAD"
+    }
+}
+</script>
+
+
+{% endfor %}
+
+
+<hr>
+{% endfor %}
 
 {% else %}
 
@@ -69,21 +125,14 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 {% endif %}
 
 
-## Ticketing questions?
+# Ticketing questions?
 
 We’ve tried to make GRTTWaK tickets as simple and straightforward as possible. Here are some [frequently asked questions](/faq/) about tickets (including answers). If you have a question that’s not answered here, [get in touch](/contact/).
 
 
-{% assign past = site.data.events.past | sort: "date" | reverse %}
-
-## Past events
+# Past events
 
 | Date          | City          | Venue  |
 | ------------- |:-------------:| :-----:|
 {% for event in past %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} |
 {% endfor %}
-
-
-{% if jekyll.environment == "development" %}
-  <script>TitoDevelopmentMode = true</script>
-{% endif %}
