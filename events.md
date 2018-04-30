@@ -49,16 +49,13 @@ redirect_from:
   {% assign upcoming = site.events-upcoming | sort: "date" %}
 {% endif %}
 
-
-{% assign past = site.data.events.past | sort: "date" | reverse %}
-
 {% if upcoming %}
 
 ## Upcoming events
 
 | Date          | City          | Venue  | Details |
 | ------------- |:-------------:| :-----:| :------:|
-{% for event in upcoming %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | <a href="{{ event.url }}">Get tickets or sign up to read</a>
+{% for event in upcoming %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | <a href="{{ event.url }}">Get tickets or sign up to read</a> |
 {% endfor %}
 
 {% else %}
@@ -76,6 +73,8 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 
 We’ve tried to make GRTTWaK tickets as simple and straightforward as possible. Here are some [frequently asked questions](/faq/) about tickets (including answers). If you have a question that’s not answered here, [get in touch](/contact/).
 
+
+{% assign past = site.data.events.past | sort: "date" | reverse %}
 
 ## Past events
 
