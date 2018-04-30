@@ -53,10 +53,10 @@ redirect_from:
 
 ## Upcoming events
 
-| Date          | City          | Venue  | Details |
-| ------------- |:-------------:| :-----:| :------:|
-{% for event in upcoming %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | <a href="{{ event.url }}">Get tickets or sign up to read</a> |
-{% endfor %}
+<ul>
+  {% for event in upcoming %}<li>{{ event.date | date: "%B %-d, %Y" }}: <a href="{{ event.url }}">{{ event.venue.city }} at {{ event.venue.name }}</a></li>{% endfor %}
+</ul>
+
 
 {% else %}
 
