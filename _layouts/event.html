@@ -35,20 +35,30 @@ layout: default
   "@context": "http://schema.org",
   "@type": "Event",
   "name": "Grownups Read Things They Wrote as Kids {{ page.venue.city }}",
+  "description": "Travel back in time to remember the good, bad, and awkward parts of growing up. Grownups Read Things They Wrote as Kids is a live, open-mic storytelling event where courageous adults share their childhood and teenage writing on stage.",
   "startDate" : "{{ page.show_date | date: "%F" }}",
   "url" : "{{ site.url }}{{ page.url }}",
   "location" : {
     "@type" : "Place",
     "sameAs" : "{{ page.venue.url }}",
     "name" : "{{ page.venue.name }}",
-    "address" : "{{ page.venue.address }}"
+    "address" : {
+            "@type": "PostalAddress",
+            "streetAddress": "{{ page.venue.address }}",
+            "addressLocality": "{{ page.venue.city }}"
+          }
   },
   "offers":{
       "@type": "Offer",
       "url" : "https://ti.to/{{ page.tito_event }}",
       "price" : 17,
       "priceCurrency" : "CAD"
-    }
+    },
+  "performer": {
+    "@type": "PerformingGroup",
+    "name": "Grownups Read Things They Wrote as Kids"
+  }
+
 }
 </script>
 
