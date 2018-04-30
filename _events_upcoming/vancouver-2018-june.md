@@ -1,4 +1,5 @@
 ---
+title: Vancouver
 show_date: 2018-06-03 20:00:00
 showtimes:
 - name: Evening (8:00)

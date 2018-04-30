@@ -1,4 +1,5 @@
 ---
+title: Calgary
 show_date: 2018-06-13 20:00:00
 showtimes:
 - name: Evening (8:00)
