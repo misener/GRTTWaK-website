@@ -16,8 +16,8 @@ relative_permalinks: false
 
 # Setup
 title:            Grownups Read Things They Wrote as Kids
-tagline:          'Remembering the good, the bad, and the awkward parts of growing up.'
-description:      'Remembering the good, the bad, and the awkward parts of growing up. Since 2007.'
+tagline:          'Remember the good, bad, and awkward parts of growing up.'
+description:      'Courageous adults share their childhood and teenage writing — embarrassing diary entries, angsty poetry, bizarre short stories, and more — in front of a room full of strangers. Since 2007.'
 url:              https://grownupsreadthingstheywroteaskids.com
 baseurl:          ''
 future:           false
