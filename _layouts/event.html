@@ -18,15 +18,25 @@ layout: default
 
 {% for showtime in page.showtimes %}
 
-<h3>{{ showtime.name }} show</h3>
+<h3>{{ showtime.name }} show{% if showtime.soldout %} - SOLD OUT{% endif %}</h3>
+
+{% if showtime.soldout %}
+
+The {{ page.venue.city }} {{ showtime.name | downcase }} show is now sold out. If there's enough interest, we may add a matinee event for the same day. If you're interested in the matinee, please join the waiting list below:
+
+<tito-widget event="grttwak/vancouver-2018-june" releases="0zgqyb7mwek,evqcxvrrxsc"></tito-widget>
+
+{% else %}
 
 <p><tito-button event="{{ page.tito_event }}" releases="{{ showtime.releases.general_admission }}"><i class="fa fa-ticket" aria-hidden="true"></i> Buy audience tickets for {{ page.venue.city }}</tito-button> <tito-button event="{{ page.tito_event }}" releases="{{ showtime.releases.reader }}"><i class="fa fa-user-plus" aria-hidden="true"></i> Sign up to read in {{ page.venue.city }}</a></tito-button><p>
-
-
 
 <p><small>All tickets are general admission. No assigned seating. Doors open 30 minutes before showtime.</small></p>
 
 <hr />
+
+
+{% endif %}
+
 
 <small>{{ page.notes }}</small>
 
