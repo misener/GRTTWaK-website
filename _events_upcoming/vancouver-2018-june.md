@@ -10,7 +10,7 @@ showtimes:
   
 - name: Evening (8:00)
   releases: {general_admission: 0zgqyb7mwek, reader: evqcxvrrxsc}
-  soldout: True
+  soldout: False
 
 
 tito_event: grttwak/vancouver-2018-june
