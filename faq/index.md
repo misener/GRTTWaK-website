@@ -21,6 +21,7 @@ Embarrassing, moving, and hilarious, these readings are powerful reminders of wh
 	* [Where did the idea come from?](#origins)
 	* [What’s the deal with other, similar events?](#ripoff)
 	* [Can I organize my own GRTTWaK-style event?](#DIY)
+	* [Is GRTTWaK kid-friendly?](#kidfriendly)
 * About the podcast
 	* [What’s the story with the podcast?](#podcastvslive)
 	* [How do you choose which readings end up in the podcast?](#podcasteditorial)
@@ -68,6 +69,15 @@ We wanted to keep making episodes, so in December 2014, Jenna and I announced  w
 *Grownups Read Things They Wrote as Kids* is a live open-mic event. Reader spots are first-come, first-served. We require all readers to sign up online, in advance. First, check the [events page](/events/) to see if there’s a live event coming soon to your area.
 
 If there isn’t an upcoming live event listed in your area, [sign up for the email newsletter](/newsletter/). We always send signup and ticket information to the email list first. Then, watch your inbox closely for show announcements. While you’re waiting, you can check out some [handy tips for readers](/faq/tips-for-readers/), and get practicing!
+
+
+<h2 id="kidfriendly">Are the live events kid-friendly?</h2>
+
+Some GRTTWaK events are all-ages. Some aren't (usually because of liqour licenses). If a specific event isn't listed as all-ages or 19+, you can always [check with Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
+
+Content-wise, *Grownups Read Things They Wrote as Kid* is intended for an adult audience. The show *is* an open-mic, and at past events, we’ve had readers share material that includes cuss words, sexuality, and some difficult subject matter (including racism, self-harm, eating disorders, suicide). If you’re familiar with the podcast, you probably already have a good sense of the range of material that’s presented on stage.
+
+Due to the subject matter, we tend not to get a lot of kids. But, when the venue is licensed for all-ages shows, kids are most certainly welcome, at the discretion of their parents or guardians.
 
 <h2 id="tickets">Where do I get tickets?</h2> 
 
