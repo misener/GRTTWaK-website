@@ -10,4 +10,6 @@ venue: {address: 608 College St, city: Toronto, name: 'The Royal ', province: 'O
 
 ---
 
-Presented in partnership with the [2018 The Word on the Street festival](https://thewordonthestreet.ca/toronto/).
+Presented in partnership with the [The Word On The Street](https://thewordonthestreet.ca/toronto/).
+
+[![The Word On The Street](https://thewordonthestreet.ca/wp-content/uploads/sites/2/2015/08/Toronto-Logo-PNG-opt.png)](https://thewordonthestreet.ca/toronto/)
