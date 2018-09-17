@@ -9,11 +9,12 @@ title: Audio Tech Details
 
 GRTTWaK travels with the following audio gear:
 
-- <a href="https://www.zoom-na.com/products/field-video-recording/field-recording/zoom-f4-multitrack-field-recorder">Zoom F4</a> field recorder
+- <a href="https://www.sounddevices.com/products/recorders/mixpre-3">Sound Devices MixPre-3</a> field recorder
 - <a href="http://www.shure.com/americas/products/microphones/beta/beta-87a-vocal-microphone">Shure Beta 87A</a> microphone (shared by host and readers)
-- 1x <a href="http://www.rode.com/microphones/ntg-2">Rode NTG-2</a> shotgun microphone (for recording audience reaction)
 - 2x <a href="http://www.rode.com/microphones/nt5">Rode NT5</a> condenser microphones (for recording audience reaction)
-
+- <a href="http://www.radialeng.com/product/proms2/">Radial ProMS2</a> Passive Microphone Splitter for splitting reader mic to house console + recording setup
+- <a href="http://www.radialeng.com/product/trim-two/">Radial Trim-Two</a> Passive Stereo Direct Box (for sending pre-show music from iPad)
+<!-- - 1x <a href="http://www.rode.com/microphones/ntg-2">Rode NTG-2</a> shotgun microphone (for recording audience reaction) -->
 
 We require the following from venues:
 
@@ -26,12 +27,10 @@ We require the following from venues:
 ## Live sound
 Our live sound reinforcement needs are minimal. However, because we often have 15–20 readers on stage in rapid succession, we need an audio technician to ride each reader’s level in real-time. Before the show, our host will prep readers on microphone technique.
 
-All microphones run directly into GRTTWaK's on-stage Zoom F4 recording setup (described above). Two separate mono line-level (−10 dBV) feeds are then sent from the Zoom F4 to the house mixing console:
+We'll send your console two sources via XLR:
 
-<ol>
-<li>Vocals</li>
-<li>Pre-show and intermission music</li>
-</ol>
+1. A transformer-isolated split from the main reader microphone (via Radial ProMS2)
+2. Pre-show and intermission music (iPad via Radial Trim-Two)
 
 ## Monitors
 Many of our readers are not used to being on stage. Monitors often freak them out. <strong>We do not require monitors.</strong>
