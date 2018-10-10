@@ -29,6 +29,7 @@ Embarrassing, moving, and hilarious, these readings are powerful reminders of wh
 * Reading at the show
 	* [How do I sign up to participate?](#signup)
 	* [What can I read?](#whatcaniread)
+	* [Can I read someone else's writing? They gave me permission!](#otherpeopleswriting)
 	* [What does “kid” mean?](#kiddefinition)
 * Attending a live show
 	* [Where do I get tickets?](#tickets)
@@ -70,6 +71,9 @@ We wanted to keep making episodes, so in December 2014, Jenna and I announced  w
 
 If there isn’t an upcoming live event listed in your area, [sign up for the email newsletter](/newsletter/). We always send signup and ticket information to the email list first. Then, watch your inbox closely for show announcements. While you’re waiting, you can check out some [handy tips for readers](/faq/tips-for-readers/), and get practicing!
 
+<h2 id="otherpeopleswriting">Can I read someone else's writing? They gave me permission!</h2>
+
+_Grownups Read Things They Wrote as Kids_ is all about original source material, read out loud by the person who originally wrote it. We don’t allow people to read others’ writing on stage. Even if it's well-intentioned, reading other people's material can come across as “laughing at someone who’s not in the room,” which a tone we’re keen to avoid.
 
 <h2 id="kidfriendly">Are the live events kid-friendly?</h2>
 
