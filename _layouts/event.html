@@ -14,7 +14,7 @@ layout: default
 	<p><b>When:</b> {{ page.show_date | date: "%A, %B %-d, %Y" }}<br>
 	   <b>Where:</b> <a href="{{ page.venue.url }}"> {{ page.venue.name }}</a> ({{ page.venue.address }}) </p>
 
-{% if page.showtimes == nill and page.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %}
+<!-- {% if page.showtimes == nill and page.special != "Yes" %}We've scheduled this show, but reader signup and tickets are not available yet. For a heads-up, [join the newsletter](http://www.grownupsreadthingstheywroteaskids.com/mailing-list/).{% endif %} -->
 
 {% for showtime in page.showtimes %}
 
