@@ -115,6 +115,6 @@ If you'd like a recording of your reading, please be patient. Video takes a whil
 
 ## Questions?
 
-If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/) or [watch vides of past readers](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/videos/).
+If you have any questions about any of this, don't hesitate to ask: [dan@grownupsreadthingstheywroteaskids.com](mailto:dan@grownupsreadthingstheywroteaskids.com) If you want to get a better sense of what our shows are like, [listen to some past episodes of our podcast](http://www.grownupsreadthingstheywroteaskids.com/category/podcast/) or [watch videos of past readers](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/videos/).
 
 See you soon, and thanks again! 
