@@ -12,7 +12,7 @@ episode_link_spotify:
 episode_link_radiopublic: 
 ---
 
-Stephanie shops for underwear, Sean re-writes "The Three Little Pigs," Tanis dreams of Jonathan Brandis, and much more. Recorded live at The Walper Hotel in Kitchener.
+Stephanie shops for underwear, Sean re-writes "The Three Little Pigs," Tanis dreams of Jonathan Brandis, and much more. Recorded live at [The Walper Hotel](http://walper.ca) in Kitchener.
 
 ## Show notes
 * [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=523).
