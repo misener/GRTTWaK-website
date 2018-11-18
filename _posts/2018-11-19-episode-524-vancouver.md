@@ -12,7 +12,7 @@ episode_link_spotify:
 episode_link_radiopublic: 
 ---
 
-Annalise farts in the bathtub, Emilie overhears her parents having sex, Ryan shares a Star Trek Christmas story, and much more. Recorded live at The York Theatre in Vancouver, in partnership with [ONE TO ONE](http://www.one-to-one.ca/volunteer/), a children's literacy program.
+Annelies farts in the bathtub, Emilie overhears her parents having sex, Ryan shares a Star Trek Christmas story, and much more. Recorded live at The York Theatre in Vancouver, in partnership with [ONE TO ONE](http://www.one-to-one.ca/volunteer/), a children's literacy program.
 
 ## Show notes
 * [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=524).
