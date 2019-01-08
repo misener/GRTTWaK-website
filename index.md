@@ -63,9 +63,9 @@ Listen in your [favourite podcast app](/podcast/):
 
 {% if upcoming.size > 0 %}
 
-Check out a list of <a href="/events/">our upcoming live events</a> in Canada... and Australia 🇦🇺!
+<!-- Check out a list of <a href="/events/">our upcoming live events</a>! -->
 
-<!-- We have upcoming live events in {% for item in upcoming %}<a href="{{ item.url }}">{{ item.venue.city }}</a>, {% endfor %} and beyond... -->
+We have upcoming live events in {% for item in upcoming %}<a href="{{ item.url }}">{{ item.venue.city }}</a>, {% endfor %} and beyond...
 
 {% else %}
 

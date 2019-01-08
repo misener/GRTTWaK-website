@@ -51,9 +51,9 @@ redirect_from:
 
 # Upcoming events
 
-| Date          | City          | Venue  | <i class="fa fa-ticket" aria-hidden="true"></i>  | <i class="fa fa-user-plus" aria-hidden="true"></i>  |
+| Date          | City          | Venue  | <i class="fa fa-ticket" aria-hidden="true"></i>  |
 | ------------- |:-------------:| :-----:| :-----------------------------------------------:| :-----------------------------------------------:|
-{% for event in upcoming %}{{ event.show_date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | [Buy tickets]({{ event.url }}) | [Sign up to read]({{ event.url }})
+{% for event in upcoming %}{{ event.show_date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} | [More information]({{ event.url }})
 {% endfor %}
 
 {% else %}
