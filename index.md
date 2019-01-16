@@ -30,7 +30,9 @@ title: Home
 
 <!-- <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe> -->
 
-<div id="episodes-page-{{ page.number }}"
+<iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/{{ post.megaphone_uid }}" width="100%"></iframe>
+
+<!-- <div id="episodes-page-{{ page.number }}"
      class="art19-web-player awp-medium awp-theme-dark-custom"
      data-episode-id="{{ post.art19_id }}"
      data-primary-color="#f37749"
@@ -39,7 +41,7 @@ title: Home
 	 data-bt-guid={% if post.guid %}"{{ post.guid }}"{% else %}"{{ post.art19_id }}"{% endif %}
      data-bt-episode-title="{{ post.number }}: &quot;{{ post.quote }}&quot; ({{ post.city }})"
      data-bt-episode-author="Grownups Read Things They Wrote as Kids"
-     ></div>
+     ></div> -->
 
 {{ post.excerpt}}
 
