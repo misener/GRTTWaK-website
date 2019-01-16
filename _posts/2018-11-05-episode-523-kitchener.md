@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 523
-quote: "Once upon a time in Barfland"
-city: Kitchener
-permalink: /episode/523/
-simplecast_episode_id: XXXX
 art19_id: 1be36f3c-dccf-441e-b180-0dec4e9a7d5b
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Kitchener
+episode: 23
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/2v9GSwDpPKsHIbt-ex3LKEO5GyEsSAF0IZF1_0nCdGA
+megaphone_uid: GUR1971985548
+number: 523
+permalink: /episode/523/
+quote: Once upon a time in Barfland
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Stephanie shops for underwear, Sean re-writes "The Three Little Pigs," Tanis dreams of Jonathan Brandis, and much more. Recorded live at [The Walper Hotel](http://walper.ca) in Kitchener.

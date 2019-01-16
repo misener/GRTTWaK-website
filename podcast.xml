@@ -12,24 +12,32 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts if post.categories contains 'episodes' %}
-      <item>
-        <title>{{ post.number }}: "{{ post.quote | xml_escape }}" ({{ post.city | xml_escape }})</title>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <enclosure type="audio/mpeg" url="{{ post.mp3_enclosure }}" length="0"/>
-        {% if post.redirect_from %}
-        <link>{{ post.redirect_from | prepend: "http://www.grownupsreadthingstheywroteaskids.com" }}</link>
-        {% else %}
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        {% endif %}
-        {% if post.guid %}
-        <guid isPermaLink="false">{{ post.guid }}</guid>
-        {% else %}
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% endif %}
-        <description>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</description>
-        <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
-        <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
-      </item>
+    <item>
+      <title>{{ post.number }}: "{{ post.quote | xml_escape }}" ({{ post.city | xml_escape }})</title>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <enclosure type="audio/mpeg" url="{{ post.mp3_enclosure }}" length="0"/>
+      {% if post.redirect_from %}
+      <link>{{ post.redirect_from | prepend: "http://www.grownupsreadthingstheywroteaskids.com" }}</link>
+      {% else %}
+      <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
+      {% endif %}
+      {% if post.guid %}
+      <guid isPermaLink="false">{{ post.guid }}</guid>
+      {% else %}
+      <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
+      {% endif %}
+      <description>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</description>
+      <itunes:summary><![CDATA[{{ post.content }}]]></itunes:summary>
+      <content:encoded><![CDATA[{{ post.content }}]]></content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>{{ post.season }}</itunes:season>
+      <itunes:episode>{{ post.episode }}</itunes:episode>
+    </item>
     {% endfor %}
+    
   </channel>
 </rss>
+
+
+
+

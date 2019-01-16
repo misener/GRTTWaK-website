@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 503
-quote: "One big, long, painful, adolescent experiment"
-city: Ottawa
-permalink: /episode/503/
-simplecast_episode_id: XXXX
 art19_id: a24cab4d-5370-4970-b7ac-e5fed3e5aa24
-
+categories: episodes
+city: Ottawa
+episode: 3
 episode_link_apple: 1000400954922
-episode_link_spotify: 17TYsMVEXFVf6BdqnI6F7L
 episode_link_radiopublic: 0c812631c9da1321bcad277cf104d6761213b79f
+episode_link_spotify: 17TYsMVEXFVf6BdqnI6F7L
+guid: gid://art19-episode-locator/V0/0EcJ1WD3I4KckFAFFGKJprLBoWy4smPtIqr-pBKYQmY
+megaphone_uid: GUR3865385087
+number: 503
+permalink: /episode/503/
+quote: One big, long, painful, adolescent experiment
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Caitlin contemplates her first kiss, Todd writes a poem about picking your nose, Melanie reviews *The X-Files*, and much more. Recorded live at The Gladstone Theatre in Ottawa.

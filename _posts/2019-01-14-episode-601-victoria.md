@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 601
-quote: "Punk rock is today’s revolution"
-city: Victoria
-permalink: /episode/601/
-simplecast_episode_id: XXXX
 art19_id: 65a17c2e-b9d7-4db0-8435-f5a8f7acd9fc
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Victoria
+episode: 1
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/XxxfnOoaaZYxYaCsYr5ucrUVZhNDlOUF37fpScar8tQ
+megaphone_uid: GUR1599849010
+number: 601
+permalink: /episode/601/
+quote: Punk rock is today’s revolution
+season: 6
+simplecast_episode_id: XXXX
 ---
 
 Julia picks up a hitchhiker, Mitra goes to a dance, Doug gets scientific, and much more. Recorded live at the Victoria Event Centre in Victoria.

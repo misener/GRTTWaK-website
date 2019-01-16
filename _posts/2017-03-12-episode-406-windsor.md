@@ -1,10 +1,14 @@
 ---
-categories: episodes
-number: 406
-quote: "My mom is nice. My dad is OK."
-city: Windsor
-permalink: /episode/406/
 art19_id: fcf5bc40-bf5d-4651-9e32-91b1426c8200
+categories: episodes
+city: Windsor
+episode: 6
+guid: gid://art19-episode-locator/V0/r4t4puqPLGjgiM0eUS7qH2TWeoEL-3aUFLyJmLyM3WE
+megaphone_uid: GUR7560488947
+number: 406
+permalink: /episode/406/
+quote: My mom is nice. My dad is OK.
+season: 4
 ---
 
 Nellie crushes on fictional characters, Dan plays spin the bottle, Rachel learns a history lesson, and much more. Recorded live at The Rondo in Windsor, ON.

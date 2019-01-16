@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 508
-quote: "Your bum, my pillow"
-city: Winnipeg
-permalink: /episode/508/
-simplecast_episode_id: XXXX
 art19_id: 25119bbe-7e68-4fd7-aa20-c6bb29aeba5d
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Winnipeg
+episode: 8
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/zumaNvPwnNQkUg2S8zR31UXFZ2TiInUse4OLSXyMmFY
+megaphone_uid: GUR9767050200
+number: 508
+permalink: /episode/508/
+quote: Your bum, my pillow
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Brigette puts her heart on eBay, Kyra warns snoopers, Radean obsesses about bubble gum, and much more. Recorded live at the Park Theatre in Winnipeg.

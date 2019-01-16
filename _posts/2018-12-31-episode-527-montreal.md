@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 527
-quote: "The Republic of Dad"
-city: Montréal
-permalink: /episode/527/
-simplecast_episode_id: XXXX
 art19_id: e37d4068-fdcf-4619-8bbc-6228278c958c
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Montréal
+episode: 27
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/N3rfSV7FTX6l_SjRzSWhD6dWKiVhDkeZxMDhqd_P6P8
+megaphone_uid: GUR2313237917
+number: 527
+permalink: /episode/527/
+quote: The Republic of Dad
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Paul critiques Pop Art, Nisha recounts a feline miracle, Serenay drafts a UN resolution, and much more. Recorded live at [La Sala Rossa](https://casadelpopolo.com) in Montréal.

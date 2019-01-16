@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 510
-quote: "People are becoming fanatical about computers"
-city: Saskatoon
-permalink: /episode/510/
-simplecast_episode_id: XXXX
 art19_id: 63f3dde2-e05f-4a6f-9b38-1200afbb7047
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Saskatoon
+episode: 10
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/JCk0Sl-bm1iKWa_HPxWLlwgYohfBr9S9bG05Sez-RLs
+megaphone_uid: GUR7107484186
+number: 510
+permalink: /episode/510/
+quote: People are becoming fanatical about computers
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Sarah makes rules for her future children, Val recaps the early 1980s, Cody reads a spooky Choose Your Own Adventure-style story, and much more. Recorded live at The Broadway Theatre in Saskatoon.

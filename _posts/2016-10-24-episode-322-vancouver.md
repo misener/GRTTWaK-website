@@ -1,12 +1,16 @@
 ---
-categories: episodes
-number: 322
-quote: "We're not dating. We're just in love with each other."
-city: Vancouver
-permalink: /episode/322/
-simplecast_episode_id: 50411
-published: true
 art19_id: d5a91153-8b76-42ac-9caa-836044ec1d3c
+categories: episodes
+city: Vancouver
+episode: 22
+guid: 8e3482ea-e5a8-464a-afaa-f8cd23b09075
+megaphone_uid: GUR1825308275
+number: 322
+permalink: /episode/322/
+published: true
+quote: We're not dating. We're just in love with each other.
+season: 3
+simplecast_episode_id: 50411
 ---
 
 Tara writes a letter to her future self, Ron loves and lusts in vain, Felicia and Skylar discuss hookups, and much more. Recorded live at the Biltmore Cabaret in Vancouver, BC.

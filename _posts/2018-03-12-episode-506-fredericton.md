@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 506
-quote: "We played strip poker and held a private séance"
-city: Fredericton
-permalink: /episode/506/
-simplecast_episode_id: XXXX
 art19_id: 11b63104-495f-465d-a078-2cd3b6d66a15
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Fredericton
+episode: 6
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/m5wB0SNA287SiQoS5m_r33e-AC2SE0bkcZ4fhlo8Rts
+megaphone_uid: GUR6131913356
+number: 506
+permalink: /episode/506/
+quote: We played strip poker and held a private séance
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Marsha plays strip poker, Genevieve solves a mystery, Julia hates her entire family, and much more. Recorded live at the Charlotte Street Arts Centre in Fredericton.

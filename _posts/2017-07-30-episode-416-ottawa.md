@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 416
-quote: "He was puberized"
-city: Ottawa
-permalink: /episode/416/
-simplecast_episode_id: XXXX
 art19_id: 0131326d-de1b-4f19-b205-4a4c39cfa215
+categories: episodes
+city: Ottawa
+episode: 16
+guid: gid://art19-episode-locator/V0/vK5BN6fLpRO53YrpijZqwj68bxfDrZkUhsyqxqA7nZ0
+megaphone_uid: GUR5358209129
+number: 416
+permalink: /episode/416/
+quote: He was puberized
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Michelle meets her cute penpal, Fadhili obsesses over Transformers, Marty shares a whale of a tale, and much more. Recorded live at Yuk Yuk's in Ottawa.

@@ -1,16 +1,18 @@
 ---
-categories: episodes
-number: 425
-quote: "Beating the bush"
-city: Toronto
-permalink: /episode/425/
-simplecast_episode_id: XXXX
 art19_id: e0cea947-0489-49ef-9a61-0e21e6bf9a3c
-
+categories: episodes
+city: Toronto
+episode: 25
 episode_link_apple: 1000395588459
-episode_link_spotify: 56ix00yoFGy3nHJKqMZYQc
 episode_link_radiopublic: a56da59a91cac803fd4dbec00da883a8969c8ab4
-
+episode_link_spotify: 56ix00yoFGy3nHJKqMZYQc
+guid: gid://art19-episode-locator/V0/5XozeGZ6UYYIVGs_u0gZrc-bV4UtWD15LluJV6-IR1s
+megaphone_uid: GUR2053132028
+number: 425
+permalink: /episode/425/
+quote: Beating the bush
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Chris discovers he's gay, Teagan writes poems about Ebola, Ariana falls in love with an older man, and much more. Recorded live at the Tranzac in Toronto.

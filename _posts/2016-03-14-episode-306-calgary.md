@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 306
-quote: Virginity is like a birthday cake
-city: Calgary
-permalink: /episode/306/
-simplecast_episode_id: 29274
 art19_id: 1a5529d4-f774-46a4-a910-6243df015f77
+categories: episodes
+city: Calgary
+episode: 6
+guid: 7d0e96c9-b057-4b31-adc7-01feece5be4f
+megaphone_uid: GUR4630380581
+number: 306
+permalink: /episode/306/
+quote: Virginity is like a birthday cake
+season: 3
+simplecast_episode_id: 29274
 ---
 
 Terra compares virginity to a birthday cake, Bradley explains how to find a rock, Mary plans to "bump off" a nun, and much more. Recorded live at [Yuk Yuk's](https://www.yukyuks.com/calgary) in Calgary, AB.

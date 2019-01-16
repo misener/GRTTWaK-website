@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 515
-quote: "Big pimpin' life goals"
-city: Ottawa
-permalink: /episode/515/
-simplecast_episode_id: XXXX
 art19_id: 2e785c5b-81db-4747-ac37-871f6c04a881
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Ottawa
+episode: 15
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/idzhXoIvmy_xPwo7DpnSlBIJ_EgOWXIldK2f8uxPbVo
+megaphone_uid: GUR6548910738
+number: 515
+permalink: /episode/515/
+quote: Big pimpin' life goals
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Matt pulls pranks, Yasmina visits Rome, Janna reads her personal mission statement, and much more. Recorded live at The Gladstone Theatre in Ottawa.

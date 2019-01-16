@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 502
-quote: "I wish I could French kiss"
-city: Fredericton
-permalink: /episode/502/
-simplecast_episode_id: XXXX
 art19_id: 7d725c6b-373d-47f1-a504-10d82e45721f
-
+categories: episodes
+city: Fredericton
+episode: 2
 episode_link_apple: 1000399879846
-episode_link_spotify: 2X4ys1hqFW7GHDTN40IFu0
 episode_link_radiopublic: a2f2630c5a9bfe49b96a47222da096530f699cbc
+episode_link_spotify: 2X4ys1hqFW7GHDTN40IFu0
+guid: gid://art19-episode-locator/V0/ROdbGSOCdj6WuoLXhnhlx1EsLIQ650ZuphUo6CUUAvc
+megaphone_uid: GUR1787881673
+number: 502
+permalink: /episode/502/
+quote: I wish I could French kiss
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Ryan lives the "rock star" life, Julie documents a secret crush, Pat wants a bike, and much more. Recorded live at [Charlotte Street Arts Centre](http://www.charlottestreetarts.ca) in Fredericton.

@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 418
-quote: "Brains are better than boobs"
-city: St. Albert
-permalink: /episode/418/
-simplecast_episode_id: XXXX
 art19_id: 883b32c2-7483-4bb7-8048-7c7c87fd0f9b
+categories: episodes
+city: St. Albert
+episode: 18
+guid: gid://art19-episode-locator/V0/8VNvs7NBIbSednWIWzYcoi--tG3ttaeS_qTb2rbW5q0
+megaphone_uid: GUR1774197602
+number: 418
+permalink: /episode/418/
+quote: Brains are better than boobs
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Maura contemplates puberty, Matt poops his pants, Michelle imagines a family of horses, and much more. Recorded live at The Arden Theatre in St. Albert.

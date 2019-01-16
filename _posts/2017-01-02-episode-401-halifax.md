@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 401
-quote: "God bless Green Day and Danny Williams"
-city: Halifax
-permalink: /episode/401/
-simplecast_episode_id: 55985
 art19_id: fbe59440-ed65-4ac1-a7c0-8cec0be5517d
+categories: episodes
+city: Halifax
+episode: 1
+guid: d9f2c3b3-0326-414c-a525-8a3aa81d32cc
+megaphone_uid: GUR3016904380
+number: 401
+permalink: /episode/401/
+quote: God bless Green Day and Danny Williams
+season: 4
+simplecast_episode_id: 55985
 ---
 
 Emilie gets a visit from the cow inseminator, Toni gets caught drinking, Jennifer writes fan fiction about public transit, and much more. Recorded live at The Company House in Halifax.

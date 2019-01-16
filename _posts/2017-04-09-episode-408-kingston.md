@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 408
-quote: "If you are lucky, you will die"
-city: Kingston
-permalink: /episode/408/
-simplecast_episode_id: XXXX
 art19_id: 6dcecfce-4ae1-4dd5-b2bd-3e2f50046231
+categories: episodes
+city: Kingston
+episode: 8
+guid: gid://art19-episode-locator/V0/DE0WxDc8CAlCS0R4JtE5ajP4LrITWYtL3LX_9Aro7CM
+megaphone_uid: GUR5320792045
+number: 408
+permalink: /episode/408/
+quote: If you are lucky, you will die
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Wendy reflects on the Apollo 11 space mission, Chris writes horoscopes for his elementary school newsletter, Kristy dresses up as a prostitute for Halloween, and much more. Recorded live at [The Mansion](https://mansion.rocks) in Kingston.

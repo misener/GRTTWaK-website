@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 409
-quote: "I'm pretty sure I missed his lips"
-city: Regina
-permalink: /episode/409/
-simplecast_episode_id: XXXX
 art19_id: 7302f4ad-56d4-4ead-84e3-b681a6d73595
+categories: episodes
+city: Regina
+episode: 9
+guid: gid://art19-episode-locator/V0/xtNWDoXWGdy58snR06wJrv-a1bMFhbg11inOBrlUXOs
+megaphone_uid: GUR8301876392
+number: 409
+permalink: /episode/409/
+quote: I'm pretty sure I missed his lips
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Robyn meets a flying whale, Todd tells a cautionary tale about drugs and alcohol, Ashley gets a hug from Rob Thomas of Matchbox 20, and much more. Recorded live at The Artesian in Regina as part of Winterruption 2017.

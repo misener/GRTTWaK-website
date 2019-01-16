@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 520
-quote: "A virginal sex goddess"
-city: St. Albert
-permalink: /episode/520/
-simplecast_episode_id: XXXX
 art19_id: aba87ea8-9ee3-442b-96ee-7e66d1b74a63
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: St. Albert
+episode: 20
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/jx23M7dU1BMHeQ5zEKnu7p6ICLPS5gGAiho_IwuYUgc
+megaphone_uid: GUR6583619494
+number: 520
+permalink: /episode/520/
+quote: A virginal sex goddess
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Taylor lights a canoe on fire, Maura experiences an embarassing gas leak, Vanessa sees Daniel Radcliffe nude, and much more. Recorded live at the Arden Theatre in St. Albert.

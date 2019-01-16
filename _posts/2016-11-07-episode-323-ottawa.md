@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 323
-quote: "Looks old in a hot way"
-city: Ottawa
-permalink: /episode/323/
-simplecast_episode_id: 52413
 art19_id: f5611139-86b2-47a3-afda-54d7b2192ecb
+categories: episodes
+city: Ottawa
+episode: 23
+guid: dc003e69-093e-4f6f-8b5d-f024831c1e38
+megaphone_uid: GUR4675962818
+number: 323
+permalink: /episode/323/
+quote: Looks old in a hot way
+season: 3
+simplecast_episode_id: 52413
 ---
 
 Susan steals vegetables, Glenn goes bumper-hitching, Claire reads an angry letter addressed to math, and much more. Recorded live in [Yuk Yuk](https://www.yukyuks.com/ottawa)'s in Ottawa, ON.

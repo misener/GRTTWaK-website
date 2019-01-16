@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 320
-quote: "Stages of horniness"
-city: Toronto
-permalink: /episode/320/
-simplecast_episode_id: 48461
 art19_id: e6ca60a0-335b-4ef6-9025-2771b7329ed3
+categories: episodes
+city: Toronto
+episode: 20
+guid: d2a97e3c-ff37-46c2-bb9e-d3a774d1409d
+megaphone_uid: GUR8521922321
+number: 320
+permalink: /episode/320/
+quote: Stages of horniness
+season: 3
+simplecast_episode_id: 48461
 ---
 
 Rachel plans a skinny-dipping prank, Josh writes a very formal love note, Dianne mashes up fairy tales, and much more. Recorded live at the Tranzac Club in Toronto.

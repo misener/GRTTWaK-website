@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 501
-quote: "Indolent people with tacky ideas"
-city: Charlottetown
-permalink: /episode/501/
-simplecast_episode_id: XXXX
 art19_id: 9bc0f02d-a4b2-4c47-b7e1-0d09789573e6
-
+categories: episodes
+city: Charlottetown
+episode: 1
 episode_link_apple: 1000398849871
-episode_link_spotify: 4u5S5lbtFbh5Pj61A4xvLg
 episode_link_radiopublic: s1!2699346032951f645455b12650cb1a49913d7a73
+episode_link_spotify: 4u5S5lbtFbh5Pj61A4xvLg
+guid: gid://art19-episode-locator/V0/-fPBqCw0zs009-MHr30SUdDqN52rpyj0m5eSB_v9Wq8
+megaphone_uid: GUR6738068309
+number: 501
+permalink: /episode/501/
+quote: Indolent people with tacky ideas
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Em explains the perils of pornography, Wendy writes long-distance love letters, Chet imagines villainous owls, and much more. Recorded live at the Florence Simmons Performance Hall in Charlottetown.

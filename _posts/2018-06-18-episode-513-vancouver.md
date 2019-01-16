@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 513
-quote: "My purity ring"
-city: Vancouver
-permalink: /episode/513/
-simplecast_episode_id: XXXX
 art19_id: 5e22153d-b64b-400c-9e67-fb886077dbf5
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Vancouver
+episode: 13
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/ZrOk2e804Pci5t0DeIPyi3BppGHeW2UN6WaWllITT-I
+megaphone_uid: GUR2225832590
+number: 513
+permalink: /episode/513/
+quote: My purity ring
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Brittany writes to her future husband, Marlene contemplates going all the way, Luke imagines life as a tugboat, and much more. Recorded live at the York Theatre in Vancouver.

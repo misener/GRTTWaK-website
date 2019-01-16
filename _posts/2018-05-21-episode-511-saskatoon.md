@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 511
-quote: "Arousal ≠ chastity"
-city: Saskatoon
-permalink: /episode/511/
-simplecast_episode_id: XXXX
 art19_id: 0c3020c2-b722-4c40-91fd-3dae6307f671
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Saskatoon
+episode: 11
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/wVSHScmShilSl-CXAw6Ttz0bGz7IWFCFz1cpDWudnhU
+megaphone_uid: GUR6430961913
+number: 511
+permalink: /episode/511/
+quote: Arousal ≠ chastity
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Carmody lusts after Gary Oldman, Hank gets hit in the face, Mackenzie has a wart removed, and much more. Recorded live at The Broadway Theatre in Saskatoon.

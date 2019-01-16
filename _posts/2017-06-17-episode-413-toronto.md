@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 413
-quote: "You are not a beefcake"
-city: Toronto
-permalink: /episode/413/
-simplecast_episode_id: XXXX
 art19_id: f6d80206-cec0-4e54-b806-c6cb5a8d955e
+categories: episodes
+city: Toronto
+episode: 13
+guid: gid://art19-episode-locator/V0/q_e3hk05-HgCmhE3s3cokdmxiqDxX8ODy7Me5jeo4Fk
+megaphone_uid: GUR8542591216
+number: 413
+permalink: /episode/413/
+quote: You are not a beefcake
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Sarah writes a fan letter to Dean Cain, Chandra has a steamy make-out session, Anuj shares a story about the human reproductive system, and much more. Recorded live at the Tranzac in Toronto.

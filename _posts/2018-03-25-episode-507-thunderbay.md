@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 507
-quote: "I wore my hot pants"
-city: Thunder Bay
-permalink: /episode/507/
-simplecast_episode_id: XXXX
 art19_id: f04f2457-1bcb-4cea-b785-a9cd2bb24018
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Thunder Bay
+episode: 7
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/oPuUp-9gcj6YaTrDbjcdpUekXkhnL4KQOoijPvBYEhQ
+megaphone_uid: GUR2309237937
+number: 507
+permalink: /episode/507/
+quote: I wore my hot pants
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Jessica obsesses over Paula Abdul, Emma imagines being Prime Minister, Will shares a sci-fi horror story, and much more. Recorded live at The Finlandia Club in Thunder Bay.

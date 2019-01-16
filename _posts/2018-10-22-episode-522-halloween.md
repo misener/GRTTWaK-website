@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 522
-quote: "Halloween Spooktacular"
-city: 👻🎃🧛
-permalink: /episode/522/
-simplecast_episode_id: XXXX
 art19_id: 3cf236bc-b7c3-4d52-a8a1-adde8cf88006
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: "\U0001F47B\U0001F383\U0001F9DB"
+episode: 22
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/IXrTWKwcWA8VG_Yo1y99OfUTUIKhFHS4fplIfY8tikk
+megaphone_uid: GUR5835504445
+number: 522
+permalink: /episode/522/
+quote: Halloween Spooktacular
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 A very special episode full of spooky, scary, spine-tingling childhood and teenage writing, recorded live across Canada.

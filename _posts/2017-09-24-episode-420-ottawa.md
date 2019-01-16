@@ -1,10 +1,14 @@
 ---
-categories: episodes
-number: 420
-quote: "Thinking about getting stoned"
-city: Ottawa
-permalink: /episode/420/
 art19_id: a6d7403c-221c-4796-96e8-4172e972635e
+categories: episodes
+city: Ottawa
+episode: 20
+guid: gid://art19-episode-locator/V0/Y_LjysMXa4wfhVq7AvrjSlcOURcAXc7pFpvgVZ5YofI
+megaphone_uid: GUR1484290219
+number: 420
+permalink: /episode/420/
+quote: Thinking about getting stoned
+season: 4
 ---
 
 Todd worries that he's sitting next to a corpse, Rose reads poems about unrequited love, Diane wishes upon a star, and much more. Recorded live at Yuk Yuk's in Ottawa.

@@ -1,16 +1,18 @@
 ---
-categories: episodes
-number: 426
-quote: "It touched my feelings like a sledgehammer"
-city: Peterborough
-permalink: /episode/426/
-simplecast_episode_id: XXXX
 art19_id: fe71f1bb-bcc4-49b0-a486-167b89074e3f
-
+categories: episodes
+city: Peterborough
+episode: 26
 episode_link_apple: 1000397642717
-episode_link_spotify: 2SjTfpAG1bRnk3bGgVFvRD
 episode_link_radiopublic: 5834c98b1b374ad0ec2af7fc3b4dc124da2af6e2
-
+episode_link_spotify: 2SjTfpAG1bRnk3bGgVFvRD
+guid: gid://art19-episode-locator/V0/Xz2XBs_57qTpeSbohAw2TXeU4GJRn4YK5NGo-HMp-oQ
+megaphone_uid: GUR9932221204
+number: 426
+permalink: /episode/426/
+quote: It touched my feelings like a sledgehammer
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 James writes a letter to Prime Minister Joe Clark, Mélanie crushes over MSN, Lisa predicts the future, and much more. Recorded live at Market Hall Performing Arts Centre in Peterborough.

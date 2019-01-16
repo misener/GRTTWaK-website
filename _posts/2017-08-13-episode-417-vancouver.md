@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 417
-quote: "Kiss virgin"
-city: Vancouver
-permalink: /episode/417/
-simplecast_episode_id: XXXX
 art19_id: bb7f5d1b-fcbe-4311-9a2e-aaec2fed5bc0
+categories: episodes
+city: Vancouver
+episode: 17
+guid: gid://art19-episode-locator/V0/UfICL_B1lC59hVTUeIXdpLyP-NT-zztD83oz1PFxnIE
+megaphone_uid: GUR2932820973
+number: 417
+permalink: /episode/417/
+quote: Kiss virgin
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Ivy puts a flashlight in her mouth, Alex shares a jealous teen love letter, Jasmin kisses a boy in Stanley Park, and much more. Recorded live at the Rio Theatre in Vancouver.

@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 519
-quote: "P.S. I only love you for your money"
-city: St. Albert
-permalink: /episode/519/
-simplecast_episode_id: XXXX
 art19_id: 75774665-9b4e-40ea-bee9-f1174f307c3a
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: St. Albert
+episode: 19
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/MympJMNy0MN-00sSHvkXdZx6HH2aWjY_CdB9TyAx5To
+megaphone_uid: GUR6153889238
+number: 519
+permalink: /episode/519/
+quote: P.S. I only love you for your money
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Trisha writes an "ode to Steve," Kate compares sex to pizza, Jennifer argues about her phone curfew, and much more. Recorded live at  in St. Albert.

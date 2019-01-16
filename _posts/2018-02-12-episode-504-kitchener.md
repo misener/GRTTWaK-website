@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 504
-quote: "My mom's heart"
-city: Kitchener
-permalink: /episode/504/
-simplecast_episode_id: XXXX
 art19_id: 179d1e56-afa6-43b0-a942-fc44c516305c
-
+categories: episodes
+city: Kitchener
+episode: 4
 episode_link_apple: 1000402055408
+episode_link_radiopublic: null
 episode_link_spotify: 36TiqSYGCXvkniU0mszPc6
-episode_link_radiopublic: 
+guid: gid://art19-episode-locator/V0/1WkcqT6zSx_LD2PXD_fjYISL2izzxz1YXlt-Yx4_WIw
+megaphone_uid: GUR6427596534
+number: 504
+permalink: /episode/504/
+quote: My mom's heart
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Jessica describes the perfect guy, Moody reads a love poem, Meredith explains important rules for witches, and much more. Recorded live at The Walper Hotel in Kitchener.

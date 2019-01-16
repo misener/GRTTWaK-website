@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 319
-quote: "The first time I'd seen a real one."
-city: Yellowknife
-permalink: /episode/319/
-simplecast_episode_id: 46693
 art19_id: df76193b-7041-416d-94f6-20b60d8a150a
+categories: episodes
+city: Yellowknife
+episode: 19
+guid: 1a080db8-97b1-4512-833d-11962f7bb351
+megaphone_uid: GUR3930405533
+number: 319
+permalink: /episode/319/
+quote: The first time I'd seen a real one.
+season: 3
+simplecast_episode_id: 46693
 ---
 
 Maureen contemplates losing her virginity, Rajiv writes a lullabye about the Iran-Contra affair, Kimberley shares a steamy shower scene, and much more. Recorded live at the Black Knight Pub in Yellowknife, NWT.

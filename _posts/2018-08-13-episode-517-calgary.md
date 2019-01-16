@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 517
-quote: "Dear Michael Jackson"
-city: Calgary
-permalink: /episode/517/
-simplecast_episode_id: XXXX
 art19_id: f5cca3a6-ad84-40be-a300-d592e6cb15ec
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Calgary
+episode: 17
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/fxy8trTwnI7ru2Xk_0NGBBHljj3cWFiecVT77-WWnmQ
+megaphone_uid: GUR2212314679
+number: 517
+permalink: /episode/517/
+quote: Dear Michael Jackson
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Inez gets her first boyfriend, Wade writes California Raisins fan fiction, Jessica shares passive aggressive poetry, and much more. Recorded live at the Leacock Theatre at Mount Royal University in Calgary.

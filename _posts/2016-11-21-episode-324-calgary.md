@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 324
-quote: "I love you more than chicken hearts"
-city: Calgary
-permalink: /episode/324/
-simplecast_episode_id: 53374
 art19_id: 14571b82-e7ee-4465-9f2b-a398b02fda22
+categories: episodes
+city: Calgary
+episode: 24
+guid: 9e6ea1cf-ea4f-4e5b-a61e-359a8ac02115
+megaphone_uid: GUR4993630535
+number: 324
+permalink: /episode/324/
+quote: I love you more than chicken hearts
+season: 3
+simplecast_episode_id: 53374
 ---
 
 Song pulls a telemarketing prank, Rebecca obsesses over Justin Timberlake, Melanie makes a "special friend" at camp, and much more. Recorded live in Calgary, AB.

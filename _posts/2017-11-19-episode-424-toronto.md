@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 424
-quote: "You can't moose hunt for a living"
-city: Toronto
-permalink: /episode/424/
-simplecast_episode_id: XXXX
 art19_id: d05cc30a-99e9-4f1a-9bee-133674889812
-
+categories: episodes
+city: Toronto
+episode: 24
 episode_link_apple: 1000395032429
-episode_link_spotify: 3Dbjd3VoHbAYltvUUcUWtp
 episode_link_radiopublic: 06d6557fb2ff4cc0565b27fbe0da256259653a71
+episode_link_spotify: 3Dbjd3VoHbAYltvUUcUWtp
+guid: gid://art19-episode-locator/V0/hJ_ZOZA2IGVtqPytW70K4TLo7en0coMCh1Kr4H3Ni1M
+megaphone_uid: GUR8352911364
+number: 424
+permalink: /episode/424/
+quote: You can't moose hunt for a living
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Trevor fights Dracula, Peggy writes for her friend's zine, Ryan is valedictorian for the class of '96, and much more. Recorded live at the Hot Docs Podcast Festival in Toronto.

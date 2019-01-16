@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 402
-quote: "Homemade birth movies"
-city: Ottawa
-permalink: /episode/402/
-simplecast_episode_id: 57613
 art19_id: e01d87e1-0afe-45ad-a00b-dd98337d4f0e
+categories: episodes
+city: Ottawa
+episode: 2
+guid: d140f142-cdce-4b7a-89ae-6de3a9fab01a
+megaphone_uid: GUR7482408970
+number: 402
+permalink: /episode/402/
+quote: Homemade birth movies
+season: 4
+simplecast_episode_id: 57613
 ---
 
 Cassandra explores Wicca, Adam avoids birth movies, Derek writes a food-based love poem, and much more. Recorded live at Yuk Yuk's in Ottawa.

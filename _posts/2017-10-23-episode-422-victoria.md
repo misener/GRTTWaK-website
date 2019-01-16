@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 422
-quote: "Witch with a capital B"
-city: Victoria
-permalink: /episode/422/
-simplecast_episode_id: XXXX
 art19_id: ae7f29f4-86d8-4936-b1dd-4982003924ae
+categories: episodes
+city: Victoria
+episode: 22
+guid: gid://art19-episode-locator/V0/2rfwNySFNWxFbZUnEOFon5j5IT6QcpykePpTNiAxJwg
+megaphone_uid: GUR7519286778
+number: 422
+permalink: /episode/422/
+quote: Witch with a capital B
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Sheila shares a wartime record, Gregory moves to a new city, Elyse compares humans to dinosaurs, and much more. Recorded live at the Victoria Event Centre in Victoria, BC.

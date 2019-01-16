@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 421
-quote: "To bathe or not to bathe?"
-city: St. Albert
-permalink: /episode/421/
-simplecast_episode_id: XXXX
 art19_id: ed9156e3-f121-4b1d-aed9-e9d035c0029b
+categories: episodes
+city: St. Albert
+episode: 21
+guid: gid://art19-episode-locator/V0/TojviSnEaoFh1TZXb0CLECqMTTTKS2oZoR_n2kQifGk
+megaphone_uid: GUR9634546898
+number: 421
+permalink: /episode/421/
+quote: To bathe or not to bathe?
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Jordan is outraged by citrus fruit, Millie explains how to live with a kangaroo, Jeannine writes a poem about hygiene, and much more. Recorded live at The Arden Theatre in St. Albert.

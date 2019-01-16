@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 407
-quote: "Love is like a terrifying blanket"
-city: Toronto
-permalink: /episode/407/
-simplecast_episode_id: XXXX
 art19_id: fc44d6c9-7c87-4b31-83d4-3c0d966bada5
+categories: episodes
+city: Toronto
+episode: 7
+guid: gid://art19-episode-locator/V0/V3s-t3RkXk3o4CqhP3OmX32ScIZjGERqo1gwP6yQg8A
+megaphone_uid: GUR9371519190
+number: 407
+permalink: /episode/407/
+quote: Love is like a terrifying blanket
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Frances writes love letters to a stranger, Tish vists planet Grammar, Matthew buys a discount turkey burger, and much more. Recorded live at the Tranzac in Toronto.

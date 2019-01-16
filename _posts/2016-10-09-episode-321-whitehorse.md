@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 321
-quote: "My yearly love attack"
-city: Whitehorse
-permalink: /episode/321/
-simplecast_episode_id: 49507
 art19_id: 577af196-8e56-41a4-be3b-f9b468c670d0
+categories: episodes
+city: Whitehorse
+episode: 21
+guid: c96872d1-946f-4161-8c91-c279d650607f
+megaphone_uid: GUR7552055409
+number: 321
+permalink: /episode/321/
+quote: My yearly love attack
+season: 3
+simplecast_episode_id: 49507
 ---
 
 George might be a bowling addict, Laurel suggests ways to improve Whitehorse, Andrew takes care of his baby brother, and much more. Recorded live at the [Old Firehall](http://yukonartscentre.com/firehall/) in Whitehorse, Yukon. Co-presented by [BYTE Empowering Youth](https://www.yukonyouth.com).

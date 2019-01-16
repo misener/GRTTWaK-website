@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 505
-quote: "Orange juice douche"
-city: Toronto
-permalink: /episode/505/
-simplecast_episode_id: XXXX
 art19_id: c096f23e-02e3-49bb-a5e3-2200450b9d4f
-
+categories: episodes
+city: Toronto
+episode: 5
 episode_link_apple: 1000403855410
+episode_link_radiopublic: null
 episode_link_spotify: 1DHo935Dsd81JK0mwhqJoX?
-episode_link_radiopublic: 
+guid: gid://art19-episode-locator/V0/K0DR86L2FGSWJqXnFko67uLeOWgcWXxt8462HUdV-LY
+megaphone_uid: GUR6178295918
+number: 505
+permalink: /episode/505/
+quote: Orange juice douche
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Ryan gets in a fight, Adelade describes a very special dog, Fredde reads from his DeadJournal, and much more. Recorded live at the Tranzac Club in Toronto.

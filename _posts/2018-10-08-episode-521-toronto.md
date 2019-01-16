@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 521
-quote: "Mouth-to-mouth contact"
-city: Toronto
-permalink: /episode/521/
-simplecast_episode_id: XXXX
 art19_id: bda0646e-f070-49d0-b596-933ba074eb9f
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Toronto
+episode: 21
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/Lce0zoqHVWQoV7K_xIOgkpCwCuld5Br8vvE60d--76Q
+megaphone_uid: GUR2508409686
+number: 521
+permalink: /episode/521/
+quote: Mouth-to-mouth contact
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Chris has a Star Trek sex dream, Luke gets a haircut, Lauren swears (a lot), and much more. Recorded live at the Royal Cinema in Toronto in partnership with [The Word on the Street Festival](https://thewordonthestreet.ca/toronto/).

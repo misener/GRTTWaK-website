@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 518
-quote: "Grandma slept in her bed naked"
-city: Toronto
-permalink: /episode/518/
-simplecast_episode_id: XXXX
 art19_id: 4fa6e289-f92e-4a0d-b368-a9d9a40fd49b
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Toronto
+episode: 18
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/dGkYFPk4_UCD6zhKjlG31iDtXnsg8t70_DuPhTOn_Fw
+megaphone_uid: GUR1066147072
+number: 518
+permalink: /episode/518/
+quote: Grandma slept in her bed naked
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Leah accepts an Oscar, Dylan starts a horse club, Brian gets a blood test at camp, and much more. Recorded live at the Royal Cinema in Toronto.

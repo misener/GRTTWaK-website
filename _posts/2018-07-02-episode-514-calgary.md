@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 514
-quote: "A handy turn of events"
-city: Calgary
-permalink: /episode/514/
-simplecast_episode_id: XXXX
 art19_id: bed16d09-c85c-4dbb-9e1a-d153a74c4064
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Calgary
+episode: 14
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/ajm8XUgN-OFCgqUj97nZV-s4K0blXx9RNMXdZhLa-iI
+megaphone_uid: GUR1346090037
+number: 514
+permalink: /episode/514/
+quote: A handy turn of events
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Luke writes a breakup letter, Jason curses his romantic rival, Kristina shares a poem about a scab, and much more. Recorded live at the Leacock Theatre at Mount Royal University in Calgary.

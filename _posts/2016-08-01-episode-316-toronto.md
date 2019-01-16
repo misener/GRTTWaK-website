@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 316
-quote: "What's with all these freaking nudists?"
-city: Toronto
-permalink: /episode/316/
-simplecast_episode_id: 43576
 art19_id: f1f613a2-d439-4a26-b596-c7205d8a7a6c
+categories: episodes
+city: Toronto
+episode: 16
+guid: ca69970c-1fe7-4ab2-8849-348df93eea56
+megaphone_uid: GUR7128311746
+number: 316
+permalink: /episode/316/
+quote: What's with all these freaking nudists?
+season: 3
+simplecast_episode_id: 43576
 ---
 
 Nikki fights to end cruelty in nursery rhymes, Brent is different when he's alone, Chris watches late-night erotica on TV, and much more. Recorded live at the [Tranzac](http://www.tranzac.org/) in Toronto, ON

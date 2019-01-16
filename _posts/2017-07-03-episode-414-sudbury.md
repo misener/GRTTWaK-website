@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 414
-quote: "I practically broke my butt"
-city: Sudbury
-permalink: /episode/414/
-simplecast_episode_id: XXXX
 art19_id: 6c56f462-5fc1-4d43-bcd5-e590b08b67bd
+categories: episodes
+city: Sudbury
+episode: 14
+guid: gid://art19-episode-locator/V0/4LedjK25a9l7sps8-0CEldQI2BG2cw4tpPop_yhKwVk
+megaphone_uid: GUR5758933409
+number: 414
+permalink: /episode/414/
+quote: I practically broke my butt
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Kayla mourns the passing of Napster, Matthew visits Death Cliff, Jessica writes love letters set in the future, and much more. Recorded live at Fromagerie Elgin in Sudbury.

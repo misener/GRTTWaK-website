@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 404
-quote: "Space yogurt"
-city: Hamilton
-permalink: /episode/404/
-simplecast_episode_id: 60309
 art19_id: 509fc809-6821-4c14-825f-5cc614750674
+categories: episodes
+city: Hamilton
+episode: 4
+guid: 56a5a77b-c1d3-442d-8175-43a0b15bf6f0
+megaphone_uid: GUR8598805768
+number: 404
+permalink: /episode/404/
+quote: Space yogurt
+season: 4
+simplecast_episode_id: 60309
 ---
 
 Breanne loses her temper, Jody writes a revenge poem, Ryan recaps game shows, and much more. Recorded live in Hamilton, ON.

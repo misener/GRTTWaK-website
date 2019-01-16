@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 415
-quote: "Single and ready to mingle"
-city: Kitchener
-permalink: /episode/415/
-simplecast_episode_id: XXXX
 art19_id: 60715c8e-779a-41f9-aa92-3b6f5b2ea649
+categories: episodes
+city: Kitchener
+episode: 15
+guid: gid://art19-episode-locator/V0/9Mnoa8xwgMMDmnqdLXGmLJ7yW1oJvhxBh15XaEheUps
+megaphone_uid: GUR9600441301
+number: 415
+permalink: /episode/415/
+quote: Single and ready to mingle
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Elizabeth faces a betrayal, Nitica disagrees with the President of India, Nathan searches for loopholes, and much more. Recorded live at the Registry Theatre in Kitchener, ON.

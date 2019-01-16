@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 314
-quote: You stole my electron
-city: Regina
-permalink: /episode/314/
-simplecast_episode_id: 41287
 art19_id: f96a0bcd-5155-4320-9475-8001fbeac791
+categories: episodes
+city: Regina
+episode: 14
+guid: e8bd9424-bd38-47d6-86b2-49fd2884d95d
+megaphone_uid: GUR8966746236
+number: 314
+permalink: /episode/314/
+quote: You stole my electron
+season: 3
+simplecast_episode_id: 41287
 ---
 
 Evan writes a letter to Wayne's World, Sabrina tells a terrifying tale about a murderous English teacher, Kaylee grabs her crush's balls, and much more. Recorded live at the [Artesian](http://www.artesianon13th.ca/) in Regina, SK.

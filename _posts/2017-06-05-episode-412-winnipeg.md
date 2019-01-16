@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 412
-quote: "He went to Uranus"
-city: Winnipeg
-permalink: /episode/412/
-simplecast_episode_id: XXXX
 art19_id: da264791-5cf1-4d69-a065-c5d5cf5663fd
+categories: episodes
+city: Winnipeg
+episode: 12
+guid: gid://art19-episode-locator/V0/1ynAUREbgBSt96OmPMbCaYLPeN_ZRiUV2dCwmqBggAU
+megaphone_uid: GUR1735355483
+number: 412
+permalink: /episode/412/
+quote: He went to Uranus
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Suzie explains why it's good to lie (sometimes), Kameron wishes for a job with good pay, Carly and Lauren visit Planet Oreo, and much more. Recorded live at The Park Theatre in Winnipeg.

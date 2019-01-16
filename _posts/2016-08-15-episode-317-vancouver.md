@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 317
-quote: "My love floats lonely as a feather"
-city: Vancouver
-permalink: /episode/317/
-simplecast_episode_id: 44489
 art19_id: c186157a-f446-4d92-a5a3-efec76a5c166
+categories: episodes
+city: Vancouver
+episode: 17
+guid: 181ffeac-9bed-4855-912f-cfb78d16a880
+megaphone_uid: GUR4714450277
+number: 317
+permalink: /episode/317/
+quote: My love floats lonely as a feather
+season: 3
+simplecast_episode_id: 44489
 ---
 
 Bernadette makes a silent vow, Omar rebels against middle school propaganda, Willow writes an obituary, and much more. Recorded live at the Biltmore Cabaret in Vancouver, BC.

@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 411
-quote: "Joey the Hormone"
-city: Montréal
-permalink: /episode/411/
-simplecast_episode_id: XXXX
 art19_id: dbebf11a-a87e-4cdf-b009-ec377a05f4f9
+categories: episodes
+city: Montréal
+episode: 11
+guid: gid://art19-episode-locator/V0/6jLDiGur4WUkZEGZtv8sivFhAikmMaaFVY46HOQM-Fg
+megaphone_uid: GUR9740900483
+number: 411
+permalink: /episode/411/
+quote: Joey the Hormone
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Kate shaves her armpits, Jeffrey meets a religious blood cell, Mary publicly shames her father, and much more. Recorded live at La Sala Rossa in Montréal.

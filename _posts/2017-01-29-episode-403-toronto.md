@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 403
-quote: "Smiling is an infectious disease"
-city: Toronto
-permalink: /episode/403/
-simplecast_episode_id: 58915
 art19_id: 04e79d7e-578a-4163-aae1-e0d340415abd
+categories: episodes
+city: Toronto
+episode: 3
+guid: e9d9eebb-83ca-4927-a6c3-5863aee2be7a
+megaphone_uid: GUR3200395819
+number: 403
+permalink: /episode/403/
+quote: Smiling is an infectious disease
+season: 4
+simplecast_episode_id: 58915
 ---
 
 Bhoomika gets infected, Benj has a love affair with an inanimate object, Chelsea invents a menstruation detective, and much more. Recorded live in Toronto at the Tranzac club.

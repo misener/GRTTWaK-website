@@ -1,15 +1,18 @@
 ---
-categories: episodes
-number: 512
-quote: "I will burn you with my flaming positivity"
-city: Kingston
-permalink: /episode/512/
-simplecast_episode_id: XXXX
 art19_id: 07d3b6e6-8609-40fe-8195-78dd18d08891
-
-episode_link_apple: 
-episode_link_spotify: 
-episode_link_radiopublic: 
+categories: episodes
+city: Kingston
+episode: 12
+episode_link_apple: null
+episode_link_radiopublic: null
+episode_link_spotify: null
+guid: gid://art19-episode-locator/V0/jIZk9s_rFTQY6AAWqxvl8DVXW2coJLfAvROxQPwuCYk
+megaphone_uid: GUR8830070983
+number: 512
+permalink: /episode/512/
+quote: I will burn you with my flaming positivity
+season: 5
+simplecast_episode_id: XXXX
 ---
 
 Lori writes a fan letter to New Kids on the Block, Simone runs for student government, Aerlie and Jolene share a forbidden friendship, and much more. Recorded live at the Kingston Canadian Film Festival.

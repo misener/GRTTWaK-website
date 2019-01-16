@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 423
-quote: "Naked hugs are the best"
-city: Calgary
-permalink: /episode/423/
-simplecast_episode_id: XXXX
 art19_id: 116c3067-fc76-4650-9dee-2a8bbdd8e56d
+categories: episodes
+city: Calgary
+episode: 23
+guid: gid://art19-episode-locator/V0/EHAycAHXw47ZZNpogXk-UOce-JO1npM2AvSln3RRoKM
+megaphone_uid: GUR6281466141
+number: 423
+permalink: /episode/423/
+quote: Naked hugs are the best
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Anastassia gives naked hugs, Khulud hunts for boys, Helen laments her evil step-grandmother, and much more. Recorded live at Yuk Yuk's in Calgary.

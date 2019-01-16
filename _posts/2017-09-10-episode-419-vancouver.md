@@ -1,11 +1,15 @@
 ---
-categories: episodes
-number: 419
-quote: "Ten things I love about Matt"
-city: Vancouver
-permalink: /episode/419/
-simplecast_episode_id: XXXX
 art19_id: def525cf-ac91-426f-8a39-e6b19311caae
+categories: episodes
+city: Vancouver
+episode: 19
+guid: gid://art19-episode-locator/V0/cdkdk-eOHK-jGE2JKoeqj9oT0iXtL6nEHWbLiyLQcRQ
+megaphone_uid: GUR9345388428
+number: 419
+permalink: /episode/419/
+quote: Ten things I love about Matt
+season: 4
+simplecast_episode_id: XXXX
 ---
 
 Zahida passes out during sex ed, Geoff writes a very Canadian spy story, Mandy gets a crush on the class president, and much more. Recorded live at the Rio Theatre in Vancouver.
