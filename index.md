@@ -30,7 +30,7 @@ title: Home
 
 <!-- <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe> -->
 
-<iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/{{ post.megaphone_uid }}" width="100%"></iframe>
+<iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/{{ post.megaphone_uid }}?sharing=false" width="100%"></iframe>
 
 <!-- <div id="episodes-page-{{ page.number }}"
      class="art19-web-player awp-medium awp-theme-dark-custom"
