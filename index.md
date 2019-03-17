@@ -17,35 +17,40 @@ title: Home
   <!-- Your embedded video player code -->
 
 
+{% comment %}
+  {% for post in site.posts if post.categories contains 'episodes' limit:1 %}
 
-{% for post in site.posts if post.categories contains 'episodes' limit:1 %}
+  <!-- [<img src="/images/episodes/{{ post.number }}.jpg">]({{ post.url }}) -->
 
-<!-- [<img src="/images/episodes/{{ post.number }}.jpg">]({{ post.url }}) -->
-
-<!-- <iframe frameborder="0" height="36px" scrolling="no" src="https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark" width="100%"></iframe>
- -->
+  <!-- <iframe frameborder="0" height="36px" scrolling="no" src="https://simplecast.com/e/{{ post.simplecast_episode_id }}?style=dark" width="100%"></iframe>
+   -->
 
 
-## Latest podcast episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}[{{ post.city }}]({{ post.url }}){% endfor %}
 
-<!-- <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe> -->
+  ## Latest podcast episode: {% for post in site.posts if post.categories contains 'episodes' limit:1 %}[{{ post.city }}]({{ post.url }}){% endfor %}
 
-<iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/{{ post.megaphone_uid }}?sharing=false" width="100%"></iframe>
+  <!-- <iframe src="https://art19.com/shows/grownups-read-things-they-wrote-as-kids/episodes/{{ post.art19_id }}/embed?theme=dark-custom&primary_color=%23f37749" style="width: 100%; height: 200px; border: 0 none;" scrolling="no"></iframe> -->
 
-<!-- <div id="episodes-page-{{ page.number }}"
-     class="art19-web-player awp-medium awp-theme-dark-custom"
-     data-episode-id="{{ post.art19_id }}"
-     data-primary-color="#f37749"
-     data-emit-events="true"
-	 data-bt-series-id="a160bd44-67e2-11e7-b61d-0e6e2408d686"
-	 data-bt-guid={% if post.guid %}"{{ post.guid }}"{% else %}"{{ post.art19_id }}"{% endif %}
-     data-bt-episode-title="{{ post.number }}: &quot;{{ post.quote }}&quot; ({{ post.city }})"
-     data-bt-episode-author="Grownups Read Things They Wrote as Kids"
-     ></div> -->
+  <iframe frameborder="no" height="200" scrolling="no" src="https://player.megaphone.fm/{{ post.megaphone_uid }}?sharing=false" width="100%"></iframe>
 
-{{ post.excerpt}}
+  <!-- <div id="episodes-page-{{ page.number }}"
+       class="art19-web-player awp-medium awp-theme-dark-custom"
+       data-episode-id="{{ post.art19_id }}"
+       data-primary-color="#f37749"
+       data-emit-events="true"
+  	 data-bt-series-id="a160bd44-67e2-11e7-b61d-0e6e2408d686"
+  	 data-bt-guid={% if post.guid %}"{{ post.guid }}"{% else %}"{{ post.art19_id }}"{% endif %}
+       data-bt-episode-title="{{ post.number }}: &quot;{{ post.quote }}&quot; ({{ post.city }})"
+       data-bt-episode-author="Grownups Read Things They Wrote as Kids"
+       ></div> -->
 
-{% endfor %}
+  {{ post.excerpt}}
+  {% endfor %}
+
+{% endcomment %}
+
+
+<iframe frameborder="no" src="https://playlist.megaphone.fm?p=GUR5294085005&sharing=false" width="100%" height="482"></iframe>
 
 Listen in your [favourite podcast app](/podcast/):
 
