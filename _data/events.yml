@@ -2,6 +2,11 @@
 
 upcoming:
 
+
+
+# PAST EVENTS GO BELOW THIS LINE
+
+past:
 - date: 2018-06-03 20:00:00
   showtimes:
   - name: Evening (8:00)
@@ -24,9 +29,6 @@ upcoming:
   venue: {address: 5 St Anne St., city: St. Albert, name: Arden Theatre, province: AB,
     url: 'https://stalbert.ca/exp/arden/'}
 
-# PAST EVENTS GO BELOW THIS LINE
-
-past:
 - date: 2007-02-19 20:00:00
   venue:
     name: The Victory Cafe
