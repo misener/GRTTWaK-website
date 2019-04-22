@@ -8,12 +8,13 @@ simplecast_episode_id: XXXX
 art19_id: XXXX
 megaphone_uid: GUR6843530434
 
-episode_link_apple: 
-episode_link_spotify: 
+episode_link_apple: 1000436051369
+episode_link_spotify: 5zFl5PSMtynRztaErZbQh2
+episode_link_google: M2RiM2VmM2MtMWU5ZC0xMWU5LTkzN2ItMDM0ZDk5ZGNlMjFi
 episode_link_radiopublic: 
 ---
 
-Nisha gets drunk, Danielle falls in love on the bus, nobody eats the fish Jonah caught, and much more. Recorded live at [La Sala Rossa](https://casadelpopolo.com) in Montréal.
+Nisha gets drunk, Danielle falls in love on the bus, nobody eats the fish Jonah caught, and much more. Recorded live at [La Sala Rossa](https://casadelpopolo.com) in Montréal. 
 
 ## Show notes
 * [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=608).
