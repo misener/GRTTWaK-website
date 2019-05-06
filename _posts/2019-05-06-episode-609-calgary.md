@@ -8,8 +8,8 @@ simplecast_episode_id: XXXX
 art19_id: XXX
 megaphone_uid: GUR2284512241
 
-episode_link_apple: 
-episode_link_spotify: 
+episode_link_apple: 1000437314494
+episode_link_spotify: 61smBK8KFgOhwNpUfizG8d
 episode_link_radiopublic: 
 ---
 
