@@ -3,6 +3,11 @@ layout: page
 title: Press Materials
 ---
 
+## Blurb
+
+Travel back in time to remember the good, bad, and awkward parts of growing up. <em>Grownups Read Things They Wrote as Kids</em> is a live, open-mic storytelling event where courageous adults share their childhood and teenage writing on stage. Embarassing diary entries, angsty teenage poetry, bizarre short stories, letters from camp, and much more. Sign up in advance to read your own kid writing, or join the audience to be part of the fun.
+
+
 ## Audio
 
 A few of our favourite readings, in MP3 format:
