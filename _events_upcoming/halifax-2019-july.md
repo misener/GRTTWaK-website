@@ -8,3 +8,7 @@ tito_event: grttwak/halifax-2019-july
 venue: {address: 1685 Argyle Street, city: Halifax, name: The Carleton, province: NS,
   url: 'http://www.thecarleton.ca/'}
 ---
+
+For preferred seating, we recommend dinner reservations, which you can make [directly with The Carleton online here](https://www.thecarleton.ca/reservations/).
+
+Minors accompanied by parents or legal guardians are allowed in the room until 9 PM. The event will run until ~10:15 PM, so it's effectively 19+.
