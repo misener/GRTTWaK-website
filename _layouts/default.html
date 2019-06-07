@@ -15,20 +15,5 @@
     <div class="content container">
       {{ content }}
     </div>
-
-    <!-- PodSights -->
-    <script>
-      (function(w, d){
-       var id='pdst-capture', n = 'script';
-       if (!d.getElementById(id)){
-         w.pdst = w.pdst || function() {(w.pdst.q = w.pdst.q || []).push(arguments);};
-         var e = d.createElement(n); e.id = id; e.async=1;
-         e.src = 'https://cdn.pdst.fm/ping.min.js';
-         var s = d.getElementsByTagName(n)[0];
-         s.parentNode.insertBefore(e, s);
-       }
-       w.pdst('configure', { key: '3cb00aec78894a7daf9dec9b87987d60' })
-      })(window, document);
-    </script>
   </body>
 </html>
