@@ -6,6 +6,8 @@ permalink: /contact/
 
 *Grownups Read Things They Wrote as Kids* is organized by real live human beings named [Dan](http://misener.org) and [Jenna](https://twitter.com/zuschlag). If you have a question about the show, [email Dan](mailto:dan@grownupsreadthingstheywroteaskids.com).
 
+*Please* check our [Frequently Asked Questions](/faq/) page before sending an email. Thanks!
+
 We're also on:
 
 <ul class="fa-ul">

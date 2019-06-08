@@ -19,6 +19,7 @@ Embarrassing, moving, and hilarious, these readings are powerful reminders of wh
 
 * About the live events
 	* [Where did the idea come from?](#origins)
+	* [When is your next event in [insert city here]?](#nextevent)
 	* [What’s the deal with other, similar events?](#ripoff)
 	* [Can I organize my own GRTTWaK-style event?](#DIY)
 	* [Is GRTTWaK kid-friendly?](#kidfriendly)
@@ -52,6 +53,10 @@ Going through those boxes, we discovered Jenna’s early teenage diary, written 
 We figured that lots of other people probably had their childhood and teenage writing kicking around somewhere — in their parents’ basements, in boxes in the closet, in storage lockers…
 
 So I asked my mom to send me some of my childhood schoolwork. Then we booked a night upstairs at the Victory Cafe in Toronto, invited some friends, and crossed our fingers. People showed up. We had some drinks. We laughed. And we’ve been doing live shows ever since.
+
+<h2 id="nextevent">When is your next event in [insert city here]?</h2>
+
+Great question. If it isn't listed on our [Live Events](/events/) page, we haven't announced one yet.  The *first* place we announce new live shows is our [email newsletter](/newsletter/), which you're welcome to join.
 
 <h2 id="podcastvslive">What’s the story with the podcast and radio show?</h2>
 
