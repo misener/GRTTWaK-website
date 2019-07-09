@@ -5,6 +5,6 @@ showtimes:
   releases: {general_admission: lsxqb-kseje, reader: qqn8iwn-ypw}
 title: Moncton
 tito_event: grttwak/moncton-2019-july
-venue: {address: 700 Main Street, city: Moncton, name: Tide & Boar Ballroom, province: NB,
+venue: {address: 700 Main Street, city: Moncton, name: The Caveau Room (entrance in back of 700 Main Street), province: NB,
   url: 'http://www.tideandboar.com/'}
 ---
