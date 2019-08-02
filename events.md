@@ -47,7 +47,7 @@ redirect_from:
 
 {% assign upcoming = site.events_upcoming | sort: "show_date" %}
 
-{% if upcoming %}
+{% if upcoming.size > 0 %}
 
 # Upcoming events
 
@@ -66,18 +66,28 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 
 {% endif %}
 
-
 # Ticketing questions?
 
 We’ve tried to make GRTTWaK tickets as simple and straightforward as possible. Here are some [frequently asked questions](/faq/) about tickets (including answers). If you have a question that’s not answered here, [get in touch](/contact/).
 
-{% assign past = site.data.events.past | sort: "date" | reverse %}
+# Past Events
+
+{% assign past = site.events_past | sort: "show_date" | reverse %}
+
+
+| Date          | City          | Venue  |
+| ------------- |:-------------:| :-----:| :-----------------------------------------------:|
+{% for event in past %}{{ event.show_date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} |
+{% endfor %}
+
 
 # Past events
 
+{% assign old_past = site.data.events.past | sort: "date" | reverse %}
+
 | Date          | City          | Venue  |
 | ------------- |:-------------:| :-----:|
-{% for event in past %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} |
+{% for event in old_past %}{{ event.date | date: "%B %-d, %Y" }} | {{ event.venue.city }} | {{ event.venue.name }} |
 {% endfor %}
 
 
