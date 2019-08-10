@@ -65,7 +65,6 @@ Listen in your [favourite podcast app](/podcast/):
 
 ## Live Events 
 
-
 {% assign upcoming = site.events_upcoming | sort: "show_date" %}
 
 {% if upcoming.size > 0 %}
