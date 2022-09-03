@@ -1,6 +1,6 @@
 ---
 
-event_date: 2018-02-05 00:00:00
+show_date: 2018-02-05 00:00:00
 showtimes:
 - name: Evening (8:00)
   releases: {general_admission: rzl84qv8ui0, reader: l3slxucn9gc}

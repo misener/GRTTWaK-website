@@ -15,7 +15,7 @@ season: 5
 simplecast_episode_id: XXXX
 ---
 
-Ryan gets in a fight, Adelade describes a very special dog, Fredde reads from his DeadJournal, and much more. Recorded live at the Tranzac Club in Toronto.
+Ryan gets in a fight, Adelade describes a very special dog, Freddie reads from his DeadJournal, and much more. Recorded live at the Tranzac Club in Toronto.
 
 ## Show notes
 * [Support GRTTWaK. Become a patron](https://grownupsreadthingstheywroteaskids.com/support/?utm_source=podcast&utm_medium=referral&utm_campaign=505).

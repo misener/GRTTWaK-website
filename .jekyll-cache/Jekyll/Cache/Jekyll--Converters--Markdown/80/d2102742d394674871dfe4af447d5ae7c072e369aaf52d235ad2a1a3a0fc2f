@@ -1,0 +1,25 @@
+I"ã<p><!-- Load Facebook SDK for JavaScript --></p>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
+<p><!-- Your embedded video player code --></p>
+
+<iframe frameborder="no" src="https://playlist.megaphone.fm?p=GUR5294085005&amp;sharing=false" width="100%" height="482"></iframe>
+
+<p>Listen in your <a href="/podcast/">favourite podcast app</a>:</p>
+
+<p><a href="https://podcasts.apple.com/podcast/id890900960?mt=2&amp;at=10lR7u&amp;ct=website_front_page_badge"><img src="//linkmaker.itunes.apple.com/assets/shared/badges/en-us/podcast-lrg.svg" style="display:inline" height="55px" /></a> <!-- <a href="https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmdyb3dudXBzcmVhZHRoaW5nc3RoZXl3cm90ZWFza2lkcy5jb20vcG9kY2FzdA"><img src="/images/google_podcasts.png" style="display:inline" height="55px"></a> --> <a href="https://open.spotify.com/show/0tKu6eD6VDfxboZoWd0j6H"><img src="/images/spotify-podcast-badge-blk-grn-330x80.svg" height="55px" style="display:inline" /></a>  <a href="https://pca.st/grttwak"><img src="https://static2.pocketcasts.com/assets/subscribe/pocketcasts_medium_dark@2x.png" style="display:inline" height="55px" /></a> <!--<a href="https://play.radiopublic.com/2f14f380-2584-47a6-acac-d937f60121fd?utm_source=GRTTWaK&utm_medium=grttwak-website&utm_campaign=grttwak-frontpage"><img src="/images/radiopublic_badge.png" height="59px" style="display:inline"></a>--> <!-- <a href="https://www.podbean.com/podcast-detail/e5yin-338c7/"><img style="display:inline" height="59px" src="//d8g345wuhgd7e.cloudfront.net/site/images/badges/w600.png"></a> --></p>
+
+<h2 id="live-events">Live Events</h2>
+
+<p>No upcoming events scheduled, but stay tuned. If youâ€™d like a heads-up about upcoming shows, <a href="https://grownupsreadthingstheywroteaskids.com/newsletter/">join the email newsletter</a>:</p>
+
+<iframe src="https://grttwak.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+
+:ET

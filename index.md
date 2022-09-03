@@ -79,10 +79,13 @@ No upcoming events scheduled, but stay tuned. If you'd like a heads-up about upc
 
 {% endif %}
 
+{% comment %}
 ## Video
 We post new reader videos **every weekday** on [Facebook](https://www.facebook.com/pg/grownupsreadthingstheywroteaskids/videos/).
 
 <div class="fb-video" data-href="https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154847272218600/" data-width="auto" data-show-text="false"><blockquote cite="https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154847272218600/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/grownupsreadthingstheywroteaskids/videos/10154847272218600/">&quot;I&#039;m pretty sure I missed his lips&quot;</a><p>When Jeanna was 12, she had her first kiss with a boy named Tyler. She may have missed his lips.</p>Posted by <a href="https://www.facebook.com/grownupsreadthingstheywroteaskids/">Grownups Read Things They Wrote as Kids</a> on Monday, April 24, 2017</blockquote></div>
+{% endcomment %}
+
 
 {% comment %}
 ## About

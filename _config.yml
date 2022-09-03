@@ -54,3 +54,7 @@ collections:
     output: true
     permalink: /event/:slug/
     name: "Upcoming Events"
+
+  events_past:
+    output: false
+    name: "Past Events"
